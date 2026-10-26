@@ -397,6 +397,20 @@
 .eq-preamp i::before{top:60%}
 
 .winamp-playlist{padding:0 5px 5px;background:#090b12}
+.winamp-playlist .audio-scope{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  margin:5px 0 0;
+  padding:5px 6px;
+  color:#aab1c5;
+  background:#20263a;
+  border:1px inset #6f7893;
+  font-family:Arial,Helvetica,sans-serif;
+  font-size:7px;
+  font-weight:800;
+}
+.winamp-playlist .audio-scope strong{color:var(--wa-green);font-family:"Courier New",monospace;font-weight:700}
 .winamp-playlist .audio-filters{margin:5px 0;padding:3px;background:#20263a;border:1px inset #6f7893;border-radius:0}
 .winamp-playlist .audio-filters button{padding:5px 2px;color:#aab1c5;border-radius:0;font-size:7px}
 .winamp-playlist .audio-filters button.is-active{color:#121622;background:linear-gradient(#d9dce7,#8991a8);box-shadow:none}

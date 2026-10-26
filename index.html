@@ -8,7 +8,7 @@
     <meta name="description" content="Видео и аудиозаписи live4.dev. Смотрите записи, слушайте аудиоплейлист и возвращайтесь к важному.">
     <title>records — видео и аудио live4.dev</title>
     <link rel="stylesheet" href="./assets/styles.css?v=20261026-4">
-    <script src="./assets/app.js?v=20261026-2" defer></script>
+    <script src="./assets/app.js?v=20261026-3" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#catalog">Перейти к видео</a>
@@ -91,7 +91,7 @@
         </div>
         <section class="winamp-playlist" aria-label="Плейлист Winamp">
           <div class="winamp-module-titlebar"><span>WINAMP PLAYLIST</span><span class="winamp-window-buttons" aria-hidden="true"><i></i><i></i></span></div>
-          <div class="audio-filters" role="group" aria-label="Источник аудио"><button type="button" data-audio-filter="all" class="is-active" aria-pressed="true">Все</button><button type="button" data-audio-filter="original" aria-pressed="false">Аудиозаписи</button><button type="button" data-audio-filter="extracted" aria-pressed="false">Из видео</button></div>
+          <div class="audio-scope" aria-label="В плейлисте только аудиозаписи длиннее одной минуты"><span>AUDIO ONLY</span><strong>&gt; 01:00</strong></div>
           <div class="queue-heading"><span><svg aria-hidden="true"><use href="#i-list"/></svg>Очередь воспроизведения</span><span id="queue-count"></span></div>
           <ol class="audio-queue" id="audio-queue" aria-label="Аудиозаписи"></ol>
           <p class="audio-empty" id="audio-empty">Загружаем аудиозаписи…</p>

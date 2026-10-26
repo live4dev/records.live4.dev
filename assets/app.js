@@ -1,7 +1,8 @@
 "use strict";
 
 const DATA_URL = "./data/records.json";
-const state = { items: [], query: "", tag: "", sort: "newest", audioFilter: "all", videoId: null, audioId: null, loading: true, error: false };
+const MIN_PLAYLIST_AUDIO_SECONDS = 60;
+const state = { items: [], query: "", tag: "", sort: "newest", videoId: null, audioId: null, loading: true, error: false };
 const $ = (selector) => document.querySelector(selector);
 const ui = {
   grid: $("#records-grid"), search: $("#search"), sort: $("#sort"), tags: $("#tag-filters"), empty: $("#empty-state"),
@@ -103,16 +104,19 @@ function sorted(items) {
 }
 
 function videos() { return sorted(state.items.filter((item) => item.kind === "video" && matches(item))); }
+function isPlaylistAudio(item) {
+  return item.kind === "audio" && item.audioOrigin === "original" && item.duration > MIN_PLAYLIST_AUDIO_SECONDS;
+}
 function audios() {
-  return sorted(state.items.filter((item) => item.kind === "audio" && matches(item) && (state.audioFilter === "all" || item.audioOrigin === state.audioFilter)))
+  return sorted(state.items.filter((item) => isPlaylistAudio(item) && matches(item)))
     .sort((a, b) => Number(Boolean(b.file)) - Number(Boolean(a.file)));
 }
 function audioQueue() {
   const visible = audios().filter((item) => item.file);
   if (!state.audioId || visible.some((item) => item.id === state.audioId)) return visible;
-  return sorted(state.items.filter((item) => item.kind === "audio" && item.file));
+  return sorted(state.items.filter((item) => isPlaylistAudio(item) && item.file));
 }
-function currentAudio() { return state.items.find((item) => item.kind === "audio" && item.id === state.audioId); }
+function currentAudio() { return state.items.find((item) => isPlaylistAudio(item) && item.id === state.audioId); }
 
 function tagChip(tag, active = false) {
   const chip = element("button", `topic-chip${active ? " is-active" : ""}`, tag ? `#${tag}` : "Все темы");
@@ -127,7 +131,8 @@ function tagChip(tag, active = false) {
 
 function renderTags() {
   const tagCounts = new Map();
-  state.items.forEach((item) => item.tags.forEach((tag) => tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1)));
+  state.items.filter((item) => item.kind === "video" || isPlaylistAudio(item))
+    .forEach((item) => item.tags.forEach((tag) => tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1)));
   const tags = [...tagCounts].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ru")).map(([tag]) => tag);
   ui.tags.replaceChildren(tagChip("", !state.tag), ...tags.map((tag) => tagChip(tag, state.tag === tag)));
   const video = state.items.find((item) => item.id === state.videoId);
@@ -245,7 +250,7 @@ function renderAudioQueue() {
     return row;
   }));
   ui.audioEmpty.hidden = items.length > 0;
-  ui.audioEmpty.textContent = state.loading ? "Загружаем аудиозаписи…" : state.error ? "Аудиоплейлист пока недоступен." : state.query.trim() || state.tag || state.audioFilter !== "all" ? "Нет аудио с такими условиями. Измените поиск или фильтр." : "Плейлист пока пуст. Аудиозаписи появятся здесь вместе со звуком из видео.";
+  ui.audioEmpty.textContent = state.loading ? "Загружаем аудиозаписи…" : state.error ? "Аудиоплейлист пока недоступен." : state.query.trim() || state.tag ? "Нет аудиозаписей длиннее минуты с такими условиями." : "В плейлисте пока нет аудиозаписей длиннее минуты.";
   updateAudioControls();
   if (focusedTrack) [...ui.queue.querySelectorAll(".queue-button")].find((button) => button.dataset.trackId === focusedTrack)?.focus({ preventScroll: true });
 }
@@ -300,7 +305,7 @@ function playAudio() {
 }
 
 function selectAudio(item, play = false) {
-  if (!item.file) return;
+  if (!item.file || !isPlaylistAudio(item)) return;
   ui.audio.pause(); state.audioId = item.id; ui.video.pause();
   if (loadedAudioFile !== item.file) { ui.audio.src = item.file; ui.audio.load(); loadedAudioFile = item.file; }
   ui.audio.hidden = false;
@@ -340,8 +345,6 @@ function stopAudio() {
   updateAudioControls();
 }
 
-function extractedAudio(video) { return state.items.find((item) => item.kind === "audio" && item.file && item.sourceVideoId === video.id) || state.items.find((item) => item.kind === "audio" && video.audioFile && item.file === video.audioFile); }
-
 function renderWatch(item, autoplay = false) {
   const changed = state.videoId !== item.id;
   state.videoId = item.id;
@@ -368,13 +371,10 @@ function renderWatch(item, autoplay = false) {
     $("#watch-download").hidden = !item.file;
     if (item.file) $("#watch-download").href = item.file;
     else $("#watch-download").removeAttribute("href");
-    const audioTrack = extractedAudio(item);
-    const audioFile = audioTrack ? audioTrack.file : item.audioFile;
-    $("#listen-video").hidden = !audioTrack;
-    $("#listen-video").onclick = audioTrack ? () => selectAudio(audioTrack, true) : null;
-    $("#watch-audio-download").hidden = !audioFile;
-    if (audioFile) $("#watch-audio-download").href = audioFile;
-    else $("#watch-audio-download").removeAttribute("href");
+    $("#listen-video").hidden = true;
+    $("#listen-video").onclick = null;
+    $("#watch-audio-download").hidden = true;
+    $("#watch-audio-download").removeAttribute("href");
     $("#video-message").hidden = true;
   }
   if (autoplay && item.file) {
@@ -441,11 +441,6 @@ $("#close-watch").addEventListener("click", () => {
   else { history.replaceState(null, "", window.location.pathname + window.location.search); hideWatch(); }
   if (watchTrigger && watchTrigger.isConnected) watchTrigger.focus({ preventScroll: true });
 });
-document.querySelectorAll("[data-audio-filter]").forEach((button) => button.addEventListener("click", () => {
-  state.audioFilter = button.dataset.audioFilter;
-  document.querySelectorAll("[data-audio-filter]").forEach((candidate) => { const active = candidate === button; candidate.classList.toggle("is-active", active); candidate.setAttribute("aria-pressed", String(active)); });
-  renderAudioQueue();
-}));
 ui.audioToggle.addEventListener("click", toggleAudio); ui.mobileToggle.addEventListener("click", toggleAudio);
 ui.audioPrev.addEventListener("click", () => moveAudio(-1)); ui.audioNext.addEventListener("click", () => moveAudio(1));
 ui.audioStop.addEventListener("click", stopAudio);
