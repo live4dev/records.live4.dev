@@ -7,7 +7,7 @@
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; media-src 'self'; style-src 'self'; script-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'">
     <meta name="description" content="Видео и аудиозаписи live4.dev. Смотрите записи, слушайте аудиоплейлист и возвращайтесь к важному.">
     <title>records — видео и аудио live4.dev</title>
-    <link rel="stylesheet" href="./assets/styles.css?v=20261026-1">
+    <link rel="stylesheet" href="./assets/styles.css?v=20261026-2">
     <script src="./assets/app.js?v=20261026-1" defer></script>
   </head>
   <body>
@@ -48,6 +48,8 @@
       </div>
       <aside class="audio-column" id="audio-playlist" aria-labelledby="audio-title"><div class="audio-panel">
         <div class="audio-heading"><div class="audio-heading-icon"><svg aria-hidden="true"><use href="#i-audio"/></svg></div><div><p class="eyebrow">Можно просто слушать</p><h2 id="audio-title">Аудиоплейлист</h2></div><span id="audio-count" class="count-badge">—</span></div>
+        <div class="winamp-stack">
+        <div class="winamp-left-deck">
         <div class="now-playing winamp-player" id="now-playing">
           <div class="winamp-titlebar"><span class="winamp-title-led" aria-hidden="true"></span><span>records player</span><span class="winamp-window-buttons" aria-hidden="true"><i></i><i></i></span></div>
           <div class="winamp-display">
@@ -71,7 +73,32 @@
           <label class="winamp-volume"><span>VOL</span><input id="audio-volume" type="range" min="0" max="1" value="0.8" step="0.01"></label>
           <p class="audio-message" id="audio-message" role="status" hidden></p>
         </div>
-        <div class="audio-filters" role="group" aria-label="Источник аудио"><button type="button" data-audio-filter="all" class="is-active" aria-pressed="true">Все</button><button type="button" data-audio-filter="original" aria-pressed="false">Аудиозаписи</button><button type="button" data-audio-filter="extracted" aria-pressed="false">Из видео</button></div><div class="queue-heading"><span><svg aria-hidden="true"><use href="#i-list"/></svg>Очередь воспроизведения</span><span id="queue-count"></span></div><ol class="audio-queue" id="audio-queue" aria-label="Аудиозаписи"></ol><p class="audio-empty" id="audio-empty">Загружаем аудиозаписи…</p>
+        <section class="winamp-equalizer" aria-label="Декоративный эквалайзер">
+          <div class="winamp-module-titlebar"><span>WINAMP EQUALIZER</span><span class="winamp-window-buttons" aria-hidden="true"><i></i><i></i></span></div>
+          <div class="winamp-eq-toolbar" aria-hidden="true"><span>ON</span><span>AUTO</span><strong>PRESETS</strong></div>
+          <div class="winamp-eq-bands" aria-hidden="true">
+            <span class="eq-band eq-preamp"><i></i><small>PREAMP</small></span>
+            <span class="eq-band"><i></i><small>70</small></span>
+            <span class="eq-band"><i></i><small>180</small></span>
+            <span class="eq-band"><i></i><small>320</small></span>
+            <span class="eq-band"><i></i><small>600</small></span>
+            <span class="eq-band"><i></i><small>1K</small></span>
+            <span class="eq-band"><i></i><small>3K</small></span>
+            <span class="eq-band"><i></i><small>6K</small></span>
+            <span class="eq-band"><i></i><small>12K</small></span>
+            <span class="eq-band"><i></i><small>16K</small></span>
+          </div>
+        </section>
+        </div>
+        <section class="winamp-playlist" aria-label="Плейлист Winamp">
+          <div class="winamp-module-titlebar"><span>WINAMP PLAYLIST</span><span class="winamp-window-buttons" aria-hidden="true"><i></i><i></i></span></div>
+          <div class="audio-filters" role="group" aria-label="Источник аудио"><button type="button" data-audio-filter="all" class="is-active" aria-pressed="true">Все</button><button type="button" data-audio-filter="original" aria-pressed="false">Аудиозаписи</button><button type="button" data-audio-filter="extracted" aria-pressed="false">Из видео</button></div>
+          <div class="queue-heading"><span><svg aria-hidden="true"><use href="#i-list"/></svg>Очередь воспроизведения</span><span id="queue-count"></span></div>
+          <ol class="audio-queue" id="audio-queue" aria-label="Аудиозаписи"></ol>
+          <p class="audio-empty" id="audio-empty">Загружаем аудиозаписи…</p>
+          <div class="winamp-playlist-footer" aria-hidden="true"><span>ADD</span><span>REM</span><span>SEL</span><span>MISC</span><strong>LIVE4.DEV</strong></div>
+        </section>
+        </div>
         <details class="audio-details" id="audio-details" hidden><summary>О записи <span>Описание и файлы</span></summary><p class="original-caption" id="audio-caption"></p><div class="audio-detail-tags" id="audio-detail-tags"></div><div class="description-links"><a id="audio-source" target="_blank" rel="noopener noreferrer">Telegram <svg aria-hidden="true"><use href="#i-arrow"/></svg></a><a id="audio-download" download><svg aria-hidden="true"><use href="#i-download"/></svg>Скачать</a></div></details><div class="audio-note"><span class="coral-dot"></span>Аудиозаписи и звук из видео — вместе.</div>
       </div></aside>
     </main>

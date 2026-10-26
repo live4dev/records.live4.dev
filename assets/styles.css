@@ -289,3 +289,143 @@
   .winamp-display{grid-template-columns:62px 52px minmax(0,1fr)}
   .winamp-track-screen h3{font-size:11px}
 }
+
+/* Winamp reference pass: three docked windows */
+.winamp-stack{
+  --wa-navy:#171b2d;
+  --wa-steel:#444d6a;
+  --wa-edge:#858da8;
+  --wa-lcd:#020503;
+  --wa-green:#00f45a;
+  --wa-green-dim:#078b3b;
+  --wa-yellow:#ffdb3f;
+  display:flex;
+  flex-direction:column;
+  gap:3px;
+  font-family:Arial,Helvetica,sans-serif;
+  filter:drop-shadow(0 10px 16px rgba(24,25,32,.24));
+}
+.winamp-left-deck{display:flex;flex-direction:column;gap:3px}
+.winamp-stack .winamp-player,
+.winamp-equalizer,
+.winamp-playlist{
+  color:#eef1fa;
+  background:linear-gradient(135deg,#252a42 0%,#161a2c 48%,#343b58 100%);
+  border:2px ridge var(--wa-edge);
+  border-radius:0;
+  box-shadow:inset 1px 1px #9ea5bd,inset -1px -1px #080a12;
+}
+.winamp-stack .winamp-player{padding:0 7px 8px;box-shadow:inset 1px 1px #9ea5bd,inset -1px -1px #080a12}
+.winamp-stack .winamp-titlebar,
+.winamp-module-titlebar{
+  display:flex;
+  align-items:center;
+  gap:6px;
+  height:20px;
+  color:#f7f8ff;
+  background:
+    repeating-linear-gradient(0deg,rgba(255,255,255,.13) 0 1px,transparent 1px 3px),
+    linear-gradient(90deg,#3d4667,#171c32 42%,#4b5575);
+  border-bottom:1px solid #070912;
+  font-size:8px;
+  font-weight:800;
+  letter-spacing:.55px;
+  text-align:center;
+  text-shadow:1px 1px #080a12;
+}
+.winamp-stack .winamp-titlebar{height:20px;margin:0 -5px 5px;padding:0 5px}
+.winamp-module-titlebar{justify-content:center;padding:0 4px}
+.winamp-module-titlebar>span:first-child{margin-left:auto}
+.winamp-stack .winamp-window-buttons{margin-left:auto}
+.winamp-stack .winamp-window-buttons i{width:9px;height:8px;background:#6d7694;border:1px outset #b4bad0}
+.winamp-stack .winamp-title-led{width:6px;height:6px;background:var(--wa-green);border-color:#07150b;box-shadow:0 0 5px var(--wa-green)}
+.winamp-stack .winamp-display{
+  grid-template-columns:59px 45px minmax(0,1fr);
+  min-height:64px;
+  color:var(--wa-green);
+  background:
+    linear-gradient(rgba(0,244,90,.025) 50%,transparent 50%) 0 0/100% 4px,
+    var(--wa-lcd);
+  border-color:#6c7284;
+}
+.winamp-stack .winamp-time,
+.winamp-stack .winamp-track-screen h3{color:var(--wa-green);text-shadow:0 0 6px rgba(0,244,90,.55)}
+.winamp-stack .winamp-spectrum i{background:linear-gradient(to top,var(--wa-green) 0 70%,var(--wa-yellow) 70% 87%,#ff4d48 87%)}
+.winamp-stack .winamp-track-screen .player-label{color:#a7b2a8}
+.winamp-stack .winamp-track-screen p{color:#568468}
+.winamp-stack .winamp-seek input::-webkit-slider-runnable-track,
+.winamp-stack .winamp-volume input::-webkit-slider-runnable-track{background:#090b12;border-color:#6f768a}
+.winamp-stack .winamp-seek input::-webkit-slider-thumb,
+.winamp-stack .winamp-volume input::-webkit-slider-thumb{background:linear-gradient(90deg,#f9da3d,#b59a20);border-color:#fff09a #69580f #69580f #fff09a}
+.winamp-stack .winamp-seek input::-moz-range-track,
+.winamp-stack .winamp-volume input::-moz-range-track{background:#090b12;border-color:#6f768a}
+.winamp-stack .winamp-seek input::-moz-range-thumb,
+.winamp-stack .winamp-volume input::-moz-range-thumb{background:#e0c12f;border-color:#fff09a #69580f #69580f #fff09a}
+.winamp-stack .winamp-counter{color:#a5aec7}
+.winamp-stack .winamp-counter>span{color:#69728e}
+.winamp-stack .winamp-volume{color:#aab2c7}
+.winamp-stack .winamp-player .icon-button,
+.winamp-stack .winamp-player .main-play-button{
+  color:#151825;
+  background:linear-gradient(#b8bfd0,#747d98);
+  border-color:#e1e4ed #3b4258 #30364a #d9dce7;
+}
+.winamp-stack .winamp-player .main-play-button.is-playing{color:#061b0c;background:linear-gradient(#65ef8f,#1d8e48)}
+
+.winamp-equalizer{padding:0 6px 7px}
+.winamp-eq-toolbar{display:flex;align-items:center;gap:4px;height:24px;padding:3px 1px;color:#111522;font-size:7px;font-weight:800}
+.winamp-eq-toolbar span,.winamp-eq-toolbar strong{
+  padding:2px 5px;
+  background:linear-gradient(#d2d6e1,#858da3);
+  border:1px outset #dfe2eb;
+  font-weight:800;
+}
+.winamp-eq-toolbar strong{margin-left:auto;color:#23283b}
+.winamp-eq-bands{display:grid;grid-template-columns:repeat(10,minmax(0,1fr));gap:3px;padding:4px 0 1px;border-top:1px solid #080a12}
+.eq-band{display:grid;justify-items:center;gap:3px;min-width:0;color:#aab1c5;font-size:6px;line-height:1}
+.eq-band i{position:relative;display:block;width:4px;height:50px;background:linear-gradient(90deg,#06070c,#9199b4 48%,#080a10);border:1px inset #76809a}
+.eq-band i::before{position:absolute;left:-5px;top:48%;width:12px;height:6px;content:"";background:linear-gradient(#f8dc44,#a68d18);border:1px outset #ffe982;box-shadow:0 1px #05060a}
+.eq-band:nth-child(2) i::before{top:24%}.eq-band:nth-child(3) i::before{top:39%}.eq-band:nth-child(4) i::before{top:57%}.eq-band:nth-child(5) i::before{top:31%}.eq-band:nth-child(6) i::before{top:43%}.eq-band:nth-child(7) i::before{top:21%}.eq-band:nth-child(8) i::before{top:34%}.eq-band:nth-child(9) i::before{top:52%}.eq-band:nth-child(10) i::before{top:28%}
+.eq-band small{overflow:hidden;width:100%;color:#c1c6d4;font-size:6px;text-align:center;text-overflow:clip}
+.eq-preamp{margin-right:3px;padding-right:4px;border-right:1px solid #69718a}
+.eq-preamp i::before{top:60%}
+
+.winamp-playlist{padding:0 5px 5px;background:#090b12}
+.winamp-playlist .audio-filters{margin:5px 0;padding:3px;background:#20263a;border:1px inset #6f7893;border-radius:0}
+.winamp-playlist .audio-filters button{padding:5px 2px;color:#aab1c5;border-radius:0;font-size:7px}
+.winamp-playlist .audio-filters button.is-active{color:#121622;background:linear-gradient(#d9dce7,#8991a8);box-shadow:none}
+.winamp-playlist .queue-heading{margin:0;padding:3px 4px 5px;color:#8d97ae;border-bottom:1px solid #263048;font-size:7px}
+.winamp-playlist .queue-heading svg{color:var(--wa-green)}
+.winamp-playlist .audio-queue{max-height:min(38vh,360px);margin:0;padding:3px 0;scrollbar-color:#6f7893 #171b2a}
+.winamp-playlist .queue-item{border-bottom:1px solid #17231c}
+.winamp-playlist .queue-button{grid-template-columns:24px minmax(0,1fr) 31px;gap:5px;padding:7px 4px;border-radius:0}
+.winamp-playlist .queue-button:hover{background:#151f34}
+.winamp-playlist .queue-button.is-active{background:#25376f;box-shadow:inset 2px 0 var(--wa-yellow)}
+.winamp-playlist .queue-index,
+.winamp-playlist .queue-title,
+.winamp-playlist .queue-duration{color:var(--wa-green);font-family:"Courier New",monospace}
+.winamp-playlist .queue-title{font-size:10px;line-height:1.25;font-weight:700}
+.winamp-playlist .queue-subtitle{margin-top:2px;color:#397e52;font-family:"Courier New",monospace;font-size:7px}
+.winamp-playlist .queue-button.is-active .queue-title{color:#fff46b}
+.winamp-playlist .queue-button.is-active .queue-subtitle{color:#91a9dc}
+.winamp-playlist .queue-duration{font-size:8px}
+.winamp-playlist .audio-empty{color:var(--wa-green-dim)}
+.winamp-playlist-footer{display:grid;grid-template-columns:repeat(4,auto) 1fr;gap:3px;align-items:center;padding-top:5px;color:#111522;font-size:6px;font-weight:800}
+.winamp-playlist-footer span{padding:3px 4px;background:linear-gradient(#d5d9e3,#7e879e);border:1px outset #e6e8ef}
+.winamp-playlist-footer strong{color:var(--wa-green);font-family:"Courier New",monospace;text-align:right;text-shadow:0 0 4px rgba(0,244,90,.5)}
+
+@media(min-width:561px) and (max-width:820px){
+  .audio-panel{display:block}
+  .winamp-stack{display:grid;grid-template-columns:minmax(245px,.8fr) minmax(0,1.2fr);gap:3px;align-items:start}
+  .winamp-left-deck{grid-column:1;grid-row:1}
+  .winamp-playlist{grid-column:2;grid-row:1}
+  .winamp-playlist .audio-queue{max-height:365px}
+  .audio-details,.audio-note{grid-column:auto}
+}
+@media(max-width:560px){
+  .winamp-stack{display:flex}
+  .winamp-eq-bands{gap:5px}
+  .eq-band i{height:54px}
+  .winamp-playlist .audio-queue{max-height:420px}
+  .winamp-playlist .queue-title{font-size:11px}
+}
