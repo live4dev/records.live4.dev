@@ -308,7 +308,8 @@
 .winamp-left-deck{display:flex;flex-direction:column;gap:3px}
 .winamp-stack .winamp-player,
 .winamp-equalizer,
-.winamp-playlist{
+.winamp-playlist,
+.winamp-info-module{
   color:#eef1fa;
   background:linear-gradient(135deg,#252a42 0%,#161a2c 48%,#343b58 100%);
   border:2px ridge var(--wa-edge);
@@ -413,11 +414,73 @@
 .winamp-playlist .queue-subtitle{margin-top:2px;color:#397e52;font-family:"Courier New",monospace;font-size:7px}
 .winamp-playlist .queue-button.is-active .queue-title{color:#fff46b}
 .winamp-playlist .queue-button.is-active .queue-subtitle{color:#91a9dc}
+.winamp-playlist .queue-button.is-pending .queue-title{color:var(--wa-green)}
+.winamp-playlist .queue-button.is-pending .queue-subtitle{color:#397e52}
+.winamp-playlist .queue-button.is-pending .queue-index svg{color:var(--wa-green)}
 .winamp-playlist .queue-duration{font-size:8px}
 .winamp-playlist .audio-empty{color:var(--wa-green-dim)}
+.winamp-playlist .pending-queue-details[open]>.queue-button{background:#25376f;box-shadow:inset 2px 0 var(--wa-yellow)}
+.winamp-playlist .pending-audio-description{
+  margin:0;
+  padding:8px;
+  color:#78c990;
+  background:#020503;
+  border:1px inset #394256;
+  border-radius:0;
+  font-family:"Courier New",monospace;
+}
+.winamp-playlist .pending-audio-description .original-caption{
+  max-height:96px;
+  color:#78c990;
+  font-size:9px;
+  line-height:1.55;
+  scrollbar-color:#6f7893 #171b2a;
+}
+.winamp-playlist .pending-audio-description .audio-detail-tags{gap:3px;margin-top:7px}
+.winamp-playlist .pending-audio-description .topic-chip,
+.winamp-info-module .topic-chip{
+  padding:3px 5px;
+  color:#101522;
+  background:linear-gradient(#d5d9e3,#7e879e);
+  border:1px outset #e6e8ef;
+  border-radius:0;
+  font-family:Arial,Helvetica,sans-serif;
+  font-size:7px;
+  font-weight:800;
+}
+.winamp-playlist .pending-audio-description .topic-chip.is-active,
+.winamp-info-module .topic-chip.is-active{color:#061b0c;background:linear-gradient(#65ef8f,#1d8e48)}
+.winamp-playlist .pending-audio-source,
+.winamp-info-module .description-links a{
+  display:inline-flex;
+  align-items:center;
+  gap:4px;
+  margin-top:8px;
+  padding:3px 6px;
+  color:#101522;
+  background:linear-gradient(#d5d9e3,#7e879e);
+  border:1px outset #e6e8ef;
+  border-radius:0;
+  font-family:Arial,Helvetica,sans-serif;
+  font-size:7px;
+  font-weight:800;
+}
+.winamp-playlist .pending-audio-source:hover,
+.winamp-info-module .description-links a:hover{color:#061b0c;background:linear-gradient(#65ef8f,#1d8e48)}
+.winamp-playlist .pending-audio-source svg,
+.winamp-info-module .description-links svg{width:9px;height:9px}
 .winamp-playlist-footer{display:grid;grid-template-columns:repeat(4,auto) 1fr;gap:3px;align-items:center;padding-top:5px;color:#111522;font-size:6px;font-weight:800}
 .winamp-playlist-footer span{padding:3px 4px;background:linear-gradient(#d5d9e3,#7e879e);border:1px outset #e6e8ef}
 .winamp-playlist-footer strong{color:var(--wa-green);font-family:"Courier New",monospace;text-align:right;text-shadow:0 0 4px rgba(0,244,90,.5)}
+
+.winamp-info-module{grid-column:1/-1;padding:0 6px 7px}
+.winamp-info-module>summary{cursor:pointer;list-style:none;color:#f7f8ff;font-size:8px;font-weight:800}
+.winamp-info-module>summary::-webkit-details-marker{display:none}
+.winamp-info-module>summary:focus-visible{outline:2px solid var(--wa-yellow);outline-offset:-3px}
+.winamp-info-body{padding:8px;background:#020503;border:1px inset #394256}
+.winamp-info-module .original-caption{max-height:220px;margin:0;color:#78c990;font-family:"Courier New",monospace;font-size:9px;line-height:1.55;overflow:auto;scrollbar-color:#6f7893 #171b2a}
+.winamp-info-module .audio-detail-tags{gap:3px;margin-top:8px}
+.winamp-info-module .description-links{gap:4px;margin-top:0}
 
 @media(min-width:561px) and (max-width:820px){
   .audio-panel{display:block}
@@ -426,6 +489,7 @@
   .winamp-playlist{grid-column:2;grid-row:1}
   .winamp-playlist .audio-queue{max-height:365px}
   .audio-details,.audio-note{grid-column:auto}
+  .winamp-info-module{grid-column:1/-1}
 }
 @media(max-width:560px){
   .winamp-stack{display:flex}
@@ -433,6 +497,8 @@
   .eq-band i{height:54px}
   .winamp-playlist .audio-queue{max-height:420px}
   .winamp-playlist .queue-title{font-size:11px}
+  .winamp-playlist .pending-audio-description .original-caption,
+  .winamp-info-module .original-caption{font-size:11px}
 }
 
 /* The Winamp windows are the container: no additional modern card chrome. */

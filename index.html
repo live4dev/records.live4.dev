@@ -7,7 +7,7 @@
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; media-src 'self'; style-src 'self'; script-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'">
     <meta name="description" content="Видео и аудиозаписи live4.dev. Смотрите записи, слушайте аудиоплейлист и возвращайтесь к важному.">
     <title>records — видео и аудио live4.dev</title>
-    <link rel="stylesheet" href="./assets/styles.css?v=20261026-3">
+    <link rel="stylesheet" href="./assets/styles.css?v=20261026-4">
     <script src="./assets/app.js?v=20261026-2" defer></script>
   </head>
   <body>
@@ -97,8 +97,11 @@
           <p class="audio-empty" id="audio-empty">Загружаем аудиозаписи…</p>
           <div class="winamp-playlist-footer" aria-hidden="true"><span>ADD</span><span>REM</span><span>SEL</span><span>MISC</span><strong>LIVE4.DEV</strong></div>
         </section>
+        <details class="audio-details winamp-info-module" id="audio-details" hidden>
+          <summary class="winamp-module-titlebar"><span>TRACK INFO</span><span class="winamp-window-buttons" aria-hidden="true"><i></i><i></i></span></summary>
+          <div class="winamp-info-body"><p class="original-caption" id="audio-caption"></p><div class="audio-detail-tags" id="audio-detail-tags"></div><div class="description-links"><a id="audio-source" target="_blank" rel="noopener noreferrer">TELEGRAM <svg aria-hidden="true"><use href="#i-arrow"/></svg></a><a id="audio-download" download><svg aria-hidden="true"><use href="#i-download"/></svg>DOWNLOAD</a></div></div>
+        </details>
         </div>
-        <details class="audio-details" id="audio-details" hidden><summary>О записи <span>Описание и файлы</span></summary><p class="original-caption" id="audio-caption"></p><div class="audio-detail-tags" id="audio-detail-tags"></div><div class="description-links"><a id="audio-source" target="_blank" rel="noopener noreferrer">Telegram <svg aria-hidden="true"><use href="#i-arrow"/></svg></a><a id="audio-download" download><svg aria-hidden="true"><use href="#i-download"/></svg>Скачать</a></div></details><div class="audio-note"><span class="coral-dot"></span>Аудиозаписи и звук из видео — вместе.</div>
       </div></aside>
     </main>
     <div class="mobile-audio-bar" id="mobile-audio-bar" hidden><a href="#audio-playlist"><span class="mobile-audio-icon"><svg aria-hidden="true"><use href="#i-audio"/></svg></span><span><small>Выбранная запись</small><strong id="mobile-track-title"></strong></span></a><button id="mobile-audio-toggle" type="button" aria-label="Приостановить аудио"><svg aria-hidden="true"><use href="#i-pause"/></svg></button></div>
