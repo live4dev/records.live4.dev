@@ -1,30 +1,288 @@
 {
-  "id": "records_live4dev:62",
-  "kind": "video",
-  "title": "В коллекции музыкальных инструментов пополнение, наконец-то появилась классическая гитара, а с Ольхона был привезён классный варган так ч…",
-  "description": "В коллекции музыкальных инструментов пополнение, наконец-то появилась классическая гитара, а с Ольхона был привезён классный варган так что время экспериментов :)\n\naudio #guitar #looper #ЗаметкиНаПолях",
+  "record": {
+    "id": "records_live4dev:62",
+    "channel": "records_live4dev",
+    "message_id": 62,
+    "kind": "video",
+    "title": "В коллекции музыкальных инструментов пополнение, наконец-то появилась классическая гитара, а с Ольхона был привезён классный варган так что…",
+    "description": "В коллекции музыкальных инструментов пополнение, наконец-то появилась классическая гитара, а с Ольхона был привезён классный варган так что время экспериментов :)\n\naudio #guitar #looper #ЗаметкиНаПолях",
+    "caption_original": "В коллекции музыкальных инструментов пополнение, наконец-то появилась классическая гитара, а с Ольхона был привезён классный варган так что время экспериментов :)\n\naudio #guitar #looper #ЗаметкиНаПолях",
+    "tags": [
+      "guitar",
+      "looper",
+      "ЗаметкиНаПолях"
+    ],
+    "published_at": "2022-06-19T18:33:53Z",
+    "duration_seconds": 298.833333,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/62",
+    "original_filename": "IMG_2329.MOV",
+    "expected_size_bytes": 95785741,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/62.json",
+    "caption_file": "content/video/62.txt",
+    "telegram_document_id": 5294437182558182907,
+    "grouped_id": null,
+    "caption_source_message_id": 62,
+    "edited_at": "2024-05-06T19:19:41Z",
+    "poster": "content/video/62.jpg",
+    "audio_file": "content/audio/62-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "В коллекции музыкальных инструментов пополнение, наконец-то появилась классическая гитара, а с Ольхона был привезён классный варган так что время экспериментов :)\n\naudio #guitar #looper #ЗаметкиНаПолях",
+  "caption_effective": "В коллекции музыкальных инструментов пополнение, наконец-то появилась классическая гитара, а с Ольхона был привезён классный варган так что время экспериментов :)\n\naudio #guitar #looper #ЗаметкиНаПолях",
+  "message_caption_original": "В коллекции музыкальных инструментов пополнение, наконец-то появилась классическая гитара, а с Ольхона был привезён классный варган так что время экспериментов :)\n\naudio #guitar #looper #ЗаметкиНаПолях",
   "caption_source_message_id": 62,
-  "tags": [
-    "guitar",
-    "looper",
-    "ЗаметкиНаПолях"
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 164,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/50"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 170,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 178,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 186,
+      "length": 15
+    }
   ],
-  "published_at": "2022-06-19T18:33:53Z",
-  "duration_seconds": 298,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 95785741,
-  "telegram_url": "https://t.me/records_live4dev/62",
-  "channel": "records_live4dev",
-  "message_id": 62,
-  "availability": "pending",
-  "original_filename": "IMG_2329.MOV",
-  "expected_size_bytes": 95785741,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/62.json",
-  "caption_file": "content/video/62.txt",
-  "telegram_metadata": "ID: 62 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-06-19 18:33:53+00:00 | 📎 video, edited | views:418, forwards:4, reactions:23",
-  "poster": "content/video/62.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 164,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/50"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 170,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 178,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 186,
+      "length": 15
+    }
+  ],
+  "date": "2022-06-19T18:33:53Z",
+  "edit_date": "2024-05-06T19:19:41Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 298.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_2329.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 62,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2022-06-19T18:33:53Z",
+    "message": "В коллекции музыкальных инструментов пополнение, наконец-то появилась классическая гитара, а с Ольхона был привезён классный варган так что время экспериментов :)\n\naudio #guitar #looper #ЗаметкиНаПолях",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5294437182558182907,
+        "access_hash": 8971015063267352811,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAA+at9+LOib+uKngiuNw4LZb1rdZXw="
+        },
+        "date": "2022-06-19T18:33:53Z",
+        "mime_type": "video/mp4",
+        "size": 95785741,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 298.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_2329.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWnj8sjoDQ5jQ88Hr0qosbRR+YkmcHkVHO/muXZuBhQBWfKW2Xy6BAy/MOnHNFUQNzMIcbBjkmiiwriyXUZtPLHLNgccYxUTYMe9VwRwcUxlHO4EHtjpV2BA8Ij243L6VWyDdlRZAiBT3+aikniZmO4gNnoe1FGgJMUgeeBI2FU81fjcSOrJ90DFFFJv3bFJe8UdVz9sPuoPFFFFUtiHuf"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 16466
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 164,
+        "length": 5,
+        "url": "https://t.me/mp3records_live4dev/50"
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 170,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 178,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 186,
+        "length": 15
+      }
+    ],
+    "views": 418,
+    "forwards": 4,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 7,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 211649790
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 436999606
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 5006267030
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 215,
+      "read_max_id": null
+    },
+    "edit_date": "2024-05-06T19:19:41Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 14,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 9,
+          "chosen_order": 0
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

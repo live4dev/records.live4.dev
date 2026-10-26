@@ -1,31 +1,282 @@
 {
-  "id": "records_live4dev:54",
-  "kind": "video",
-  "title": "Слушай, а поехали на Аляску? Заведём у юрты собак, в полозья врежем коляску, будем встречать рассветы консервами из Канады, разглядывать …",
-  "description": "Слушай, а поехали на Аляску? Заведём у юрты собак, в полозья врежем коляску, будем встречать рассветы консервами из Канады, разглядывать волчий след, одеваясь в овечьи латы.\n\n#cover #guitar #voice #looper",
+  "record": {
+    "id": "records_live4dev:54",
+    "channel": "records_live4dev",
+    "message_id": 54,
+    "kind": "video",
+    "title": "Слушай, а поехали на Аляску? Заведём у юрты собак, в полозья врежем коляску, будем встречать рассветы консервами из Канады, разглядывать во…",
+    "description": "Слушай, а поехали на Аляску? Заведём у юрты собак, в полозья врежем коляску, будем встречать рассветы консервами из Канады, разглядывать волчий след, одеваясь в овечьи латы.\n\n#cover #guitar #voice #looper",
+    "caption_original": "Слушай, а поехали на Аляску? Заведём у юрты собак, в полозья врежем коляску, будем встречать рассветы консервами из Канады, разглядывать волчий след, одеваясь в овечьи латы.\n\n#cover #guitar #voice #looper",
+    "tags": [
+      "cover",
+      "guitar",
+      "voice",
+      "looper"
+    ],
+    "published_at": "2022-01-23T16:41:10Z",
+    "duration_seconds": 190.8,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/54",
+    "original_filename": "IMG_0608.MOV",
+    "expected_size_bytes": 61232449,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/54.json",
+    "caption_file": "content/video/54.txt",
+    "telegram_document_id": 5435871181464933976,
+    "grouped_id": null,
+    "caption_source_message_id": 54,
+    "edited_at": "2022-01-23T18:05:51Z",
+    "poster": "content/video/54.jpg",
+    "audio_file": "content/audio/54-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Слушай, а поехали на Аляску? Заведём у юрты собак, в полозья врежем коляску, будем встречать рассветы консервами из Канады, разглядывать волчий след, одеваясь в овечьи латы.\n\n#cover #guitar #voice #looper",
+  "caption_effective": "Слушай, а поехали на Аляску? Заведём у юрты собак, в полозья врежем коляску, будем встречать рассветы консервами из Канады, разглядывать волчий след, одеваясь в овечьи латы.\n\n#cover #guitar #voice #looper",
+  "message_caption_original": "Слушай, а поехали на Аляску? Заведём у юрты собак, в полозья врежем коляску, будем встречать рассветы консервами из Канады, разглядывать волчий след, одеваясь в овечьи латы.\n\n#cover #guitar #voice #looper",
   "caption_source_message_id": 54,
-  "tags": [
-    "cover",
-    "guitar",
-    "voice",
-    "looper"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 175,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 182,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 190,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 197,
+      "length": 7
+    }
   ],
-  "published_at": "2022-01-23T16:41:10Z",
-  "duration_seconds": 190,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 61232449,
-  "telegram_url": "https://t.me/records_live4dev/54",
-  "channel": "records_live4dev",
-  "message_id": 54,
-  "availability": "pending",
-  "original_filename": "IMG_0608.MOV",
-  "expected_size_bytes": 61232449,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/54.json",
-  "caption_file": "content/video/54.txt",
-  "telegram_metadata": "ID: 54 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-01-23 16:41:10+00:00 | 📎 video, edited | views:411, forwards:1, reactions:12",
-  "poster": "content/video/54.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 175,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 182,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 190,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 197,
+      "length": 7
+    }
+  ],
+  "date": "2022-01-23T16:41:10Z",
+  "edit_date": "2022-01-23T18:05:51Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 190.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_0608.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 54,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2022-01-23T16:41:10Z",
+    "message": "Слушай, а поехали на Аляску? Заведём у юрты собак, в полозья врежем коляску, будем встречать рассветы консервами из Канады, разглядывать волчий след, одеваясь в овечьи латы.\n\n#cover #guitar #voice #looper",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5435871181464933976,
+        "access_hash": -4905822739185326347,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAA2at9+LAwNgQGVGiSCT5IL8u8RCdY="
+        },
+        "date": "2022-01-23T16:41:10Z",
+        "mime_type": "video/mp4",
+        "size": 61232449,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 190.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_0608.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWsQJhTk8flTSACeB+JqGFlGA2R6c00qJHwhwT0JqQJ9igfcFFZ1xHLA2d+c+hoouPlHSvhQP73GadbylJU3D5CTzRJEWICgZJ4zTJATMkajIXgUh2Jr0MNuAST3op0rZARDkL39aKSuU2hzHGW9KgeVioATDt1x2HpRRT3YdB0bgnBGD6UUUVRB8="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 17157
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 175,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 182,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 190,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 197,
+        "length": 7
+      }
+    ],
+    "views": 411,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 11,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 1323261825
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 167,
+      "read_max_id": null
+    },
+    "edit_date": "2022-01-23T18:05:51Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 7,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 5,
+          "chosen_order": 0
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

@@ -1,29 +1,254 @@
 {
-  "id": "records_live4dev:50",
-  "kind": "video",
-  "title": "Когда-то в универе играли Либертанго, там был аккордеон, гитара и скрипка (хотя могу путать). Сейчас с Аней и Олегом (Д.А.О.) раскладывае…",
-  "description": "Когда-то в универе играли Либертанго, там был аккордеон, гитара и скрипка (хотя могу путать). Сейчас с Аней и Олегом (Д.А.О.) раскладываем на две гитары и скрипку. Ну а пока дома можно поиграть с Тёмой и лупером 😃\n\n#looper #guitar",
+  "record": {
+    "id": "records_live4dev:50",
+    "channel": "records_live4dev",
+    "message_id": 50,
+    "kind": "video",
+    "title": "Когда-то в универе играли Либертанго, там был аккордеон, гитара и скрипка (хотя могу путать). Сейчас с Аней и Олегом (Д.А.О.) раскладываем…",
+    "description": "Когда-то в универе играли Либертанго, там был аккордеон, гитара и скрипка (хотя могу путать). Сейчас с Аней и Олегом (Д.А.О.) раскладываем на две гитары и скрипку. Ну а пока дома можно поиграть с Тёмой и лупером 😃\n\n#looper #guitar",
+    "caption_original": "Когда-то в универе играли Либертанго, там был аккордеон, гитара и скрипка (хотя могу путать). Сейчас с Аней и Олегом (Д.А.О.) раскладываем на две гитары и скрипку. Ну а пока дома можно поиграть с Тёмой и лупером 😃\n\n#looper #guitar",
+    "tags": [
+      "looper",
+      "guitar"
+    ],
+    "published_at": "2022-01-08T10:34:18Z",
+    "duration_seconds": 216.6,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/50",
+    "original_filename": "IMG_0210.MOV",
+    "expected_size_bytes": 69543069,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/50.json",
+    "caption_file": "content/video/50.txt",
+    "telegram_document_id": 5388615893985005430,
+    "grouped_id": null,
+    "caption_source_message_id": 50,
+    "edited_at": "2022-01-08T10:51:12Z",
+    "poster": "content/video/50.jpg",
+    "audio_file": "content/audio/50-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Когда-то в универе играли Либертанго, там был аккордеон, гитара и скрипка (хотя могу путать). Сейчас с Аней и Олегом (Д.А.О.) раскладываем на две гитары и скрипку. Ну а пока дома можно поиграть с Тёмой и лупером 😃\n\n#looper #guitar",
+  "caption_effective": "Когда-то в универе играли Либертанго, там был аккордеон, гитара и скрипка (хотя могу путать). Сейчас с Аней и Олегом (Д.А.О.) раскладываем на две гитары и скрипку. Ну а пока дома можно поиграть с Тёмой и лупером 😃\n\n#looper #guitar",
+  "message_caption_original": "Когда-то в универе играли Либертанго, там был аккордеон, гитара и скрипка (хотя могу путать). Сейчас с Аней и Олегом (Д.А.О.) раскладываем на две гитары и скрипку. Ну а пока дома можно поиграть с Тёмой и лупером 😃\n\n#looper #guitar",
   "caption_source_message_id": 50,
-  "tags": [
-    "looper",
-    "guitar"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 216,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 224,
+      "length": 7
+    }
   ],
-  "published_at": "2022-01-08T10:34:18Z",
-  "duration_seconds": 216,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 69543069,
-  "telegram_url": "https://t.me/records_live4dev/50",
-  "channel": "records_live4dev",
-  "message_id": 50,
-  "availability": "pending",
-  "original_filename": "IMG_0210.MOV",
-  "expected_size_bytes": 69543069,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/50.json",
-  "caption_file": "content/video/50.txt",
-  "telegram_metadata": "ID: 50 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-01-08 10:34:18+00:00 | 📎 video, edited | views:432, forwards:0, reactions:13",
-  "poster": "content/video/50.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 216,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 224,
+      "length": 7
+    }
+  ],
+  "date": "2022-01-08T10:34:18Z",
+  "edit_date": "2022-01-08T10:51:12Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 216.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_0210.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 50,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2022-01-08T10:34:18Z",
+    "message": "Когда-то в универе играли Либертанго, там был аккордеон, гитара и скрипка (хотя могу путать). Сейчас с Аней и Олегом (Д.А.О.) раскладываем на две гитары и скрипку. Ну а пока дома можно поиграть с Тёмой и лупером 😃\n\n#looper #guitar",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5388615893985005430,
+        "access_hash": -388990289972827734,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAyat9+LMJF8+GAiU1Tt7lSfGH4XkE="
+        },
+        "date": "2022-01-08T10:34:18Z",
+        "mime_type": "video/mp4",
+        "size": 69543069,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 216.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_0210.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWqNM+4ZG525q5BIQp3IVP+7VdRiVHzg9KuzTlUhLdWHQdqkZH5wB6sPqDRTSVYDOKKYtSKNAsis43juPWkvC3mI4yBjge1PtpUlkJwB3K+lEQEt2zSE+UvJH8qk3klbQSBiE3t1PAyO1FRXdw8c5QKFVeF+lFVZszTj1HG32sWjOM9qsAKkJQcngk+tFFQUVZI1lfduwe9FFFaIzP"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 17495
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 216,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 224,
+        "length": 7
+      }
+    ],
+    "views": 432,
+    "forwards": 0,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 7,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 1140682525
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 101408339
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 150,
+      "read_max_id": null
+    },
+    "edit_date": "2022-01-08T10:51:12Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 7,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 6,
+          "chosen_order": 0
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

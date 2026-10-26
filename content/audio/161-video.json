@@ -1,0 +1,319 @@
+{
+  "record": {
+    "id": "records_live4dev:161:audio",
+    "channel": "records_live4dev",
+    "message_id": 161,
+    "kind": "audio",
+    "title": "Пока в отпуске поем с местными ланкийский регги регги под ланкийски виски и учим русский язык на «Что ты имела ввиду» я вам принес еще немн…",
+    "description": "Пока в отпуске поем с местными ланкийский регги регги под ланкийски виски и учим русский язык на «Что ты имела ввиду» я  вам принес еще немного из записанного с Настей на песни Холи Полли - на словах любви. Приятных выходных :)",
+    "caption_original": "Пока в отпуске поем с местными ланкийский регги регги под ланкийски виски и учим русский язык на «Что ты имела ввиду» я  вам принес еще немного из записанного с Настей на песни Холи Полли - на словах любви. Приятных выходных :)",
+    "tags": [],
+    "published_at": "2024-03-02T13:25:04Z",
+    "duration_seconds": 167.879002,
+    "file": "content/audio/161-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1348058,
+    "telegram_url": "https://t.me/records_live4dev/161",
+    "expected_size_bytes": 1348058,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/161-video.json",
+    "caption_file": "content/audio/161-video.txt",
+    "telegram_document_id": 5411472374199501265,
+    "grouped_id": null,
+    "caption_source_message_id": 161,
+    "edited_at": "2024-03-02T13:28:32Z",
+    "poster": "content/video/161.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:161",
+    "source_original_filename": "IMG_1270.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Пока в отпуске поем с местными ланкийский регги регги под ланкийски виски и учим русский язык на «Что ты имела ввиду» я  вам принес еще немного из записанного с Настей на песни Холи Полли - на словах любви. Приятных выходных :)",
+  "caption_effective": "Пока в отпуске поем с местными ланкийский регги регги под ланкийски виски и учим русский язык на «Что ты имела ввиду» я  вам принес еще немного из записанного с Настей на песни Холи Полли - на словах любви. Приятных выходных :)",
+  "message_caption_original": "Пока в отпуске поем с местными ланкийский регги регги под ланкийски виски и учим русский язык на «Что ты имела ввиду» я  вам принес еще немного из записанного с Настей на песни Холи Полли - на словах любви. Приятных выходных :)",
+  "caption_source_message_id": 161,
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 31,
+      "length": 22,
+      "url": "https://t.me/travel_live4dev/591"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 97,
+      "length": 20,
+      "url": "https://t.me/travel_live4dev/582"
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 31,
+      "length": 22,
+      "url": "https://t.me/travel_live4dev/591"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 97,
+      "length": 20,
+      "url": "https://t.me/travel_live4dev/582"
+    }
+  ],
+  "date": "2024-03-02T13:25:04Z",
+  "edit_date": "2024-03-02T13:28:32Z",
+  "grouped_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 160,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null
+  },
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 167.99333333333,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_1270.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 161,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2024-03-02T13:25:04Z",
+    "message": "Пока в отпуске поем с местными ланкийский регги регги под ланкийски виски и учим русский язык на «Что ты имела ввиду» я  вам принес еще немного из записанного с Настей на песни Холи Полли - на словах любви. Приятных выходных :)",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": {
+      "_": "MessageReplyHeader",
+      "reply_to_scheduled": false,
+      "forum_topic": false,
+      "quote": false,
+      "reply_to_msg_id": 160,
+      "reply_to_peer_id": null,
+      "reply_from": null,
+      "reply_media": null,
+      "reply_to_top_id": null,
+      "quote_text": null,
+      "quote_entities": [],
+      "quote_offset": null,
+      "todo_item_id": null
+    },
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5411472374199501265,
+        "access_hash": 2962407468206123000,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAChat+Y4HX4dDCSm48BOMmXG6VI9a8="
+        },
+        "date": "2024-03-02T13:25:04Z",
+        "mime_type": "video/mp4",
+        "size": 64304131,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 167.99333333333,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_1270.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWzG4xT0I9P0qS3iEz4JxjvRcJ9nfHU1NyrCFxnoc0U5ZUEIAIBJ5zRTEJZPtlPoR3p95IksgP8IWqiNtOe/ap5CFixtAdsbgfSi2o76EJRgB3HairSwJIvP7sjt0opXFYqEgDjrSrIwcMeT70UVQh8sgcjC4x15ooop2Fcw=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 12451
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 31,
+        "length": 22,
+        "url": "https://t.me/travel_live4dev/591"
+      },
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 97,
+        "length": 20,
+        "url": "https://t.me/travel_live4dev/582"
+      }
+    ],
+    "views": 851,
+    "forwards": 2,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 0,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [],
+      "channel_id": 1290562209,
+      "max_id": null,
+      "read_max_id": null
+    },
+    "edit_date": "2024-03-02T13:28:32Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 6,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5328273261333584797
+          },
+          "count": 2,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 1,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🕊"
+          },
+          "count": 1,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5326007515761090209
+          },
+          "count": 1,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5328014223266030170
+          },
+          "count": 1,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5325850195404005217
+          },
+          "count": 1,
+          "chosen_order": 0
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

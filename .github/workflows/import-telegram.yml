@@ -15,7 +15,7 @@ concurrency:
 jobs:
   import:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
     steps:
       - name: Check out repository
         uses: actions/checkout@v7
@@ -42,7 +42,10 @@ jobs:
           TELEGRAM_CHANNELS: ${{ vars.TELEGRAM_CHANNELS || 'records_live4dev' }}
           TELEGRAM_HISTORY_LIMIT: ${{ vars.TELEGRAM_HISTORY_LIMIT || '0' }}
           TELEGRAM_MAX_FILE_MB: ${{ vars.TELEGRAM_MAX_FILE_MB || '250' }}
-        run: python tools/telegram_import.py --refresh --audio-only --min-duration-seconds 60
+          TELEGRAM_VIDEO_MAX_FILE_MB: ${{ vars.TELEGRAM_VIDEO_MAX_FILE_MB || '1100' }}
+        run: |
+          python tools/telegram_import.py --refresh --audio-only --min-duration-seconds 60
+          TELEGRAM_MAX_FILE_MB="$TELEGRAM_VIDEO_MAX_FILE_MB" python tools/telegram_import.py --refresh --video-audio-only --min-duration-seconds 60
 
       - name: Commit imported records
         run: |

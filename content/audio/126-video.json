@@ -1,0 +1,302 @@
+{
+  "record": {
+    "id": "records_live4dev:126:audio",
+    "channel": "records_live4dev",
+    "message_id": 126,
+    "kind": "audio",
+    "title": "Наконец-то добрались с Аней поиграть.",
+    "description": "Наконец-то добрались с Аней поиграть.\n\nХоть за окном и осень запись  будет летней, ранее я ее уже выкладывал, но лета много не бывает ) да и хочется в нормальном звуке - Романы Ремарка от Шапито ) \n\nЛюбителей дослушать до конца ждет бонус - 💍 (но не такое). \n\naudio #cover #violin #voice #guitar",
+    "caption_original": "Наконец-то добрались с Аней поиграть.\n\nХоть за окном и осень запись  будет летней, ранее я ее уже выкладывал, но лета много не бывает ) да и хочется в нормальном звуке - Романы Ремарка от Шапито ) \n\nЛюбителей дослушать до конца ждет бонус - 💍 (но не такое). \n\naudio #cover #violin #voice #guitar",
+    "tags": [
+      "cover",
+      "violin",
+      "voice",
+      "guitar"
+    ],
+    "published_at": "2023-09-24T12:06:57Z",
+    "duration_seconds": 238.12,
+    "file": "content/audio/126-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1912877,
+    "telegram_url": "https://t.me/records_live4dev/126",
+    "expected_size_bytes": 1912877,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/126-video.json",
+    "caption_file": "content/audio/126-video.txt",
+    "telegram_document_id": 5224310764730332942,
+    "grouped_id": null,
+    "caption_source_message_id": 126,
+    "edited_at": "2023-09-24T12:42:26Z",
+    "poster": "content/video/126.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:126",
+    "source_original_filename": "IMG_8328.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Наконец-то добрались с Аней поиграть.\n\nХоть за окном и осень запись  будет летней, ранее я ее уже выкладывал, но лета много не бывает ) да и хочется в нормальном звуке - Романы Ремарка от Шапито ) \n\nЛюбителей дослушать до конца ждет бонус - 💍 (но не такое). \n\naudio #cover #violin #voice #guitar",
+  "caption_effective": "Наконец-то добрались с Аней поиграть.\n\nХоть за окном и осень запись  будет летней, ранее я ее уже выкладывал, но лета много не бывает ) да и хочется в нормальном звуке - Романы Ремарка от Шапито ) \n\nЛюбителей дослушать до конца ждет бонус - 💍 (но не такое). \n\naudio #cover #violin #voice #guitar",
+  "message_caption_original": "Наконец-то добрались с Аней поиграть.\n\nХоть за окном и осень запись  будет летней, ранее я ее уже выкладывал, но лета много не бывает ) да и хочется в нормальном звуке - Романы Ремарка от Шапито ) \n\nЛюбителей дослушать до конца ждет бонус - 💍 (но не такое). \n\naudio #cover #violin #voice #guitar",
+  "caption_source_message_id": 126,
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 261,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/66"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 267,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 274,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 282,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 289,
+      "length": 7
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 261,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/66"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 267,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 274,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 282,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 289,
+      "length": 7
+    }
+  ],
+  "date": "2023-09-24T12:06:57Z",
+  "edit_date": "2023-09-24T12:42:26Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 238.23666666667,
+      "w": 848,
+      "h": 464,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_8328.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 126,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2023-09-24T12:06:57Z",
+    "message": "Наконец-то добрались с Аней поиграть.\n\nХоть за окном и осень запись  будет летней, ранее я ее уже выкладывал, но лета много не бывает ) да и хочется в нормальном звуке - Романы Ремарка от Шапито ) \n\nЛюбителей дослушать до конца ждет бонус - 💍 (но не такое). \n\naudio #cover #violin #voice #guitar",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5224310764730332942,
+        "access_hash": -6481302178648630431,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAB+at+Y4M83X6Ni5oaV0vqVc/553Z8="
+        },
+        "date": "2023-09-24T11:42:15Z",
+        "mime_type": "video/mp4",
+        "size": 198234120,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 238.23666666667,
+            "w": 848,
+            "h": 464,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_8328.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ARYosZj/AIVc/SmysEjO1CzHgLgcmo7yOKE+cS2/BwRxVU3oneMOuGVjyOhBFAFiDOJjJHtyNueoqe1GLlAeuP6VR3gKsUe0sxyQP8+9Wo5QrJwTJGMYXnj3oA0yintRTEnVscNnp0ooAwbglZBI58zPBDc1A0QZ8r8vPT0oooAAvkXXzgPt5I9a0Wn8tyyIvzDkFRzRRQA63uMKp28scnB60UUUAQ=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 178,
+            "size": 17361
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 261,
+        "length": 5,
+        "url": "https://t.me/mp3records_live4dev/66"
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 267,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 274,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 282,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 289,
+        "length": 7
+      }
+    ],
+    "views": 501,
+    "forwards": 3,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 0,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [],
+      "channel_id": 1290562209,
+      "max_id": null,
+      "read_max_id": null
+    },
+    "edit_date": "2023-09-24T12:42:26Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 15,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 10,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🥰"
+          },
+          "count": 2,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

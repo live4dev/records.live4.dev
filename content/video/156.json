@@ -1,26 +1,283 @@
 {
-  "id": "records_live4dev:156",
-  "kind": "video",
-  "title": "Помимо инди музыки нравится искать красивые стихи.",
-  "description": "Помимо инди музыки нравится искать красивые стихи. \n\nВ подобных поисках наткнулся на стихотворение Анны Шаркуновой - «А вы когда нибудь тонули в человеке?» \n\nИ решил из него сделать песню с лупером, но никак не получалось замедлиться и записать.\n\nUPD. Пока в заметках искал запись с отчетника наткнулся минимум на попыток 8 записать, одну добавил в комменты :) \n\nВнезапно размер сообщения с содержимым канала закончился, так что немного переиграл структуру https://t.me/records_live4dev/57",
+  "record": {
+    "id": "records_live4dev:156",
+    "channel": "records_live4dev",
+    "message_id": 156,
+    "kind": "video",
+    "title": "Помимо инди музыки нравится искать красивые стихи.",
+    "description": "Помимо инди музыки нравится искать красивые стихи. \n\nВ подобных поисках наткнулся на стихотворение Анны Шаркуновой - «А вы когда нибудь тонули в человеке?» \n\nИ решил из него сделать песню с лупером, но никак не получалось замедлиться и записать.\n\nUPD. Пока в заметках искал запись с отчетника наткнулся минимум на попыток 8 записать, одну добавил в комменты :) \n\nВнезапно размер сообщения с содержимым канала закончился, так что немного переиграл структуру https://t.me/records_live4dev/57",
+    "caption_original": "Помимо инди музыки нравится искать красивые стихи. \n\nВ подобных поисках наткнулся на стихотворение Анны Шаркуновой - «А вы когда нибудь тонули в человеке?» \n\nИ решил из него сделать песню с лупером, но никак не получалось замедлиться и записать.\n\nUPD. Пока в заметках искал запись с отчетника наткнулся минимум на попыток 8 записать, одну добавил в комменты :) \n\nВнезапно размер сообщения с содержимым канала закончился, так что немного переиграл структуру https://t.me/records_live4dev/57",
+    "tags": [],
+    "published_at": "2024-01-31T18:49:09Z",
+    "duration_seconds": 264.0,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/156",
+    "original_filename": "IMG_1060.MOV",
+    "expected_size_bytes": 219588759,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/156.json",
+    "caption_file": "content/video/156.txt",
+    "telegram_document_id": 5321475487745194963,
+    "grouped_id": null,
+    "caption_source_message_id": 156,
+    "edited_at": "2024-01-31T21:03:10Z",
+    "poster": "content/video/156.jpg",
+    "audio_file": "content/audio/156-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Помимо инди музыки нравится искать красивые стихи. \n\nВ подобных поисках наткнулся на стихотворение Анны Шаркуновой - «А вы когда нибудь тонули в человеке?» \n\nИ решил из него сделать песню с лупером, но никак не получалось замедлиться и записать.\n\nUPD. Пока в заметках искал запись с отчетника наткнулся минимум на попыток 8 записать, одну добавил в комменты :) \n\nВнезапно размер сообщения с содержимым канала закончился, так что немного переиграл структуру https://t.me/records_live4dev/57",
+  "caption_effective": "Помимо инди музыки нравится искать красивые стихи. \n\nВ подобных поисках наткнулся на стихотворение Анны Шаркуновой - «А вы когда нибудь тонули в человеке?» \n\nИ решил из него сделать песню с лупером, но никак не получалось замедлиться и записать.\n\nUPD. Пока в заметках искал запись с отчетника наткнулся минимум на попыток 8 записать, одну добавил в комменты :) \n\nВнезапно размер сообщения с содержимым канала закончился, так что немного переиграл структуру https://t.me/records_live4dev/57",
+  "message_caption_original": "Помимо инди музыки нравится искать красивые стихи. \n\nВ подобных поисках наткнулся на стихотворение Анны Шаркуновой - «А вы когда нибудь тонули в человеке?» \n\nИ решил из него сделать песню с лупером, но никак не получалось замедлиться и записать.\n\nUPD. Пока в заметках искал запись с отчетника наткнулся минимум на попыток 8 записать, одну добавил в комменты :) \n\nВнезапно размер сообщения с содержимым канала закончился, так что немного переиграл структуру https://t.me/records_live4dev/57",
   "caption_source_message_id": 156,
-  "tags": [],
-  "published_at": "2024-01-31T18:49:09Z",
-  "duration_seconds": 264.07666666667,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 219588759,
-  "telegram_url": "https://t.me/records_live4dev/156",
-  "channel": "records_live4dev",
-  "message_id": 156,
-  "availability": "pending",
-  "original_filename": "IMG_1060.MOV",
-  "expected_size_bytes": 219588759,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/156.json",
-  "caption_file": "content/video/156.txt",
-  "telegram_metadata": "ID: 156 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2024-01-31 18:49:09+00:00 | 📎 video, edited | views:623, forwards:1, reactions:17",
-  "poster": "content/video/156.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 99,
+      "length": 57
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 349,
+      "length": 8,
+      "url": "https://t.me/records_live4dev/156?comment=752"
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 457,
+      "length": 32
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 99,
+      "length": 57
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 349,
+      "length": 8,
+      "url": "https://t.me/records_live4dev/156?comment=752"
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 457,
+      "length": 32
+    }
+  ],
+  "date": "2024-01-31T18:49:09Z",
+  "edit_date": "2024-01-31T21:03:10Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 264.07666666667,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_1060.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 156,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2024-01-31T18:49:09Z",
+    "message": "Помимо инди музыки нравится искать красивые стихи. \n\nВ подобных поисках наткнулся на стихотворение Анны Шаркуновой - «А вы когда нибудь тонули в человеке?» \n\nИ решил из него сделать песню с лупером, но никак не получалось замедлиться и записать.\n\nUPD. Пока в заметках искал запись с отчетника наткнулся минимум на попыток 8 записать, одну добавил в комменты :) \n\nВнезапно размер сообщения с содержимым канала закончился, так что немного переиграл структуру https://t.me/records_live4dev/57",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5321475487745194963,
+        "access_hash": -5581395745881386027,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACcat+Y4HIw002s7dDMXrPiKbZjsGQ="
+        },
+        "date": "2024-01-31T18:33:02Z",
+        "mime_type": "video/mp4",
+        "size": 219588759,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 264.07666666667,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_1060.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWIJV4yv6VajuonOxMsR2FU0IGzAyM5INNZQk8UipsO/Hy96gqxorcEcFcUVG5DNjPTviii4WM03OyOVFUDjG6prYPti3ckLn161EFVLB1df3hYMM1NaTEQxueu7H4UALLLtdlkBBB7d6Ks3Vp57B0fa3Q+hopWKTM+fAKoDxjhfxzUO9jJEoXCBhwD70UVZmb7OBgEgUUUVBZ"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 178,
+            "h": 320,
+            "size": 19668
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityBold",
+        "offset": 99,
+        "length": 57
+      },
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 349,
+        "length": 8,
+        "url": "https://t.me/records_live4dev/156?comment=752"
+      },
+      {
+        "_": "MessageEntityUrl",
+        "offset": 457,
+        "length": 32
+      }
+    ],
+    "views": 624,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 2,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 226090226
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 758,
+      "read_max_id": null
+    },
+    "edit_date": "2024-01-31T21:03:10Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 12,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5325850195404005217
+          },
+          "count": 2,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5341772493868769078
+          },
+          "count": 2,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

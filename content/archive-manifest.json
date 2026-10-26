@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T15:49:22.504729Z",
+  "updated_at": "2026-10-26T19:48:00.112285Z",
   "source": {
     "channel": "records_live4dev",
     "url": "https://t.me/records_live4dev",
@@ -18,7 +18,7 @@
     "original_audio_count": 29,
     "downloaded_original_video_count": 6,
     "downloaded_original_audio_count": 29,
-    "extracted_audio_count": 6,
+    "extracted_audio_count": 100,
     "pending_original_count": 98,
     "pending_message_ids": [
       11,
@@ -122,7 +122,7 @@
     ],
     "total_original_bytes": 9675848808,
     "downloaded_original_bytes": 234975587,
-    "downloaded_at": "2026-10-26T15:49:22.504729Z",
+    "downloaded_at": "2026-10-26T19:48:00.112285Z",
     "pending_work_count": 98
   },
   "verification": [

@@ -1,0 +1,280 @@
+{
+  "record": {
+    "id": "records_live4dev:201:audio",
+    "channel": "records_live4dev",
+    "message_id": 201,
+    "kind": "audio",
+    "title": "Провели 2 концерта на корабле! Это было очень красиво 😍 огромное спасибо всем кто пришел и помог этому состояться!",
+    "description": "Провели 2 концерта на корабле! Это было очень красиво 😍 огромное спасибо всем кто пришел и помог этому состояться!\n\n@nastia_fiks сделала шикарное видео, а я залил его в плохом качестве, исправляюсь в комментах лежит в хорошем 😊 \n\n@records_live4dev",
+    "caption_original": "Провели 2 концерта на корабле! Это было очень красиво 😍 огромное спасибо всем кто пришел и помог этому состояться!\n\n@nastia_fiks сделала шикарное видео, а я залил его в плохом качестве, исправляюсь в комментах лежит в хорошем 😊 \n\n@records_live4dev",
+    "tags": [],
+    "published_at": "2025-08-28T17:40:30Z",
+    "duration_seconds": 105.975011,
+    "file": "content/audio/201-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 853876,
+    "telegram_url": "https://t.me/records_live4dev/201",
+    "expected_size_bytes": 853876,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/201-video.json",
+    "caption_file": "content/audio/201-video.txt",
+    "telegram_document_id": 5296295627792088230,
+    "grouped_id": null,
+    "caption_source_message_id": 201,
+    "edited_at": "2025-09-08T07:35:02Z",
+    "poster": "content/video/201.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:201",
+    "source_original_filename": "IMG_8241.MP4",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Провели 2 концерта на корабле! Это было очень красиво 😍 огромное спасибо всем кто пришел и помог этому состояться!\n\n@nastia_fiks сделала шикарное видео, а я залил его в плохом качестве, исправляюсь в комментах лежит в хорошем 😊 \n\n@records_live4dev",
+  "caption_effective": "Провели 2 концерта на корабле! Это было очень красиво 😍 огромное спасибо всем кто пришел и помог этому состояться!\n\n@nastia_fiks сделала шикарное видео, а я залил его в плохом качестве, исправляюсь в комментах лежит в хорошем 😊 \n\n@records_live4dev",
+  "message_caption_original": "Провели 2 концерта на корабле! Это было очень красиво 😍 огромное спасибо всем кто пришел и помог этому состояться!\n\n@nastia_fiks сделала шикарное видео, а я залил его в плохом качестве, исправляюсь в комментах лежит в хорошем 😊 \n\n@records_live4dev",
+  "caption_source_message_id": 201,
+  "entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 117,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 232,
+      "length": 17
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 117,
+      "length": 12
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 232,
+      "length": 17
+    }
+  ],
+  "date": "2025-08-28T17:40:30Z",
+  "edit_date": "2025-09-08T07:35:02Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 106.27500152588,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_8241.MP4"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 201,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2025-08-28T17:40:30Z",
+    "message": "Провели 2 концерта на корабле! Это было очень красиво 😍 огромное спасибо всем кто пришел и помог этому состояться!\n\n@nastia_fiks сделала шикарное видео, а я залил его в плохом качестве, исправляюсь в комментах лежит в хорошем 😊 \n\n@records_live4dev",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5296295627792088230,
+        "access_hash": 1163516522924737145,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAADJat+Y4BrVNUKJEdwHNozP76Y8QAU="
+        },
+        "date": "2025-08-28T17:40:30Z",
+        "mime_type": "video/mp4",
+        "size": 40758073,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 106.27500152588,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_8241.MP4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWtmT0pvJppYrj5RyfWl3H0X86dwSFxRTA7EkYHFFRzFWKbBgmdxGB1zUQlwwIZqsSROLESbuSASMVUQLsJ5Lg8CmIdxIeCxooU7XLMOD0AOBRTCxebnTlH/TMGswMA1FFBIsrBiCOmMUUUUwP"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 13830
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityMention",
+        "offset": 117,
+        "length": 12
+      },
+      {
+        "_": "MessageEntityMention",
+        "offset": 232,
+        "length": 17
+      }
+    ],
+    "views": 3719,
+    "forwards": 16,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 4,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 1741128354
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 175194200
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 5006267030
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 889,
+      "read_max_id": null
+    },
+    "edit_date": "2025-09-08T07:35:02Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 28,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 16,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 4,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🥰"
+          },
+          "count": 3,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

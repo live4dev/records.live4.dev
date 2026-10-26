@@ -1,0 +1,309 @@
+{
+  "record": {
+    "id": "records_live4dev:158:audio",
+    "channel": "records_live4dev",
+    "message_id": 158,
+    "kind": "audio",
+    "title": "Продолжаю двигаться в сторону записи чего-то своего и сегодня это будет песня на стихи Димы Ярошенко.",
+    "description": "Продолжаю двигаться в сторону записи чего-то своего и сегодня это будет песня на стихи Димы Ярошенко. \n\nКогда придумывал название канала одним из вариантов было «заметки на полях» до сих пор подумываю переименовать 😅 и так совпало что сборник Димы тоже называется «заметки на полях».\n\nИ так, Заметки на полях - ***, вот такое интересное название у стихотворения и песни :) \n\nP.S. Ну и тем кому пара косяков режет слух как и мне, сочувствую 😅 но тук как и в жизни не без ошибок и грустных моментов, однако без склеек и в один заход.\n\nP.S.S. А еще каждый раз забавно отслушивать записать и смотреть, до сих смеюсь с мимики :)\n\n#ЗаметкиНаПолях",
+    "caption_original": "Продолжаю двигаться в сторону записи чего-то своего и сегодня это будет песня на стихи Димы Ярошенко. \n\nКогда придумывал название канала одним из вариантов было «заметки на полях» до сих пор подумываю переименовать 😅 и так совпало что сборник Димы тоже называется «заметки на полях».\n\nИ так, Заметки на полях - ***, вот такое интересное название у стихотворения и песни :) \n\nP.S. Ну и тем кому пара косяков режет слух как и мне, сочувствую 😅 но тук как и в жизни не без ошибок и грустных моментов, однако без склеек и в один заход.\n\nP.S.S. А еще каждый раз забавно отслушивать записать и смотреть, до сих смеюсь с мимики :)\n\n#ЗаметкиНаПолях",
+    "tags": [
+      "ЗаметкиНаПолях"
+    ],
+    "published_at": "2024-02-04T18:31:26Z",
+    "duration_seconds": 169.017007,
+    "file": "content/audio/158-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1358395,
+    "telegram_url": "https://t.me/records_live4dev/158",
+    "expected_size_bytes": 1358395,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/158-video.json",
+    "caption_file": "content/audio/158-video.txt",
+    "telegram_document_id": 5332366541260342414,
+    "grouped_id": null,
+    "caption_source_message_id": 158,
+    "edited_at": "2024-05-05T19:30:26Z",
+    "poster": "content/video/158.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:158",
+    "source_original_filename": "IMG_1135.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Продолжаю двигаться в сторону записи чего-то своего и сегодня это будет песня на стихи Димы Ярошенко. \n\nКогда придумывал название канала одним из вариантов было «заметки на полях» до сих пор подумываю переименовать 😅 и так совпало что сборник Димы тоже называется «заметки на полях».\n\nИ так, Заметки на полях - ***, вот такое интересное название у стихотворения и песни :) \n\nP.S. Ну и тем кому пара косяков режет слух как и мне, сочувствую 😅 но тук как и в жизни не без ошибок и грустных моментов, однако без склеек и в один заход.\n\nP.S.S. А еще каждый раз забавно отслушивать записать и смотреть, до сих смеюсь с мимики :)\n\n#ЗаметкиНаПолях",
+  "caption_effective": "Продолжаю двигаться в сторону записи чего-то своего и сегодня это будет песня на стихи Димы Ярошенко. \n\nКогда придумывал название канала одним из вариантов было «заметки на полях» до сих пор подумываю переименовать 😅 и так совпало что сборник Димы тоже называется «заметки на полях».\n\nИ так, Заметки на полях - ***, вот такое интересное название у стихотворения и песни :) \n\nP.S. Ну и тем кому пара косяков режет слух как и мне, сочувствую 😅 но тук как и в жизни не без ошибок и грустных моментов, однако без склеек и в один заход.\n\nP.S.S. А еще каждый раз забавно отслушивать записать и смотреть, до сих смеюсь с мимики :)\n\n#ЗаметкиНаПолях",
+  "message_caption_original": "Продолжаю двигаться в сторону записи чего-то своего и сегодня это будет песня на стихи Димы Ярошенко. \n\nКогда придумывал название канала одним из вариантов было «заметки на полях» до сих пор подумываю переименовать 😅 и так совпало что сборник Димы тоже называется «заметки на полях».\n\nИ так, Заметки на полях - ***, вот такое интересное название у стихотворения и песни :) \n\nP.S. Ну и тем кому пара косяков режет слух как и мне, сочувствую 😅 но тук как и в жизни не без ошибок и грустных моментов, однако без склеек и в один заход.\n\nP.S.S. А еще каждый раз забавно отслушивать записать и смотреть, до сих смеюсь с мимики :)\n\n#ЗаметкиНаПолях",
+  "caption_source_message_id": 158,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 293,
+      "length": 24
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 627,
+      "length": 15
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 293,
+      "length": 24
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 627,
+      "length": 15
+    }
+  ],
+  "date": "2024-02-04T18:31:26Z",
+  "edit_date": "2024-05-05T19:30:26Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 169.14166666667,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_1135.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 158,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2024-02-04T18:31:26Z",
+    "message": "Продолжаю двигаться в сторону записи чего-то своего и сегодня это будет песня на стихи Димы Ярошенко. \n\nКогда придумывал название канала одним из вариантов было «заметки на полях» до сих пор подумываю переименовать 😅 и так совпало что сборник Димы тоже называется «заметки на полях».\n\nИ так, Заметки на полях - ***, вот такое интересное название у стихотворения и песни :) \n\nP.S. Ну и тем кому пара косяков режет слух как и мне, сочувствую 😅 но тук как и в жизни не без ошибок и грустных моментов, однако без склеек и в один заход.\n\nP.S.S. А еще каждый раз забавно отслушивать записать и смотреть, до сих смеюсь с мимики :)\n\n#ЗаметкиНаПолях",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5332366541260342414,
+        "access_hash": -3129456653518530815,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACeat+Y4NeoGbfhBCwhkJHavn2AR3k="
+        },
+        "date": "2024-02-04T18:31:26Z",
+        "mime_type": "video/mp4",
+        "size": 140796540,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 169.14166666667,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_1135.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWjR3BzHG7r/exWhG7FAwCsCPWqlgW8gJnaV4xUkMyKGXzA2Ce/vU31KtoTfaGQ8x/rRVZ7gkkCNsA8cUU7klJJ2TO1sZqKNSHLYOc5zQybBkHJqQeZJbqFDbsnoOtCaCzQpuWWNQVLmimNGYzhwY/bmiiwwuoxBM8fbOR9KuaTJHtMZ4k6gk9aKKS2G3qWb2VGZYzCJnHO30FFFFO4j8="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 178,
+            "h": 320,
+            "size": 19082
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityBold",
+        "offset": 293,
+        "length": 24
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 627,
+        "length": 15
+      }
+    ],
+    "views": 1055,
+    "forwards": 5,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 7,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 199125999
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 1140682525
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 773,
+      "read_max_id": null
+    },
+    "edit_date": "2024-05-05T19:30:26Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 17,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 3,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5325998217156894017
+          },
+          "count": 3,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 2,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 1,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🌚"
+          },
+          "count": 1,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5341772493868769078
+          },
+          "count": 1,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5325850195404005217
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

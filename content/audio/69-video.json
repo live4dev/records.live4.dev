@@ -1,0 +1,268 @@
+{
+  "record": {
+    "id": "records_live4dev:69:audio",
+    "channel": "records_live4dev",
+    "message_id": 69,
+    "kind": "audio",
+    "title": "Не все же выкладывать из домашней студии ;) (хотя конечно теперь хочется записать с микрофоном и лупером). Относительно недавно познакомилс…",
+    "description": "Не все же выкладывать из домашней студии ;) (хотя конечно теперь хочется записать с микрофоном и лупером). Относительно недавно познакомился с творчеством группы Сироткин, песня Август зацепила текстом и рифом, правда пока не осилил играть и петь одновременно, но ничего упорство моя сильная сторона :) \n\n#cover #voice #guitar",
+    "caption_original": "Не все же выкладывать из домашней студии ;) (хотя конечно теперь хочется записать с микрофоном и лупером). Относительно недавно познакомился с творчеством группы Сироткин, песня Август зацепила текстом и рифом, правда пока не осилил играть и петь одновременно, но ничего упорство моя сильная сторона :) \n\n#cover #voice #guitar",
+    "tags": [
+      "cover",
+      "voice",
+      "guitar"
+    ],
+    "published_at": "2022-09-24T15:34:49Z",
+    "duration_seconds": 178.769002,
+    "file": "content/audio/69-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1465820,
+    "telegram_url": "https://t.me/records_live4dev/69",
+    "expected_size_bytes": 1465820,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/69-video.json",
+    "caption_file": "content/audio/69-video.txt",
+    "telegram_document_id": 5294274639520865667,
+    "grouped_id": null,
+    "caption_source_message_id": 69,
+    "edited_at": "2022-09-24T15:35:48Z",
+    "poster": "content/video/69.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:69",
+    "source_original_filename": "IMG_4654.MP4",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Не все же выкладывать из домашней студии ;) (хотя конечно теперь хочется записать с микрофоном и лупером). Относительно недавно познакомился с творчеством группы Сироткин, песня Август зацепила текстом и рифом, правда пока не осилил играть и петь одновременно, но ничего упорство моя сильная сторона :) \n\n#cover #voice #guitar",
+  "caption_effective": "Не все же выкладывать из домашней студии ;) (хотя конечно теперь хочется записать с микрофоном и лупером). Относительно недавно познакомился с творчеством группы Сироткин, песня Август зацепила текстом и рифом, правда пока не осилил играть и петь одновременно, но ничего упорство моя сильная сторона :) \n\n#cover #voice #guitar",
+  "message_caption_original": "Не все же выкладывать из домашней студии ;) (хотя конечно теперь хочется записать с микрофоном и лупером). Относительно недавно познакомился с творчеством группы Сироткин, песня Август зацепила текстом и рифом, правда пока не осилил играть и петь одновременно, но ничего упорство моя сильная сторона :) \n\n#cover #voice #guitar",
+  "caption_source_message_id": 69,
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 305,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 312,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 319,
+      "length": 7
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 305,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 312,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 319,
+      "length": 7
+    }
+  ],
+  "date": "2022-09-24T15:34:49Z",
+  "edit_date": "2022-09-24T15:35:48Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 178.0,
+      "w": 560,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_4654.MP4"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 69,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2022-09-24T15:34:49Z",
+    "message": "Не все же выкладывать из домашней студии ;) (хотя конечно теперь хочется записать с микрофоном и лупером). Относительно недавно познакомился с творчеством группы Сироткин, песня Август зацепила текстом и рифом, правда пока не осилил играть и петь одновременно, но ничего упорство моя сильная сторона :) \n\n#cover #voice #guitar",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5294274639520865667,
+        "access_hash": -8413431579904559944,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAABFat+FL+dZXygIqnI92j3K+HCc8PU="
+        },
+        "date": "2022-09-24T15:34:49Z",
+        "mime_type": "video/mp4",
+        "size": 26146689,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 178.0,
+            "w": 560,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_4654.MP4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgaTMI56/U0+Mx7htweapOSzNgcZ9KWIqHO9dwHoKmwK5Ley+ZIYo+Fz8xqHyk9KszvA8aeUgVgefpUe2pehtFXRGp49M81YjjCp0PzAc1WVju2nofXtVsOpFuGGd3U1aRnpbzICgjY+nanA8Uk67Z5EUcZ6+tKIuPvrUyRrGSS0I9zSORngdee9PEuZEGBhO9FFVcxsE5Ejlgh+uKi+b+8350UUFqKPw=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 211,
+            "h": 320,
+            "size": 23691
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 305,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 312,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 319,
+        "length": 7
+      }
+    ],
+    "views": 355,
+    "forwards": 0,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 10,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 218706080
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 286,
+      "read_max_id": null
+    },
+    "edit_date": "2022-09-24T15:35:48Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 11,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 6,
+          "chosen_order": 0
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

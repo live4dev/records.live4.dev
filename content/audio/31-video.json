@@ -1,0 +1,256 @@
+{
+  "record": {
+    "id": "records_live4dev:31:audio",
+    "channel": "records_live4dev",
+    "message_id": 31,
+    "kind": "audio",
+    "title": "Ну что устроим ванильную среду? Из памяти недавно всплыла песня группы Hi-Fi — Седьмой лепесток. Кажется, я в детстве столько попсы не слуш…",
+    "description": "Ну что устроим ванильную среду? Из памяти недавно всплыла песня группы Hi-Fi — Седьмой лепесток. Кажется, я в детстве столько попсы не слушал, сколько сейчас пою (хотя кого я обманываю).",
+    "caption_original": "Ну что устроим ванильную среду? Из памяти недавно всплыла песня группы Hi-Fi — Седьмой лепесток. Кажется, я в детстве столько попсы не слушал, сколько сейчас пою (хотя кого я обманываю).",
+    "tags": [],
+    "published_at": "2021-08-18T17:25:49Z",
+    "duration_seconds": 223.909002,
+    "file": "content/audio/31-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1791460,
+    "telegram_url": "https://t.me/records_live4dev/31",
+    "expected_size_bytes": 1791460,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/31-video.json",
+    "caption_file": "content/audio/31-video.txt",
+    "telegram_document_id": 5251701149861417081,
+    "grouped_id": null,
+    "caption_source_message_id": 31,
+    "edited_at": "2022-06-10T16:29:16Z",
+    "poster": "content/video/31.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:31",
+    "source_original_filename": "IMG_7219.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Ну что устроим ванильную среду? Из памяти недавно всплыла песня группы Hi-Fi — Седьмой лепесток. Кажется, я в детстве столько попсы не слушал, сколько сейчас пою (хотя кого я обманываю).",
+  "caption_effective": "Ну что устроим ванильную среду? Из памяти недавно всплыла песня группы Hi-Fi — Седьмой лепесток. Кажется, я в детстве столько попсы не слушал, сколько сейчас пою (хотя кого я обманываю).",
+  "message_caption_original": "Ну что устроим ванильную среду? Из памяти недавно всплыла песня группы Hi-Fi — Седьмой лепесток. Кажется, я в детстве столько попсы не слушал, сколько сейчас пою (хотя кого я обманываю).",
+  "caption_source_message_id": 31,
+  "entities": [],
+  "caption_entities": [],
+  "date": "2021-08-18T17:25:49Z",
+  "edit_date": "2022-06-10T16:29:16Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": {
+    "_": "MessageFwdHeader",
+    "date": "2021-08-17T17:35:52Z",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 1441620546
+    },
+    "from_name": null,
+    "channel_post": 152,
+    "post_author": null,
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 224.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_7219.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 31,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-08-18T17:25:49Z",
+    "message": "Ну что устроим ванильную среду? Из памяти недавно всплыла песня группы Hi-Fi — Седьмой лепесток. Кажется, я в детстве столько попсы не слушал, сколько сейчас пою (хотя кого я обманываю).",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+      "_": "MessageFwdHeader",
+      "date": "2021-08-17T17:35:52Z",
+      "imported": false,
+      "saved_out": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1441620546
+      },
+      "from_name": null,
+      "channel_post": 152,
+      "post_author": null,
+      "saved_from_peer": null,
+      "saved_from_msg_id": null,
+      "saved_from_id": null,
+      "saved_from_name": null,
+      "saved_date": null,
+      "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5251701149861417081,
+        "access_hash": -5813557891527664461,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAfat9+LDywQc66I85UA0yh2dudMV4="
+        },
+        "date": "2021-08-17T17:35:52Z",
+        "mime_type": "video/mp4",
+        "size": 71839758,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 224.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_7219.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWshT2ZqqyNM7sIpCoXjJPWrW1Au4ucepNU8IjsNwbLbgaHogjq9SWMyYxKxz1B3daKbhEceYwUBcAE/jRVrYh2uQXErS8dEXoDUAyFznAx1FX7m3DRHYAGFZ+I0HzNu9hWadzTlsPCIyjzCTwPY0U8SKIxkYz+tFO4cvmaYYSoHXoapXNkGy8Y57rRRWSdmatXiJDC0i7QQQOgzRRRXSpHLa5"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 17186
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 294,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 6,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 181351251
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 218433873
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 34,
+      "read_max_id": null
+    },
+    "edit_date": "2022-06-10T16:29:16Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 3,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

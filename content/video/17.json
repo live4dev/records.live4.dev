@@ -1,26 +1,204 @@
 {
-  "id": "records_live4dev:17",
-  "kind": "video",
-  "title": "У меня есть два идеальных слушателя - Димон и Тимон. Уже больше 6 лет, почти каждый вечер, мы устраиваем мини концерты. Самое клевое когд…",
-  "description": "У меня есть два идеальных слушателя - Димон и Тимон. Уже больше 6 лет, почти каждый вечер, мы устраиваем мини концерты. Самое клевое когда под последнюю песню мелкие вырубаются ) \n\nВот и вам одна из колыбельных в этот приятный прохладный вечерок ;)",
+  "record": {
+    "id": "records_live4dev:17",
+    "channel": "records_live4dev",
+    "message_id": 17,
+    "kind": "video",
+    "title": "У меня есть два идеальных слушателя - Димон и Тимон. Уже больше 6 лет, почти каждый вечер, мы устраиваем мини концерты. Самое клевое когда…",
+    "description": "У меня есть два идеальных слушателя - Димон и Тимон. Уже больше 6 лет, почти каждый вечер, мы устраиваем мини концерты. Самое клевое когда под последнюю песню мелкие вырубаются ) \n\nВот и вам одна из колыбельных в этот приятный прохладный вечерок ;)",
+    "caption_original": "У меня есть два идеальных слушателя - Димон и Тимон. Уже больше 6 лет, почти каждый вечер, мы устраиваем мини концерты. Самое клевое когда под последнюю песню мелкие вырубаются ) \n\nВот и вам одна из колыбельных в этот приятный прохладный вечерок ;)",
+    "tags": [],
+    "published_at": "2021-06-23T18:51:25Z",
+    "duration_seconds": 133.166667,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/17",
+    "original_filename": "IMG_6127.MOV",
+    "expected_size_bytes": 43200151,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/17.json",
+    "caption_file": "content/video/17.txt",
+    "telegram_document_id": 5375164284047200082,
+    "grouped_id": null,
+    "caption_source_message_id": 17,
+    "poster": "content/video/17.jpg",
+    "audio_file": "content/audio/17-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "У меня есть два идеальных слушателя - Димон и Тимон. Уже больше 6 лет, почти каждый вечер, мы устраиваем мини концерты. Самое клевое когда под последнюю песню мелкие вырубаются ) \n\nВот и вам одна из колыбельных в этот приятный прохладный вечерок ;)",
+  "caption_effective": "У меня есть два идеальных слушателя - Димон и Тимон. Уже больше 6 лет, почти каждый вечер, мы устраиваем мини концерты. Самое клевое когда под последнюю песню мелкие вырубаются ) \n\nВот и вам одна из колыбельных в этот приятный прохладный вечерок ;)",
+  "message_caption_original": "У меня есть два идеальных слушателя - Димон и Тимон. Уже больше 6 лет, почти каждый вечер, мы устраиваем мини концерты. Самое клевое когда под последнюю песню мелкие вырубаются ) \n\nВот и вам одна из колыбельных в этот приятный прохладный вечерок ;)",
   "caption_source_message_id": 17,
-  "tags": [],
-  "published_at": "2021-06-23T18:51:25Z",
-  "duration_seconds": 133,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 43200151,
-  "telegram_url": "https://t.me/records_live4dev/17",
-  "channel": "records_live4dev",
-  "message_id": 17,
-  "availability": "pending",
-  "original_filename": "IMG_6127.MOV",
-  "expected_size_bytes": 43200151,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/17.json",
-  "caption_file": "content/video/17.txt",
-  "telegram_metadata": "ID: 17 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-06-23 18:51:25+00:00 | 📎 video, forwarded | views:264, forwards:0",
-  "poster": "content/video/17.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [],
+  "caption_entities": [],
+  "date": "2021-06-23T18:51:25Z",
+  "edit_date": null,
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": {
+    "_": "MessageFwdHeader",
+    "date": "2021-06-23T18:44:56Z",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 1441620546
+    },
+    "from_name": null,
+    "channel_post": 97,
+    "post_author": null,
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 133.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_6127.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 17,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-06-23T18:51:25Z",
+    "message": "У меня есть два идеальных слушателя - Димон и Тимон. Уже больше 6 лет, почти каждый вечер, мы устраиваем мини концерты. Самое клевое когда под последнюю песню мелкие вырубаются ) \n\nВот и вам одна из колыбельных в этот приятный прохладный вечерок ;)",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+      "_": "MessageFwdHeader",
+      "date": "2021-06-23T18:44:56Z",
+      "imported": false,
+      "saved_out": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1441620546
+      },
+      "from_name": null,
+      "channel_post": 97,
+      "post_author": null,
+      "saved_from_peer": null,
+      "saved_from_msg_id": null,
+      "saved_from_id": null,
+      "saved_from_name": null,
+      "saved_date": null,
+      "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5375164284047200082,
+        "access_hash": 6773676901386084525,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAARat9+LPClGK/hKH530rA4zEmA6cY="
+        },
+        "date": "2021-06-23T18:44:56Z",
+        "mime_type": "video/mp4",
+        "size": 43200151,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 133.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_6127.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWS2yEYg4IqxJKDAu1fZqrWxwXB7jipXDlQAMg9KgGRucNn1/GimSA8ZB/lRRYRD9oMRUBc4OcnvVqGXftkU846dayyxY8+mKeuAmScH0qhl66lwq7j3oqi7OyAbmI+vFFFgFjRGbbIdvHX0phiygbdn1oooAfkYAB4FFFFAE="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 17270
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 264,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

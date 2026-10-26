@@ -1,0 +1,262 @@
+{
+  "record": {
+    "id": "records_live4dev:138:audio",
+    "channel": "records_live4dev",
+    "message_id": 138,
+    "kind": "audio",
+    "title": "В этот раз захотелось просто поорать, ну или чуть сложнее чем просто ) зашел в оригинальную тональность",
+    "description": "В этот раз захотелось просто поорать, ну или чуть сложнее чем просто ) зашел в оригинальную тональность",
+    "caption_original": "В этот раз захотелось просто поорать, ну или чуть сложнее чем просто ) зашел в оригинальную тональность",
+    "tags": [],
+    "published_at": "2023-11-20T18:25:06Z",
+    "duration_seconds": 160.635011,
+    "file": "content/audio/138-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1289994,
+    "telegram_url": "https://t.me/records_live4dev/138",
+    "expected_size_bytes": 1289994,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/138-video.json",
+    "caption_file": "content/audio/138-video.txt",
+    "telegram_document_id": 5393607315997869383,
+    "grouped_id": null,
+    "caption_source_message_id": 138,
+    "edited_at": "2023-11-20T20:23:58Z",
+    "poster": "content/video/138.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:138",
+    "source_original_filename": "IMG_9624.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "В этот раз захотелось просто поорать, ну или чуть сложнее чем просто ) зашел в оригинальную тональность",
+  "caption_effective": "В этот раз захотелось просто поорать, ну или чуть сложнее чем просто ) зашел в оригинальную тональность",
+  "message_caption_original": "В этот раз захотелось просто поорать, ну или чуть сложнее чем просто ) зашел в оригинальную тональность",
+  "caption_source_message_id": 138,
+  "entities": [],
+  "caption_entities": [],
+  "date": "2023-11-20T18:25:06Z",
+  "edit_date": "2023-11-20T20:23:58Z",
+  "grouped_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 59,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null
+  },
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 160.73833333333,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_9624.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 138,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2023-11-20T18:25:06Z",
+    "message": "В этот раз захотелось просто поорать, ну или чуть сложнее чем просто ) зашел в оригинальную тональность",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": {
+      "_": "MessageReplyHeader",
+      "reply_to_scheduled": false,
+      "forum_topic": false,
+      "quote": false,
+      "reply_to_msg_id": 59,
+      "reply_to_peer_id": null,
+      "reply_from": null,
+      "reply_media": null,
+      "reply_to_top_id": null,
+      "quote_text": null,
+      "quote_entities": [],
+      "quote_offset": null,
+      "todo_item_id": null
+    },
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5393607315997869383,
+        "access_hash": 476449591831692980,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACKat+Y4JRJRMkL39DTEjwMoNNPc40="
+        },
+        "date": "2023-11-20T18:25:06Z",
+        "mime_type": "video/mp4",
+        "size": 133755648,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 160.73833333333,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_9624.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWfBbbgPlx9adLAy9Nv5U63nSQlUk+YdRjFQ3VxKuShGAccnk/hUFWKc4ZSQUDDPXpRTiySnc85jB5AxRTAGnYTfKAMDgKOpps8jeWN6gMc9KVV8lmkBGAOMjmollMjqGP8Q/nSKQwOUXYydPWirmowIZ12kJxRTEQTE+TgD6nNR2qEXKFhgKcmiimJE99LvcGiiikkDM="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 178,
+            "h": 320,
+            "size": 17297
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 604,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 2,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 1323261825
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 689,
+      "read_max_id": null
+    },
+    "edit_date": "2023-11-20T20:23:58Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 13,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 2,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 2,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5328157838382473320
+          },
+          "count": 2,
+          "chosen_order": 1
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

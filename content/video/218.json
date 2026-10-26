@@ -1,26 +1,429 @@
 {
-  "id": "records_live4dev:218",
-  "kind": "video",
-  "title": "🟢🟢🟢🟢🟢🟢🟢🟢🟢",
-  "description": "🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+  "record": {
+    "id": "records_live4dev:218",
+    "channel": "records_live4dev",
+    "message_id": 218,
+    "kind": "video",
+    "title": "🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+    "description": "🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+    "caption_original": "🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+    "tags": [],
+    "published_at": "2026-09-11T21:09:34Z",
+    "duration_seconds": 111.76,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/218",
+    "original_filename": "IMG_2601.MP4",
+    "expected_size_bytes": 93337659,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/218.json",
+    "caption_file": "content/video/218.txt",
+    "telegram_document_id": 5271514658631623180,
+    "grouped_id": null,
+    "caption_source_message_id": 218,
+    "edited_at": "2026-09-11T21:09:44Z",
+    "poster": "content/video/218.jpg",
+    "audio_file": "content/audio/218-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+  "caption_effective": "🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+  "message_caption_original": "🟢🟢🟢🟢🟢🟢🟢🟢🟢",
   "caption_source_message_id": 218,
-  "tags": [],
-  "published_at": "2026-09-11T21:09:34Z",
-  "duration_seconds": 111.83999633789,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 93337659,
-  "telegram_url": "https://t.me/records_live4dev/218",
-  "channel": "records_live4dev",
-  "message_id": 218,
-  "availability": "pending",
-  "original_filename": "IMG_2601.MP4",
-  "expected_size_bytes": 93337659,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/218.json",
-  "caption_file": "content/video/218.txt",
-  "telegram_metadata": "ID: 218 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2026-09-11 21:09:34+00:00 | 📎 video, forwarded, edited | views:419, forwards:1, reactions:19",
-  "poster": "content/video/218.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5195126633752729502
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 2,
+      "length": 2,
+      "document_id": 5197265566120844750
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 4,
+      "length": 2,
+      "document_id": 5197569980517882539
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 6,
+      "length": 2,
+      "document_id": 5197248287467410175
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 8,
+      "length": 2,
+      "document_id": 5197315868777815149
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 10,
+      "length": 2,
+      "document_id": 5194959576704786410
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 12,
+      "length": 2,
+      "document_id": 5195456753529035017
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 14,
+      "length": 2,
+      "document_id": 5197248287467410175
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 16,
+      "length": 2,
+      "document_id": 5195126633752729502
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 0,
+      "length": 2,
+      "document_id": 5195126633752729502
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 2,
+      "length": 2,
+      "document_id": 5197265566120844750
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 4,
+      "length": 2,
+      "document_id": 5197569980517882539
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 6,
+      "length": 2,
+      "document_id": 5197248287467410175
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 8,
+      "length": 2,
+      "document_id": 5197315868777815149
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 10,
+      "length": 2,
+      "document_id": 5194959576704786410
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 12,
+      "length": 2,
+      "document_id": 5195456753529035017
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 14,
+      "length": 2,
+      "document_id": 5197248287467410175
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 16,
+      "length": 2,
+      "document_id": 5195126633752729502
+    }
+  ],
+  "date": "2026-09-11T21:09:34Z",
+  "edit_date": "2026-09-11T21:09:44Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": {
+    "_": "MessageFwdHeader",
+    "date": "2026-09-11T20:57:42Z",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 3282631411
+    },
+    "from_name": null,
+    "channel_post": 413,
+    "post_author": null,
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 111.83999633789,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_2601.MP4"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 218,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2026-09-11T21:09:34Z",
+    "message": "🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+      "_": "MessageFwdHeader",
+      "date": "2026-09-11T20:57:42Z",
+      "imported": false,
+      "saved_out": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 3282631411
+      },
+      "from_name": null,
+      "channel_post": 413,
+      "post_author": null,
+      "saved_from_peer": null,
+      "saved_from_msg_id": null,
+      "saved_from_id": null,
+      "saved_from_name": null,
+      "saved_date": null,
+      "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5271514658631623180,
+        "access_hash": -4401775151040584904,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAADaat+Y4F6FaZT1I159pHpPL/tHTM8="
+        },
+        "date": "2026-09-11T20:49:51Z",
+        "mime_type": "video/mp4",
+        "size": 93337659,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 111.83999633789,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_2601.MP4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWx8n1pQzepqYxruCr8xPHSpXtwI+mGXrU3RfIyAFiOtFMK0UybMs2is77lIBU555q7dgQoj/ebOG96zbeVoJAwHGRmnTSeZM7g5zzUtalqXcZlQMCimYIOMUVQcw5uAV460zpRRTMyXzmRQEOCepooopWHdk="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 178,
+            "h": 320,
+            "size": 11192
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityCustomEmoji",
+        "offset": 0,
+        "length": 2,
+        "document_id": 5195126633752729502
+      },
+      {
+        "_": "MessageEntityCustomEmoji",
+        "offset": 2,
+        "length": 2,
+        "document_id": 5197265566120844750
+      },
+      {
+        "_": "MessageEntityCustomEmoji",
+        "offset": 4,
+        "length": 2,
+        "document_id": 5197569980517882539
+      },
+      {
+        "_": "MessageEntityCustomEmoji",
+        "offset": 6,
+        "length": 2,
+        "document_id": 5197248287467410175
+      },
+      {
+        "_": "MessageEntityCustomEmoji",
+        "offset": 8,
+        "length": 2,
+        "document_id": 5197315868777815149
+      },
+      {
+        "_": "MessageEntityCustomEmoji",
+        "offset": 10,
+        "length": 2,
+        "document_id": 5194959576704786410
+      },
+      {
+        "_": "MessageEntityCustomEmoji",
+        "offset": 12,
+        "length": 2,
+        "document_id": 5195456753529035017
+      },
+      {
+        "_": "MessageEntityCustomEmoji",
+        "offset": 14,
+        "length": 2,
+        "document_id": 5197248287467410175
+      },
+      {
+        "_": "MessageEntityCustomEmoji",
+        "offset": 16,
+        "length": 2,
+        "document_id": 5195126633752729502
+      }
+    ],
+    "views": 499,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 1,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 226090226
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 952,
+      "read_max_id": null
+    },
+    "edit_date": "2026-09-11T21:09:44Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 12,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 3,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 3,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5325850195404005217
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

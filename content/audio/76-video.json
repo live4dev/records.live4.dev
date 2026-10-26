@@ -1,0 +1,324 @@
+{
+  "record": {
+    "id": "records_live4dev:76:audio",
+    "channel": "records_live4dev",
+    "message_id": 76,
+    "kind": "audio",
+    "title": "В гости пришел Ваня aka @PsyHooi ) посидели помучали соседей )",
+    "description": "В гости пришел Ваня aka @PsyHooi ) посидели помучали соседей )\n\n#voice #guitar #cover",
+    "caption_original": "В гости пришел Ваня aka @PsyHooi ) посидели помучали соседей )\n\n#voice #guitar #cover",
+    "tags": [
+      "voice",
+      "guitar",
+      "cover"
+    ],
+    "published_at": "2022-12-03T15:06:05Z",
+    "duration_seconds": 165.906009,
+    "file": "content/audio/76-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1339238,
+    "telegram_url": "https://t.me/records_live4dev/76",
+    "expected_size_bytes": 1339238,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/76-video.json",
+    "caption_file": "content/audio/76-video.txt",
+    "telegram_document_id": 5215700935849812103,
+    "grouped_id": null,
+    "caption_source_message_id": 76,
+    "edited_at": "2022-12-03T15:54:25Z",
+    "poster": "content/video/76.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:76",
+    "source_original_filename": "IMG_6068.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "В гости пришел Ваня aka @PsyHooi ) посидели помучали соседей )\n\n#voice #guitar #cover",
+  "caption_effective": "В гости пришел Ваня aka @PsyHooi ) посидели помучали соседей )\n\n#voice #guitar #cover",
+  "message_caption_original": "В гости пришел Ваня aka @PsyHooi ) посидели помучали соседей )\n\n#voice #guitar #cover",
+  "caption_source_message_id": 76,
+  "entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 24,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 64,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 71,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 79,
+      "length": 6
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 24,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 64,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 71,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 79,
+      "length": 6
+    }
+  ],
+  "date": "2022-12-03T15:06:05Z",
+  "edit_date": "2022-12-03T15:54:25Z",
+  "grouped_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 69,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null
+  },
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 166.0,
+      "w": 848,
+      "h": 464,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_6068.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 76,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2022-12-03T15:06:05Z",
+    "message": "В гости пришел Ваня aka @PsyHooi ) посидели помучали соседей )\n\n#voice #guitar #cover",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": {
+      "_": "MessageReplyHeader",
+      "reply_to_scheduled": false,
+      "forum_topic": false,
+      "quote": false,
+      "reply_to_msg_id": 69,
+      "reply_to_peer_id": null,
+      "reply_from": null,
+      "reply_media": null,
+      "reply_to_top_id": null,
+      "quote_text": null,
+      "quote_entities": [],
+      "quote_offset": null,
+      "todo_item_id": null
+    },
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5215700935849812103,
+        "access_hash": 1742834762146116722,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAABMat+FL+vMsLvDVbliCuPHzcOgbBU="
+        },
+        "date": "2022-12-03T15:06:05Z",
+        "mime_type": "video/mp4",
+        "size": 53225623,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 166.0,
+            "w": 848,
+            "h": 464,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_6068.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ARYoigLsQM4Gan3AT7QzbSMjpVcuBF8oG7+VQMzGUPnBpBY2CAY+pNUnacAskY2DuaekxaEknG3vVdZiqMNuRng0NlJEgIdQ2OtFVy7kADGB0HT+tFBNiQwt5ZkBGBwaSJA74boATRRQUSw48k7s8njH40hOHZCMqo4/Kiioe5pErqxBDYGRRRRVomW5"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 180,
+            "size": 16999
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityMention",
+        "offset": 24,
+        "length": 8
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 64,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 71,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 79,
+        "length": 6
+      }
+    ],
+    "views": 369,
+    "forwards": 7,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 3,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 314183792
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 193954312
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 181351251
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 330,
+      "read_max_id": null
+    },
+    "edit_date": "2022-12-03T15:54:25Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 11,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 5,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🥰"
+          },
+          "count": 3,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

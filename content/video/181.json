@@ -1,26 +1,214 @@
 {
-  "id": "records_live4dev:181",
-  "kind": "video",
-  "title": "Я готов тебя очень ждать — Эдуард Асадов. Навеяно исполнением группы Аэронавтика.",
-  "description": "Я готов тебя очень ждать — Эдуард Асадов. Навеяно исполнением группы Аэронавтика. \n\nПоследнее время мало слушаю музыку, оттого и меньше песни цепляют, зато научился быть наедине с самим собой. Помнится как пару лет назад давал себе максимально мало времени на рефлексию в тишине, а сейчас очень даже нравится.",
+  "record": {
+    "id": "records_live4dev:181",
+    "channel": "records_live4dev",
+    "message_id": 181,
+    "kind": "video",
+    "title": "Я готов тебя очень ждать — Эдуард Асадов. Навеяно исполнением группы Аэронавтика.",
+    "description": "Я готов тебя очень ждать — Эдуард Асадов. Навеяно исполнением группы Аэронавтика. \n\nПоследнее время мало слушаю музыку, оттого и меньше песни цепляют, зато научился быть наедине с самим собой. Помнится как пару лет назад давал себе максимально мало времени на рефлексию в тишине, а сейчас очень даже нравится.",
+    "caption_original": "Я готов тебя очень ждать — Эдуард Асадов. Навеяно исполнением группы Аэронавтика. \n\nПоследнее время мало слушаю музыку, оттого и меньше песни цепляют, зато научился быть наедине с самим собой. Помнится как пару лет назад давал себе максимально мало времени на рефлексию в тишине, а сейчас очень даже нравится.",
+    "tags": [],
+    "published_at": "2025-01-08T18:25:25Z",
+    "duration_seconds": 148.0,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/181",
+    "original_filename": "IMG_0639.MOV",
+    "expected_size_bytes": 30916943,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/181.json",
+    "caption_file": "content/video/181.txt",
+    "telegram_document_id": 5474244218878714713,
+    "grouped_id": null,
+    "caption_source_message_id": 181,
+    "edited_at": "2025-01-08T18:51:34Z",
+    "poster": "content/video/181.jpg",
+    "audio_file": "content/audio/181-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Я готов тебя очень ждать — Эдуард Асадов. Навеяно исполнением группы Аэронавтика. \n\nПоследнее время мало слушаю музыку, оттого и меньше песни цепляют, зато научился быть наедине с самим собой. Помнится как пару лет назад давал себе максимально мало времени на рефлексию в тишине, а сейчас очень даже нравится.",
+  "caption_effective": "Я готов тебя очень ждать — Эдуард Асадов. Навеяно исполнением группы Аэронавтика. \n\nПоследнее время мало слушаю музыку, оттого и меньше песни цепляют, зато научился быть наедине с самим собой. Помнится как пару лет назад давал себе максимально мало времени на рефлексию в тишине, а сейчас очень даже нравится.",
+  "message_caption_original": "Я готов тебя очень ждать — Эдуард Асадов. Навеяно исполнением группы Аэронавтика. \n\nПоследнее время мало слушаю музыку, оттого и меньше песни цепляют, зато научился быть наедине с самим собой. Помнится как пару лет назад давал себе максимально мало времени на рефлексию в тишине, а сейчас очень даже нравится.",
   "caption_source_message_id": 181,
-  "tags": [],
-  "published_at": "2025-01-08T18:25:25Z",
-  "duration_seconds": 148.07333333333,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 30916943,
-  "telegram_url": "https://t.me/records_live4dev/181",
-  "channel": "records_live4dev",
-  "message_id": 181,
-  "availability": "pending",
-  "original_filename": "IMG_0639.MOV",
-  "expected_size_bytes": 30916943,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/181.json",
-  "caption_file": "content/video/181.txt",
-  "telegram_metadata": "ID: 181 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2025-01-08 18:25:25+00:00 | 📎 video, edited | views:2433, forwards:2, reactions:18",
-  "poster": "content/video/181.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [],
+  "caption_entities": [],
+  "date": "2025-01-08T18:25:25Z",
+  "edit_date": "2025-01-08T18:51:34Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 148.07333333333,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_0639.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 181,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2025-01-08T18:25:25Z",
+    "message": "Я готов тебя очень ждать — Эдуард Асадов. Навеяно исполнением группы Аэронавтика. \n\nПоследнее время мало слушаю музыку, оттого и меньше песни цепляют, зато научился быть наедине с самим собой. Помнится как пару лет назад давал себе максимально мало времени на рефлексию в тишине, а сейчас очень даже нравится.",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5474244218878714713,
+        "access_hash": -4162625901682991793,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAC1at+Y4JRnivIRyUuzFaJiEd+JGWo="
+        },
+        "date": "2025-01-08T18:14:05Z",
+        "mime_type": "video/mp4",
+        "size": 30916943,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 148.07333333333,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_0639.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWYzRQAb8k46CrEKxzxh05FR5eOaV+ArABSeantWO2R8qVPIIqC7EJg4Boq0MbFz6UUXFYwI53jyAAQeCD0qWCVo50KhgpxuUd/Wp0t1jYq0g9cU3eUuQS2UA4IxQpJ7D5Wi680rgFY9oPPzdfyoqKWVnRWjwc+9FAWKk0qNKrDr3FMmzuBUbRRRVJdRNkQwBiiiimSQ=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 175,
+            "h": 320,
+            "size": 14692
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 2434,
+    "forwards": 2,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 0,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [],
+      "channel_id": 1290562209,
+      "max_id": null,
+      "read_max_id": null
+    },
+    "edit_date": "2025-01-08T18:51:34Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 14,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 2,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5325850195404005217
+          },
+          "count": 2,
+          "chosen_order": 1
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

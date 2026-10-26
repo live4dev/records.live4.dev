@@ -1,26 +1,232 @@
 {
-  "id": "records_live4dev:27",
-  "kind": "video",
-  "title": "Обожаю когда песни построены на собственных переживаниях и опыте.",
-  "description": "Обожаю когда песни построены на собственных переживаниях и опыте. \n\nВ этой записи жизненный и музыкальный опыт @shaaadrina, случайно попавшаяся бас гитара, пара бутылок отличного вина и немного ора. \n\nВ оригинале Юля исполняет песню на фортепьяно, надеюсь она скоро ее  запишет и поделится :)",
+  "record": {
+    "id": "records_live4dev:27",
+    "channel": "records_live4dev",
+    "message_id": 27,
+    "kind": "video",
+    "title": "Обожаю когда песни построены на собственных переживаниях и опыте.",
+    "description": "Обожаю когда песни построены на собственных переживаниях и опыте. \n\nВ этой записи жизненный и музыкальный опыт @shaaadrina, случайно попавшаяся бас гитара, пара бутылок отличного вина и немного ора. \n\nВ оригинале Юля исполняет песню на фортепьяно, надеюсь она скоро ее  запишет и поделится :)",
+    "caption_original": "Обожаю когда песни построены на собственных переживаниях и опыте. \n\nВ этой записи жизненный и музыкальный опыт @shaaadrina, случайно попавшаяся бас гитара, пара бутылок отличного вина и немного ора. \n\nВ оригинале Юля исполняет песню на фортепьяно, надеюсь она скоро ее  запишет и поделится :)",
+    "tags": [],
+    "published_at": "2021-08-02T11:22:08Z",
+    "duration_seconds": 164.628333,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/27",
+    "original_filename": "IMG_6772.MOV",
+    "expected_size_bytes": 52962526,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/27.json",
+    "caption_file": "content/video/27.txt",
+    "telegram_document_id": 5206577742413303520,
+    "grouped_id": null,
+    "caption_source_message_id": 27,
+    "edited_at": "2022-09-09T19:18:20Z",
+    "poster": "content/video/27.jpg",
+    "audio_file": "content/audio/27-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Обожаю когда песни построены на собственных переживаниях и опыте. \n\nВ этой записи жизненный и музыкальный опыт @shaaadrina, случайно попавшаяся бас гитара, пара бутылок отличного вина и немного ора. \n\nВ оригинале Юля исполняет песню на фортепьяно, надеюсь она скоро ее  запишет и поделится :)",
+  "caption_effective": "Обожаю когда песни построены на собственных переживаниях и опыте. \n\nВ этой записи жизненный и музыкальный опыт @shaaadrina, случайно попавшаяся бас гитара, пара бутылок отличного вина и немного ора. \n\nВ оригинале Юля исполняет песню на фортепьяно, надеюсь она скоро ее  запишет и поделится :)",
+  "message_caption_original": "Обожаю когда песни построены на собственных переживаниях и опыте. \n\nВ этой записи жизненный и музыкальный опыт @shaaadrina, случайно попавшаяся бас гитара, пара бутылок отличного вина и немного ора. \n\nВ оригинале Юля исполняет песню на фортепьяно, надеюсь она скоро ее  запишет и поделится :)",
   "caption_source_message_id": 27,
-  "tags": [],
-  "published_at": "2021-08-02T11:22:08Z",
-  "duration_seconds": 164,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 52962526,
-  "telegram_url": "https://t.me/records_live4dev/27",
-  "channel": "records_live4dev",
-  "message_id": 27,
-  "availability": "pending",
-  "original_filename": "IMG_6772.MOV",
-  "expected_size_bytes": 52962526,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/27.json",
-  "caption_file": "content/video/27.txt",
-  "telegram_metadata": "ID: 27 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-08-02 11:22:08+00:00 | 📎 video, edited | views:300, forwards:3, reactions:4",
-  "poster": "content/video/27.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 111,
+      "length": 11
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 111,
+      "length": 11
+    }
+  ],
+  "date": "2021-08-02T11:22:08Z",
+  "edit_date": "2022-09-09T19:18:20Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 164.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_6772.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 27,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-08-02T11:22:08Z",
+    "message": "Обожаю когда песни построены на собственных переживаниях и опыте. \n\nВ этой записи жизненный и музыкальный опыт @shaaadrina, случайно попавшаяся бас гитара, пара бутылок отличного вина и немного ора. \n\nВ оригинале Юля исполняет песню на фортепьяно, надеюсь она скоро ее  запишет и поделится :)",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5206577742413303520,
+        "access_hash": -717673841257917984,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAbat9+LK5Rvlc5orXzf+fAIBcyIEs="
+        },
+        "date": "2021-08-02T11:22:08Z",
+        "mime_type": "video/mp4",
+        "size": 52962526,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 164.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_6772.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWZC/bZVliygfKv4mqqoi26yKMOMc561Plyow6/lUblbDvOkHTy/1oqETMrbXwOMgnvRTFqKinG1kDj17mq7yCB3CLznhW7CpopHCbGBBH8XtVSQCWYs0gwT17inoh6sfJcBwpC/MBznpRTWt3wOVb3zRRoDuOJljf50IH+0KZcRhGBC5Vu1FFVe+5NrESYC/N68CiiikM"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 20079
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityMention",
+        "offset": 111,
+        "length": 11
+      }
+    ],
+    "views": 300,
+    "forwards": 3,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 2,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerChannel",
+          "channel_id": 1290562209
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 180650450
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 17,
+      "read_max_id": null
+    },
+    "edit_date": "2022-09-09T19:18:20Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 3,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

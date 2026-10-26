@@ -1,0 +1,299 @@
+{
+  "record": {
+    "id": "records_live4dev:63:audio",
+    "channel": "records_live4dev",
+    "message_id": 63,
+    "kind": "audio",
+    "title": "Вечер воскресенья отличное время помузицировать (или просто поорать) и вспомнить что в жизни есть разные маяки, которые помогают не потерят…",
+    "description": "Вечер воскресенья отличное время помузицировать (или просто поорать) и вспомнить что в жизни есть разные маяки, которые помогают не потерять ориентир, один из таких ориентиров — Мечта. Ребята из Аффинажа  хорошо описывают способ вспомнить о своей мечте — «в холодной темноте на языке огня со мной поговори». Обожаю медитировать на огонь, хотя однажды залип на свечке и чуть не угорел, но кажется это уже другая история, просто надо было технику безопастности соблюдать :)\n\nА как вы понимаете что это ваша мечта? И есть ли она вообще? )\n\naudio #cover #acoustic #voice",
+    "caption_original": "Вечер воскресенья отличное время помузицировать (или просто поорать) и вспомнить что в жизни есть разные маяки, которые помогают не потерять ориентир, один из таких ориентиров — Мечта. Ребята из Аффинажа  хорошо описывают способ вспомнить о своей мечте — «в холодной темноте на языке огня со мной поговори». Обожаю медитировать на огонь, хотя однажды залип на свечке и чуть не угорел, но кажется это уже другая история, просто надо было технику безопастности соблюдать :)\n\nА как вы понимаете что это ваша мечта? И есть ли она вообще? )\n\naudio #cover #acoustic #voice",
+    "tags": [
+      "cover",
+      "acoustic",
+      "voice"
+    ],
+    "published_at": "2022-08-07T16:52:29Z",
+    "duration_seconds": 145.077007,
+    "file": "content/audio/63-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1074411,
+    "telegram_url": "https://t.me/records_live4dev/63",
+    "expected_size_bytes": 1074411,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/63-video.json",
+    "caption_file": "content/audio/63-video.txt",
+    "telegram_document_id": 5440604574727544068,
+    "grouped_id": null,
+    "caption_source_message_id": 63,
+    "edited_at": "2022-08-23T12:43:42Z",
+    "poster": "content/video/63.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:63",
+    "source_original_filename": "IMG_3441.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Вечер воскресенья отличное время помузицировать (или просто поорать) и вспомнить что в жизни есть разные маяки, которые помогают не потерять ориентир, один из таких ориентиров — Мечта. Ребята из Аффинажа  хорошо описывают способ вспомнить о своей мечте — «в холодной темноте на языке огня со мной поговори». Обожаю медитировать на огонь, хотя однажды залип на свечке и чуть не угорел, но кажется это уже другая история, просто надо было технику безопастности соблюдать :)\n\nА как вы понимаете что это ваша мечта? И есть ли она вообще? )\n\naudio #cover #acoustic #voice",
+  "caption_effective": "Вечер воскресенья отличное время помузицировать (или просто поорать) и вспомнить что в жизни есть разные маяки, которые помогают не потерять ориентир, один из таких ориентиров — Мечта. Ребята из Аффинажа  хорошо описывают способ вспомнить о своей мечте — «в холодной темноте на языке огня со мной поговори». Обожаю медитировать на огонь, хотя однажды залип на свечке и чуть не угорел, но кажется это уже другая история, просто надо было технику безопастности соблюдать :)\n\nА как вы понимаете что это ваша мечта? И есть ли она вообще? )\n\naudio #cover #acoustic #voice",
+  "message_caption_original": "Вечер воскресенья отличное время помузицировать (или просто поорать) и вспомнить что в жизни есть разные маяки, которые помогают не потерять ориентир, один из таких ориентиров — Мечта. Ребята из Аффинажа  хорошо описывают способ вспомнить о своей мечте — «в холодной темноте на языке огня со мной поговори». Обожаю медитировать на огонь, хотя однажды залип на свечке и чуть не угорел, но кажется это уже другая история, просто надо было технику безопастности соблюдать :)\n\nА как вы понимаете что это ваша мечта? И есть ли она вообще? )\n\naudio #cover #acoustic #voice",
+  "caption_source_message_id": 63,
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 537,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/52"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 543,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 550,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 560,
+      "length": 6
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 537,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/52"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 543,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 550,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 560,
+      "length": 6
+    }
+  ],
+  "date": "2022-08-07T16:52:29Z",
+  "edit_date": "2022-08-23T12:43:42Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 145.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_3441.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 63,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2022-08-07T16:52:29Z",
+    "message": "Вечер воскресенья отличное время помузицировать (или просто поорать) и вспомнить что в жизни есть разные маяки, которые помогают не потерять ориентир, один из таких ориентиров — Мечта. Ребята из Аффинажа  хорошо описывают способ вспомнить о своей мечте — «в холодной темноте на языке огня со мной поговори». Обожаю медитировать на огонь, хотя однажды залип на свечке и чуть не угорел, но кажется это уже другая история, просто надо было технику безопастности соблюдать :)\n\nА как вы понимаете что это ваша мечта? И есть ли она вообще? )\n\naudio #cover #acoustic #voice",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5440604574727544068,
+        "access_hash": -9109999729733352801,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAA/at9+LBuFlqWSN6Qgg18UxqD+puU="
+        },
+        "date": "2022-08-07T16:52:29Z",
+        "mime_type": "video/mp4",
+        "size": 46412417,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 145.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_3441.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWn0+6SVyoPPvWgVz61lWccJYYjIdTnIrRcoNoJPzHA5qEU0DxKe360U11A9cfWigRQj+TzFOCxG7Ge1J9oKhN33VbPJqGYiK8Uo2A68/Q0kjIrBFUgA8k84HFJF7ktzesu0Ie3NFUZXaVs+W3/AaKqxJLd5d0RPm2jHFT/LFbBG5IHP1ooqNrFknnxYA2kD6UUUVPMxE="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 18013
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 537,
+        "length": 5,
+        "url": "https://t.me/mp3records_live4dev/52"
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 543,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 550,
+        "length": 9
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 560,
+        "length": 6
+      }
+    ],
+    "views": 332,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 11,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 1323261825
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 180650450
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 227,
+      "read_max_id": null
+    },
+    "edit_date": "2022-08-23T12:43:42Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 14,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 6,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 3,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

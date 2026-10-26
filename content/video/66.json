@@ -1,30 +1,297 @@
 {
-  "id": "records_live4dev:66",
-  "kind": "video",
-  "title": "Прошу тебя помни — «Какой бы тёмной ни была ночь, вслед за ней всегда наступит утро».",
-  "description": "Прошу тебя помни — «Какой бы тёмной ни была ночь, вслед за ней всегда наступит утро».\n\nПоследнее время полюбил импровизацию на гитаре, импровизация как путешествие по своим (или чужим) эмоциям, ощущениям, переживаниям. Суббота была отличным днём, но под вечер опять в голове поселился рой мыслей о уезжающих близких людях. Решил просто заснуть проигрывая в голове мелодию описывающую солнечное утро и дальше по сценарию выходного дня :) Проснувшись пришла идея накидать скелет на тему “Это пройдёт” или “Вслед за ночью обязательно наступит устро”. \n\nP.S. Обычно к записям у меня есть условие что надо её сделать без склеиваний, просто за один подход от и до. Особенно доставляют ошибки в конце записи =) всё приходится переделывать снова и снова. Это особенно смешно когда в начале приходится подобным фразы. А это еще и импровизация… хорошо что хоть перфекционизмом не страдаю :)\n\nP.S.S. Как думаете, какая полная подпись на футболке? =)\n\naudio #guitar #improvisation #ЗаметкиНаПолях",
+  "record": {
+    "id": "records_live4dev:66",
+    "channel": "records_live4dev",
+    "message_id": 66,
+    "kind": "video",
+    "title": "Прошу тебя помни — «Какой бы тёмной ни была ночь, вслед за ней всегда наступит утро».",
+    "description": "Прошу тебя помни — «Какой бы тёмной ни была ночь, вслед за ней всегда наступит утро».\n\nПоследнее время полюбил импровизацию на гитаре, импровизация как путешествие по своим (или чужим) эмоциям, ощущениям, переживаниям. Суббота была отличным днём, но под вечер опять в голове поселился рой мыслей о уезжающих близких людях. Решил просто заснуть проигрывая в голове мелодию описывающую солнечное утро и дальше по сценарию выходного дня :) Проснувшись пришла идея накидать скелет на тему “Это пройдёт” или “Вслед за ночью обязательно наступит устро”. \n\nP.S. Обычно к записям у меня есть условие что надо её сделать без склеиваний, просто за один подход от и до. Особенно доставляют ошибки в конце записи =) всё приходится переделывать снова и снова. Это особенно смешно когда в начале приходится подобным фразы. А это еще и импровизация… хорошо что хоть перфекционизмом не страдаю :)\n\nP.S.S. Как думаете, какая полная подпись на футболке? =)\n\naudio #guitar #improvisation #ЗаметкиНаПолях",
+    "caption_original": "Прошу тебя помни — «Какой бы тёмной ни была ночь, вслед за ней всегда наступит утро».\n\nПоследнее время полюбил импровизацию на гитаре, импровизация как путешествие по своим (или чужим) эмоциям, ощущениям, переживаниям. Суббота была отличным днём, но под вечер опять в голове поселился рой мыслей о уезжающих близких людях. Решил просто заснуть проигрывая в голове мелодию описывающую солнечное утро и дальше по сценарию выходного дня :) Проснувшись пришла идея накидать скелет на тему “Это пройдёт” или “Вслед за ночью обязательно наступит устро”. \n\nP.S. Обычно к записям у меня есть условие что надо её сделать без склеиваний, просто за один подход от и до. Особенно доставляют ошибки в конце записи =) всё приходится переделывать снова и снова. Это особенно смешно когда в начале приходится подобным фразы. А это еще и импровизация… хорошо что хоть перфекционизмом не страдаю :)\n\nP.S.S. Как думаете, какая полная подпись на футболке? =)\n\naudio #guitar #improvisation #ЗаметкиНаПолях",
+    "tags": [
+      "guitar",
+      "improvisation",
+      "ЗаметкиНаПолях"
+    ],
+    "published_at": "2022-09-11T12:34:40Z",
+    "duration_seconds": 203.366667,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/66",
+    "original_filename": "IMG_4384.MOV",
+    "expected_size_bytes": 103581615,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/66.json",
+    "caption_file": "content/video/66.txt",
+    "telegram_document_id": 5255945389298687451,
+    "grouped_id": null,
+    "caption_source_message_id": 66,
+    "edited_at": "2024-05-06T19:19:13Z",
+    "poster": "content/video/66.jpg",
+    "audio_file": "content/audio/66-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Прошу тебя помни — «Какой бы тёмной ни была ночь, вслед за ней всегда наступит утро».\n\nПоследнее время полюбил импровизацию на гитаре, импровизация как путешествие по своим (или чужим) эмоциям, ощущениям, переживаниям. Суббота была отличным днём, но под вечер опять в голове поселился рой мыслей о уезжающих близких людях. Решил просто заснуть проигрывая в голове мелодию описывающую солнечное утро и дальше по сценарию выходного дня :) Проснувшись пришла идея накидать скелет на тему “Это пройдёт” или “Вслед за ночью обязательно наступит устро”. \n\nP.S. Обычно к записям у меня есть условие что надо её сделать без склеиваний, просто за один подход от и до. Особенно доставляют ошибки в конце записи =) всё приходится переделывать снова и снова. Это особенно смешно когда в начале приходится подобным фразы. А это еще и импровизация… хорошо что хоть перфекционизмом не страдаю :)\n\nP.S.S. Как думаете, какая полная подпись на футболке? =)\n\naudio #guitar #improvisation #ЗаметкиНаПолях",
+  "caption_effective": "Прошу тебя помни — «Какой бы тёмной ни была ночь, вслед за ней всегда наступит утро».\n\nПоследнее время полюбил импровизацию на гитаре, импровизация как путешествие по своим (или чужим) эмоциям, ощущениям, переживаниям. Суббота была отличным днём, но под вечер опять в голове поселился рой мыслей о уезжающих близких людях. Решил просто заснуть проигрывая в голове мелодию описывающую солнечное утро и дальше по сценарию выходного дня :) Проснувшись пришла идея накидать скелет на тему “Это пройдёт” или “Вслед за ночью обязательно наступит устро”. \n\nP.S. Обычно к записям у меня есть условие что надо её сделать без склеиваний, просто за один подход от и до. Особенно доставляют ошибки в конце записи =) всё приходится переделывать снова и снова. Это особенно смешно когда в начале приходится подобным фразы. А это еще и импровизация… хорошо что хоть перфекционизмом не страдаю :)\n\nP.S.S. Как думаете, какая полная подпись на футболке? =)\n\naudio #guitar #improvisation #ЗаметкиНаПолях",
+  "message_caption_original": "Прошу тебя помни — «Какой бы тёмной ни была ночь, вслед за ней всегда наступит утро».\n\nПоследнее время полюбил импровизацию на гитаре, импровизация как путешествие по своим (или чужим) эмоциям, ощущениям, переживаниям. Суббота была отличным днём, но под вечер опять в голове поселился рой мыслей о уезжающих близких людях. Решил просто заснуть проигрывая в голове мелодию описывающую солнечное утро и дальше по сценарию выходного дня :) Проснувшись пришла идея накидать скелет на тему “Это пройдёт” или “Вслед за ночью обязательно наступит устро”. \n\nP.S. Обычно к записям у меня есть условие что надо её сделать без склеиваний, просто за один подход от и до. Особенно доставляют ошибки в конце записи =) всё приходится переделывать снова и снова. Это особенно смешно когда в начале приходится подобным фразы. А это еще и импровизация… хорошо что хоть перфекционизмом не страдаю :)\n\nP.S.S. Как думаете, какая полная подпись на футболке? =)\n\naudio #guitar #improvisation #ЗаметкиНаПолях",
   "caption_source_message_id": 66,
-  "tags": [
-    "guitar",
-    "improvisation",
-    "ЗаметкиНаПолях"
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 940,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/55"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 946,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 954,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 969,
+      "length": 15
+    }
   ],
-  "published_at": "2022-09-11T12:34:40Z",
-  "duration_seconds": 203,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 103581615,
-  "telegram_url": "https://t.me/records_live4dev/66",
-  "channel": "records_live4dev",
-  "message_id": 66,
-  "availability": "pending",
-  "original_filename": "IMG_4384.MOV",
-  "expected_size_bytes": 103581615,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/66.json",
-  "caption_file": "content/video/66.txt",
-  "telegram_metadata": "ID: 66 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-09-11 12:34:40+00:00 | 📎 video, edited | views:447, forwards:9, reactions:17",
-  "poster": "content/video/66.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 940,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/55"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 946,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 954,
+      "length": 14
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 969,
+      "length": 15
+    }
+  ],
+  "date": "2022-09-11T12:34:40Z",
+  "edit_date": "2024-05-06T19:19:13Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 203.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_4384.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 66,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2022-09-11T12:34:40Z",
+    "message": "Прошу тебя помни — «Какой бы тёмной ни была ночь, вслед за ней всегда наступит утро».\n\nПоследнее время полюбил импровизацию на гитаре, импровизация как путешествие по своим (или чужим) эмоциям, ощущениям, переживаниям. Суббота была отличным днём, но под вечер опять в голове поселился рой мыслей о уезжающих близких людях. Решил просто заснуть проигрывая в голове мелодию описывающую солнечное утро и дальше по сценарию выходного дня :) Проснувшись пришла идея накидать скелет на тему “Это пройдёт” или “Вслед за ночью обязательно наступит устро”. \n\nP.S. Обычно к записям у меня есть условие что надо её сделать без склеиваний, просто за один подход от и до. Особенно доставляют ошибки в конце записи =) всё приходится переделывать снова и снова. Это особенно смешно когда в начале приходится подобным фразы. А это еще и импровизация… хорошо что хоть перфекционизмом не страдаю :)\n\nP.S.S. Как думаете, какая полная подпись на футболке? =)\n\naudio #guitar #improvisation #ЗаметкиНаПолях",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5255945389298687451,
+        "access_hash": 7137768380816136757,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAABCat9+LMfCt51rFuMTLWwecLAqZcw="
+        },
+        "date": "2022-09-11T12:34:40Z",
+        "mime_type": "video/mp4",
+        "size": 103581615,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 203.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_4384.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWnieInqM1Y2oVxhTWXZQNMDJ55VvTFX42UrscAsvB4rOxoDxr2VfyooMYHKjrRTJKensqRbnIwhz15phkkaZ/mHrzx71Ha2zXD/Lwo6mpJcCVhGFIB2qf6/nmm1YadxJrzChUbkHmiqT/ADSMc45zminYVyxb3Rht3XPU9KTBAxjJC5P+frRRQ+gLqRojyEhFLHrwKKKK0SM7nw=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 178,
+            "h": 320,
+            "size": 19026
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 940,
+        "length": 5,
+        "url": "https://t.me/mp3records_live4dev/55"
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 946,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 954,
+        "length": 14
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 969,
+        "length": 15
+      }
+    ],
+    "views": 451,
+    "forwards": 9,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 3,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 181351251
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 193954312
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 253,
+      "read_max_id": null
+    },
+    "edit_date": "2024-05-06T19:19:13Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 13,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 3,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🥰"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

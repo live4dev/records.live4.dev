@@ -1,0 +1,317 @@
+{
+  "record": {
+    "id": "records_live4dev:143:audio",
+    "channel": "records_live4dev",
+    "message_id": 143,
+    "kind": "audio",
+    "title": "Довольный сегодня записал пару песен так что потихоньку буду выкладывать.",
+    "description": "Довольный сегодня записал пару песен так что потихоньку буду выкладывать. \n\nА пока еще одна запись с Настей кавер на песню Vos’ и Paragis — Голышом.\n\nИ напоминание для тех кто в Питере про квартирник 8го января https://t.me/records_live4dev/142\n\n#guest #cover #guitar #voice",
+    "caption_original": "Довольный сегодня записал пару песен так что потихоньку буду выкладывать. \n\nА пока еще одна запись с Настей кавер на песню Vos’ и Paragis — Голышом.\n\nИ напоминание для тех кто в Питере про квартирник 8го января https://t.me/records_live4dev/142\n\n#guest #cover #guitar #voice",
+    "tags": [
+      "guest",
+      "cover",
+      "guitar",
+      "voice"
+    ],
+    "published_at": "2024-01-06T19:04:58Z",
+    "duration_seconds": 196.671995,
+    "file": "content/audio/143-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1580997,
+    "telegram_url": "https://t.me/records_live4dev/143",
+    "expected_size_bytes": 1580997,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/143-video.json",
+    "caption_file": "content/audio/143-video.txt",
+    "telegram_document_id": 5247076110033765766,
+    "grouped_id": null,
+    "caption_source_message_id": 143,
+    "edited_at": "2024-01-23T10:51:45Z",
+    "poster": "content/video/143.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:143",
+    "source_original_filename": "IMG_0304.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Довольный сегодня записал пару песен так что потихоньку буду выкладывать. \n\nА пока еще одна запись с Настей кавер на песню Vos’ и Paragis — Голышом.\n\nИ напоминание для тех кто в Питере про квартирник 8го января https://t.me/records_live4dev/142\n\n#guest #cover #guitar #voice",
+  "caption_effective": "Довольный сегодня записал пару песен так что потихоньку буду выкладывать. \n\nА пока еще одна запись с Настей кавер на песню Vos’ и Paragis — Голышом.\n\nИ напоминание для тех кто в Питере про квартирник 8го января https://t.me/records_live4dev/142\n\n#guest #cover #guitar #voice",
+  "message_caption_original": "Довольный сегодня записал пару песен так что потихоньку буду выкладывать. \n\nА пока еще одна запись с Настей кавер на песню Vos’ и Paragis — Голышом.\n\nИ напоминание для тех кто в Питере про квартирник 8го января https://t.me/records_live4dev/142\n\n#guest #cover #guitar #voice",
+  "caption_source_message_id": 143,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 211,
+      "length": 33
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 246,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 253,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 260,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 268,
+      "length": 6
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 211,
+      "length": 33
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 246,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 253,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 260,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 268,
+      "length": 6
+    }
+  ],
+  "date": "2024-01-06T19:04:58Z",
+  "edit_date": "2024-01-23T10:51:45Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 196.76833333333,
+      "w": 848,
+      "h": 464,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_0304.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 143,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2024-01-06T19:04:58Z",
+    "message": "Довольный сегодня записал пару песен так что потихоньку буду выкладывать. \n\nА пока еще одна запись с Настей кавер на песню Vos’ и Paragis — Голышом.\n\nИ напоминание для тех кто в Питере про квартирник 8го января https://t.me/records_live4dev/142\n\n#guest #cover #guitar #voice",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5247076110033765766,
+        "access_hash": -2171207363433816695,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACPat+Y4H0AIwtLjnuNhR+7GdRNF3o="
+        },
+        "date": "2024-01-06T19:04:58Z",
+        "mime_type": "video/mp4",
+        "size": 163874820,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 196.76833333333,
+            "w": 848,
+            "h": 464,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_0304.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ARYorqxZiamUmRvkUMB2LVVDqoJ3E+1S2bqSd2OM1JSL6yhYs4x65pzSlQFOOar27pLCeuQeaZcOGOA3IGcUgKNwSZMn1opbpCu0kj5uwoq0IR0Hl8VEM44oopIGWraVkgKrgZOSe9WEgd5EIYDPOe9FFAFK6C+YSoIGccnk0UUUxH8="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 178,
+            "size": 16520
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityUrl",
+        "offset": 211,
+        "length": 33
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 246,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 253,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 260,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 268,
+        "length": 6
+      }
+    ],
+    "views": 409,
+    "forwards": 0,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 0,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [],
+      "channel_id": 1290562209,
+      "max_id": null,
+      "read_max_id": null
+    },
+    "edit_date": "2024-01-23T10:51:45Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 9,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5328273261333584797
+          },
+          "count": 7,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🥰"
+          },
+          "count": 4,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 3,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5328014223266030170
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

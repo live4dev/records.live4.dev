@@ -1,0 +1,287 @@
+{
+  "record": {
+    "id": "records_live4dev:125:audio",
+    "channel": "records_live4dev",
+    "message_id": 125,
+    "kind": "audio",
+    "title": "В апреле друзья одарили меня балалайкой, видимо я очень воодушевленный был после концерта Архипоского или Нейромонаха 😅. В общем наконец-то…",
+    "description": "В апреле друзья одарили меня балалайкой, видимо я очень воодушевленный был после концерта Архипоского или Нейромонаха 😅. В общем наконец-то добрался немного позалипать дома ;) интересный интрумент 3 струны, две одинаково настроены в классическом строе. В общем импровизации вам и приятного прослушивания. \n\nВнезапно пошел билеты глянуть и Архиповский выступает 27 ноября в Питере, всем рекомендую. \n\naudio #balalaika\n\nUPD. Тут еще какие-то бусты для каналов ввели http://t.me/records_live4dev?boost  есть кто с премом? )",
+    "caption_original": "В апреле друзья одарили меня балалайкой, видимо я очень воодушевленный был после концерта Архипоского или Нейромонаха 😅. В общем наконец-то добрался немного позалипать дома ;) интересный интрумент 3 струны, две одинаково настроены в классическом строе. В общем импровизации вам и приятного прослушивания. \n\nВнезапно пошел билеты глянуть и Архиповский выступает 27 ноября в Питере, всем рекомендую. \n\naudio #balalaika\n\nUPD. Тут еще какие-то бусты для каналов ввели http://t.me/records_live4dev?boost  есть кто с премом? )",
+    "tags": [
+      "balalaika"
+    ],
+    "published_at": "2023-09-23T19:55:20Z",
+    "duration_seconds": 181.486009,
+    "file": "content/audio/125-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1458988,
+    "telegram_url": "https://t.me/records_live4dev/125",
+    "expected_size_bytes": 1458988,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/125-video.json",
+    "caption_file": "content/audio/125-video.txt",
+    "telegram_document_id": 5222224329747479295,
+    "grouped_id": null,
+    "caption_source_message_id": 125,
+    "edited_at": "2023-09-24T07:57:00Z",
+    "poster": "content/video/125.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:125",
+    "source_original_filename": "IMG_8315.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "В апреле друзья одарили меня балалайкой, видимо я очень воодушевленный был после концерта Архипоского или Нейромонаха 😅. В общем наконец-то добрался немного позалипать дома ;) интересный интрумент 3 струны, две одинаково настроены в классическом строе. В общем импровизации вам и приятного прослушивания. \n\nВнезапно пошел билеты глянуть и Архиповский выступает 27 ноября в Питере, всем рекомендую. \n\naudio #balalaika\n\nUPD. Тут еще какие-то бусты для каналов ввели http://t.me/records_live4dev?boost  есть кто с премом? )",
+  "caption_effective": "В апреле друзья одарили меня балалайкой, видимо я очень воодушевленный был после концерта Архипоского или Нейромонаха 😅. В общем наконец-то добрался немного позалипать дома ;) интересный интрумент 3 струны, две одинаково настроены в классическом строе. В общем импровизации вам и приятного прослушивания. \n\nВнезапно пошел билеты глянуть и Архиповский выступает 27 ноября в Питере, всем рекомендую. \n\naudio #balalaika\n\nUPD. Тут еще какие-то бусты для каналов ввели http://t.me/records_live4dev?boost  есть кто с премом? )",
+  "message_caption_original": "В апреле друзья одарили меня балалайкой, видимо я очень воодушевленный был после концерта Архипоского или Нейромонаха 😅. В общем наконец-то добрался немного позалипать дома ;) интересный интрумент 3 струны, две одинаково настроены в классическом строе. В общем импровизации вам и приятного прослушивания. \n\nВнезапно пошел билеты глянуть и Архиповский выступает 27 ноября в Питере, всем рекомендую. \n\naudio #balalaika\n\nUPD. Тут еще какие-то бусты для каналов ввели http://t.me/records_live4dev?boost  есть кто с премом? )",
+  "caption_source_message_id": 125,
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 401,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/64"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 407,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 465,
+      "length": 34
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 401,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/64"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 407,
+      "length": 10
+    },
+    {
+      "_": "MessageEntityUrl",
+      "offset": 465,
+      "length": 34
+    }
+  ],
+  "date": "2023-09-23T19:55:20Z",
+  "edit_date": "2023-09-24T07:57:00Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 181.59333333333,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_8315.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 125,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2023-09-23T19:55:20Z",
+    "message": "В апреле друзья одарили меня балалайкой, видимо я очень воодушевленный был после концерта Архипоского или Нейромонаха 😅. В общем наконец-то добрался немного позалипать дома ;) интересный интрумент 3 струны, две одинаково настроены в классическом строе. В общем импровизации вам и приятного прослушивания. \n\nВнезапно пошел билеты глянуть и Архиповский выступает 27 ноября в Питере, всем рекомендую. \n\naudio #balalaika\n\nUPD. Тут еще какие-то бусты для каналов ввели http://t.me/records_live4dev?boost  есть кто с премом? )",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5222224329747479295,
+        "access_hash": 7872868992095131540,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAB9at+Y4CrRZ0h02EnuSn8hvXSUeos="
+        },
+        "date": "2023-09-23T19:45:20Z",
+        "mime_type": "video/mp4",
+        "size": 151005597,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 181.59333333333,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_8315.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWrTfIoHJJ7AVAxOcEYq1neVKgEDIJAzioXQuwHU+h4qSrFdjzwKKftwxDjBHrRTA0ZpUiAgjAC45PeqRPzjHJpqncSWJpJBtJKUkMH3M5wpJ9hRTFkfOQecUUCHyEN0qIsR3oopoBN2OlFFFMRw=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 178,
+            "h": 320,
+            "size": 13068
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 401,
+        "length": 5,
+        "url": "https://t.me/mp3records_live4dev/64"
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 407,
+        "length": 10
+      },
+      {
+        "_": "MessageEntityUrl",
+        "offset": 465,
+        "length": 34
+      }
+    ],
+    "views": 475,
+    "forwards": 6,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 2,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 39790498
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 635,
+      "read_max_id": null
+    },
+    "edit_date": "2023-09-24T07:57:00Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 13,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 3,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 1,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🎉"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

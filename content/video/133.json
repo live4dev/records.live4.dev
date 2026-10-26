@@ -1,30 +1,297 @@
 {
-  "id": "records_live4dev:133",
-  "kind": "video",
-  "title": "Пару недель назад словил интересное состояния когда все происходящее воспринимается как будто тебе 16 и весь мир против тебя. Потом понял…",
-  "description": "Пару недель назад словил интересное состояния когда все происходящее воспринимается как будто тебе 16 и весь мир против тебя. Потом понял что просто устал словил октябрьский дождь и песню от Mart of Sky - Разводные мосты. Записывал раз 40, местами была забавно наблюдать как мозг поменяет слова, вместо «тоскуем без повода» - «танцуем без повода», вместо «злобный начальник что будет ворчать всю неделю» - «добрый начальник что будет молчать всю неделю».\n\n#acoustic #cover #voice",
+  "record": {
+    "id": "records_live4dev:133",
+    "channel": "records_live4dev",
+    "message_id": 133,
+    "kind": "video",
+    "title": "Пару недель назад словил интересное состояния когда все происходящее воспринимается как будто тебе 16 и весь мир против тебя. Потом понял ч…",
+    "description": "Пару недель назад словил интересное состояния когда все происходящее воспринимается как будто тебе 16 и весь мир против тебя. Потом понял что просто устал словил октябрьский дождь и песню от Mart of Sky - Разводные мосты. Записывал раз 40, местами была забавно наблюдать как мозг поменяет слова, вместо «тоскуем без повода» - «танцуем без повода», вместо «злобный начальник что будет ворчать всю неделю» - «добрый начальник что будет молчать всю неделю».\n\n#acoustic #cover #voice",
+    "caption_original": "Пару недель назад словил интересное состояния когда все происходящее воспринимается как будто тебе 16 и весь мир против тебя. Потом понял что просто устал словил октябрьский дождь и песню от Mart of Sky - Разводные мосты. Записывал раз 40, местами была забавно наблюдать как мозг поменяет слова, вместо «тоскуем без повода» - «танцуем без повода», вместо «злобный начальник что будет ворчать всю неделю» - «добрый начальник что будет молчать всю неделю».\n\n#acoustic #cover #voice",
+    "tags": [
+      "acoustic",
+      "cover",
+      "voice"
+    ],
+    "published_at": "2023-10-29T14:02:17Z",
+    "duration_seconds": 273.366667,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/133",
+    "original_filename": "IMG_9109.MOV",
+    "expected_size_bytes": 227458747,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/133.json",
+    "caption_file": "content/video/133.txt",
+    "telegram_document_id": 5327932326829636510,
+    "grouped_id": null,
+    "caption_source_message_id": 133,
+    "edited_at": "2023-10-29T14:04:54Z",
+    "poster": "content/video/133.jpg",
+    "audio_file": "content/audio/133-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Пару недель назад словил интересное состояния когда все происходящее воспринимается как будто тебе 16 и весь мир против тебя. Потом понял что просто устал словил октябрьский дождь и песню от Mart of Sky - Разводные мосты. Записывал раз 40, местами была забавно наблюдать как мозг поменяет слова, вместо «тоскуем без повода» - «танцуем без повода», вместо «злобный начальник что будет ворчать всю неделю» - «добрый начальник что будет молчать всю неделю».\n\n#acoustic #cover #voice",
+  "caption_effective": "Пару недель назад словил интересное состояния когда все происходящее воспринимается как будто тебе 16 и весь мир против тебя. Потом понял что просто устал словил октябрьский дождь и песню от Mart of Sky - Разводные мосты. Записывал раз 40, местами была забавно наблюдать как мозг поменяет слова, вместо «тоскуем без повода» - «танцуем без повода», вместо «злобный начальник что будет ворчать всю неделю» - «добрый начальник что будет молчать всю неделю».\n\n#acoustic #cover #voice",
+  "message_caption_original": "Пару недель назад словил интересное состояния когда все происходящее воспринимается как будто тебе 16 и весь мир против тебя. Потом понял что просто устал словил октябрьский дождь и песню от Mart of Sky - Разводные мосты. Записывал раз 40, местами была забавно наблюдать как мозг поменяет слова, вместо «тоскуем без повода» - «танцуем без повода», вместо «злобный начальник что будет ворчать всю неделю» - «добрый начальник что будет молчать всю неделю».\n\n#acoustic #cover #voice",
   "caption_source_message_id": 133,
-  "tags": [
-    "acoustic",
-    "cover",
-    "voice"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 456,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 466,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 473,
+      "length": 6
+    }
   ],
-  "published_at": "2023-10-29T14:02:17Z",
-  "duration_seconds": 273.44833333333,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 227458747,
-  "telegram_url": "https://t.me/records_live4dev/133",
-  "channel": "records_live4dev",
-  "message_id": 133,
-  "availability": "pending",
-  "original_filename": "IMG_9109.MOV",
-  "expected_size_bytes": 227458747,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/133.json",
-  "caption_file": "content/video/133.txt",
-  "telegram_metadata": "ID: 133 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-10-29 14:02:17+00:00 | 📎 video, edited | views:535, forwards:2, reactions:20",
-  "poster": "content/video/133.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 456,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 466,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 473,
+      "length": 6
+    }
+  ],
+  "date": "2023-10-29T14:02:17Z",
+  "edit_date": "2023-10-29T14:04:54Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 273.44833333333,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_9109.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 133,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2023-10-29T14:02:17Z",
+    "message": "Пару недель назад словил интересное состояния когда все происходящее воспринимается как будто тебе 16 и весь мир против тебя. Потом понял что просто устал словил октябрьский дождь и песню от Mart of Sky - Разводные мосты. Записывал раз 40, местами была забавно наблюдать как мозг поменяет слова, вместо «тоскуем без повода» - «танцуем без повода», вместо «злобный начальник что будет ворчать всю неделю» - «добрый начальник что будет молчать всю неделю».\n\n#acoustic #cover #voice",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5327932326829636510,
+        "access_hash": -5709654802917976438,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACFat+Y4EsYotVFvvfPzBKp05j9Qws="
+        },
+        "date": "2023-10-29T14:02:16Z",
+        "mime_type": "video/mp4",
+        "size": 227458747,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 273.44833333333,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_9109.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWfFbDg7aWaMLgbKIJpo0PnrwDjP8AjUcqq4LqWDgZ3BuKguxE0WT9z9aKlSQkAnuO1FO5NhzTA7uchuRxVRpSEkZvlLnbtFTS2+G3IecDg/SqMpO75iPwqU0y2midZmJyOBjGKKjtptgYED1zRVCHi6JcnsOtVpM5z1GetFFCQN6CK+ARjNFFFMk/"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 178,
+            "h": 320,
+            "size": 16607
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 456,
+        "length": 9
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 466,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 473,
+        "length": 6
+      }
+    ],
+    "views": 536,
+    "forwards": 2,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 5,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 113585877
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 1323261825
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 695,
+      "read_max_id": null
+    },
+    "edit_date": "2023-10-29T14:04:54Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 8,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 7,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5328090506180173013
+          },
+          "count": 3,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🥰"
+          },
+          "count": 1,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "💔"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

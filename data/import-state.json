@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T15:49:22.504729Z",
+  "updated_at": "2026-10-26T19:48:00.112285Z",
   "channels": {
     "records_live4dev": {
       "status": "complete",
@@ -23,7 +23,8 @@
       "last_message_id": 219,
       "initialized": true,
       "scope": {
-        "audio_only": true,
+        "audio_only": false,
+        "video_audio_only": true,
         "min_duration_seconds": 60.0
       }
     }

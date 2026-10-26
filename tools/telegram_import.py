@@ -30,6 +30,7 @@ AUDIO_SUFFIXES = {".aac", ".flac", ".m4a", ".mp3", ".oga", ".ogg", ".opus", ".wa
 SUPPORTED_SUFFIXES = VIDEO_SUFFIXES | AUDIO_SUFFIXES
 WEB_AUDIO_TRANSCODE_THRESHOLD_BYTES = 90 * 1024 * 1024
 WEB_AUDIO_BITRATE_KBPS = 112
+VIDEO_AUDIO_CONCURRENCY = 3
 LOGGER = logging.getLogger("telegram-import")
 
 
@@ -45,6 +46,7 @@ class Config:
     full_history: bool = False
     refresh: bool = False
     audio_only: bool = False
+    video_audio_only: bool = False
     min_duration_seconds: float = 0
 
     @classmethod
@@ -62,6 +64,10 @@ class Config:
         max_file_mb = nonnegative_int(
             os.getenv("TELEGRAM_MAX_FILE_MB", "0"), "TELEGRAM_MAX_FILE_MB"
         )
+        audio_only = bool(getattr(args, "audio_only", False))
+        video_audio_only = bool(getattr(args, "video_audio_only", False))
+        if audio_only and video_audio_only:
+            raise ValueError("--audio-only and --video-audio-only cannot be used together")
         return cls(
             api_id=positive_int(required_env("TELEGRAM_API_ID"), "TELEGRAM_API_ID"),
             api_hash=required_env("TELEGRAM_API_HASH"),
@@ -72,7 +78,8 @@ class Config:
             dry_run=args.dry_run,
             full_history=getattr(args, "full_history", False),
             refresh=getattr(args, "refresh", False),
-            audio_only=getattr(args, "audio_only", False),
+            audio_only=audio_only,
+            video_audio_only=video_audio_only,
             min_duration_seconds=max(0, float(getattr(args, "min_duration_seconds", 0) or 0)),
         )
 
@@ -152,6 +159,12 @@ def document_metadata(message: Any) -> dict[str, Any]:
 
 
 def media_kind(message: Any) -> str | None:
+    # Telegram link previews can expose another message's document via
+    # ``message.video`` even though this message has no downloadable media of
+    # its own. Treat them as text/link posts so the referenced video is not
+    # duplicated in the audio playlist.
+    if type(getattr(message, "media", None)).__name__ == "MessageMediaWebPage":
+        return None
     file = getattr(message, "file", None)
     mime_type = str(getattr(file, "mime_type", "") or "").lower()
     suffix = Path(str(getattr(file, "name", "") or "")).suffix.lower()
@@ -168,6 +181,8 @@ def matches_import_scope(kind: str | None, duration_seconds: Any, config: Config
     if not kind:
         return False
     if config.audio_only and kind != "audio":
+        return False
+    if config.video_audio_only and kind != "video":
         return False
     if config.min_duration_seconds:
         try:
@@ -542,6 +557,86 @@ async def download_record(client: Any, message: Any, channel: str, kind: str,
     return records
 
 
+async def download_video_audio_record(client: Any, message: Any, channel: str,
+                                      metadata: dict[str, Any], dry_run: bool,
+                                      caption_source: Any | None = None,
+                                      old_record: dict[str, Any] | None = None) -> list[dict[str, Any]]:
+    """Extract a video's audio without retaining a newly downloaded video source."""
+    source = caption_source if caption_source is not None else message
+    suffix = media_suffix(message, "video", metadata)
+    logical_video = CONTENT_DIR / "video" / f"{message.id}{suffix}"
+    existing_video = safe_catalog_path((old_record or {}).get("file"))
+    keep_source = bool(existing_video and existing_video.is_file())
+    source_video = existing_video if keep_source else ROOT / ".tmp" / "video-audio" / f"{message.id}{suffix}"
+    record = build_record(
+        message, channel, "video", metadata, logical_video.relative_to(ROOT).as_posix(), source,
+    )
+    if dry_run:
+        LOGGER.info("Would extract audio from @%s/%s and discard the temporary video", channel, message.id)
+        return [record]
+
+    unchanged = file_identity_matches(old_record, message)
+    await download_original(client, message, source_video, old_record if keep_source else None)
+    try:
+        probe = await asyncio.to_thread(probe_media, source_video, "video")
+    except RuntimeError:
+        source_video.replace(source_video.with_suffix(source_video.suffix + ".corrupt"))
+        LOGGER.warning("Invalid existing video for message %s; downloading it again", message.id)
+        await download_original(client, message, source_video)
+        probe = await asyncio.to_thread(probe_media, source_video, "video")
+
+    record["duration_seconds"] = probe_duration(probe, record["duration_seconds"])
+    record["poster"] = (CONTENT_DIR / "video" / f"{message.id}.jpg").relative_to(ROOT).as_posix()
+    poster = safe_catalog_path(record["poster"])
+    poster.parent.mkdir(parents=True, exist_ok=True)
+    await asyncio.to_thread(create_poster, source_video, poster, record["duration_seconds"], not unchanged)
+
+    audio_stem = CONTENT_DIR / "audio" / f"{message.id}-video"
+    existing_audio = safe_catalog_path((old_record or {}).get("audio_file"))
+    if existing_audio and existing_audio.parent == CONTENT_DIR / "audio" and unchanged:
+        audio_stem = existing_audio.with_suffix("")
+    audio, audio_probe = await asyncio.to_thread(extract_audio, source_video, probe, audio_stem, not unchanged)
+    audio, web_optimized = await asyncio.to_thread(optimize_large_audio, audio)
+    if web_optimized:
+        audio_probe = await asyncio.to_thread(probe_media, audio, "audio")
+    record["audio_file"] = audio.relative_to(ROOT).as_posix()
+
+    if keep_source:
+        record.update({
+            "file": source_video.relative_to(ROOT).as_posix(),
+            "size_bytes": source_video.stat().st_size,
+            "mime_type": mimetypes.guess_type(source_video.name)[0] or record["mime_type"],
+            "availability": "local",
+        })
+    else:
+        record.update({"file": None, "size_bytes": 0, "availability": "catalog"})
+
+    derivative = dict(record)
+    derivative.update({
+        "id": record["id"] + ":audio", "kind": "audio", "audio_origin": "extracted",
+        "source_video_id": record["id"], "file": record["audio_file"],
+        "source_original_filename": record["original_filename"],
+        "metadata_file": audio.with_suffix(".json").relative_to(ROOT).as_posix(),
+        "caption_file": audio.with_suffix(".txt").relative_to(ROOT).as_posix(),
+        "mime_type": "audio/mp4" if audio.suffix == ".m4a" else "audio/mpeg",
+        "size_bytes": audio.stat().st_size,
+        "expected_size_bytes": audio.stat().st_size,
+        "availability": "local",
+        "duration_seconds": probe_duration(audio_probe, record["duration_seconds"]),
+        "audio_codec": next(stream.get("codec_name", "") for stream in audio_probe["streams"]
+                            if stream.get("codec_type") == "audio"),
+    })
+    if web_optimized:
+        derivative.update({"web_optimized": True, "audio_bitrate_kbps": WEB_AUDIO_BITRATE_KBPS})
+    derivative.pop("audio_file", None)
+    derivative.pop("original_filename", None)
+    write_sidecars(audio, message, derivative, source)
+    write_sidecars(logical_video, message, record, source)
+    if not keep_source:
+        source_video.unlink(missing_ok=True)
+    return [record, derivative]
+
+
 def upsert_records(items: list[dict[str, Any]], records: list[dict[str, Any]]) -> int:
     indexes = {str(item.get("id")): index for index, item in enumerate(items)}
     added = 0
@@ -569,6 +664,22 @@ def needs_repair(record: dict[str, Any], items_by_id: dict[str, dict[str, Any]])
             return True
     return any(path is None or not path.is_file()
                or (path.suffix != ".txt" and path.stat().st_size == 0) for path in required)
+
+
+def needs_scope_work(record: dict[str, Any], items_by_id: dict[str, dict[str, Any]],
+                     config: Config) -> bool:
+    """Check only the assets promised by the active import mode."""
+    if not config.video_audio_only:
+        return needs_repair(record, items_by_id)
+    derivative = items_by_id.get(str(record.get("id")) + ":audio")
+    required = [
+        safe_catalog_path(record.get("poster")),
+        safe_catalog_path(record.get("metadata_file")),
+        safe_catalog_path(record.get("caption_file")),
+    ]
+    return (not derivative or needs_repair(derivative, items_by_id)
+            or any(path is None or not path.is_file()
+                   or (path.suffix != ".txt" and path.stat().st_size == 0) for path in required))
 
 
 def update_catalog_summary(catalog: dict[str, Any], items: list[dict[str, Any]],
@@ -646,7 +757,7 @@ async def import_channel(client: Any, config: Config, channel: str,
         repair_ids = sorted({int(item["message_id"]) for item in items
                              if item.get("channel") == channel and not item.get("source_video_id")
                              and record_matches_import_scope(item, config)
-                             and needs_repair(item, items_by_id)})
+                             and needs_scope_work(item, items_by_id, config)})
         if repair_ids:
             repaired = await client.get_messages(entity, ids=repair_ids)
             for message_id, message in zip(repair_ids, repaired):
@@ -678,59 +789,135 @@ async def import_channel(client: Any, config: Config, channel: str,
         if messages:
             channel_state["latest_message_id"] = int(messages[-1].id)
             channel_state["oldest_message_id"] = int(messages[0].id)
-    for message in messages:
-        kind = media_kind(message)
-        metadata = document_metadata(message) if kind else {}
-        selected = matches_import_scope(kind, metadata.get("duration"), config)
-        if selected:
-            try:
-                size = int(getattr(getattr(message, "file", None), "size", 0) or 0)
-                if config.max_file_bytes is not None and size > config.max_file_bytes:
-                    raise RuntimeError(f"{size / 1024 / 1024:.1f} MB exceeds TELEGRAM_MAX_FILE_MB; "
-                                       "increase the cap or set it to 0 to resume")
+    if config.video_audio_only:
+        candidates: list[tuple[Any, dict[str, Any], Any, dict[str, Any] | None]] = []
+        for message in messages:
+            kind = media_kind(message)
+            metadata = document_metadata(message) if kind else {}
+            selected = matches_import_scope(kind, metadata.get("duration"), config)
+            old_record = items_by_id.get(f"{channel}:{message.id}")
+            if (selected and not config.dry_run and old_record
+                    and not needs_scope_work(old_record, items_by_id, config)):
+                selected = False
+            if selected:
                 source = message
                 if not caption_text(message).strip() and getattr(message, "grouped_id", None) in captions:
                     source = captions[message.grouped_id]
-                records = await download_record(
-                    client, message, channel, kind, metadata, config.dry_run,
-                    source, items_by_id.get(f"{channel}:{message.id}"),
-                )
+                candidates.append((message, metadata, source, old_record))
+
+        semaphore = asyncio.Semaphore(VIDEO_AUDIO_CONCURRENCY)
+
+        async def convert(candidate: tuple[Any, dict[str, Any], Any, dict[str, Any] | None]):
+            message, metadata, source, old_record = candidate
+            async with semaphore:
+                try:
+                    size = int(getattr(getattr(message, "file", None), "size", 0) or 0)
+                    if config.max_file_bytes is not None and size > config.max_file_bytes:
+                        raise RuntimeError(f"{size / 1024 / 1024:.1f} MB exceeds TELEGRAM_MAX_FILE_MB; "
+                                           "increase the cap or set it to 0 to resume")
+                    records = await download_video_audio_record(
+                        client, message, channel, metadata, config.dry_run, source, old_record,
+                    )
+                    return message, records, None
+                except Exception as error:
+                    return message, None, error
+
+        tasks = [asyncio.create_task(convert(candidate)) for candidate in candidates]
+        try:
+            for task in asyncio.as_completed(tasks):
+                message, records, error = await task
+                if error:
+                    raise RuntimeError(f"Failed @{channel}/{message.id}: {error}; rerun to resume") from error
                 added += upsert_records(items, records)
                 items_by_id.update({record["id"]: record for record in records})
-            except Exception as error:
                 if not config.dry_run:
-                    channel_state["archive_complete"] = False
-                    channel_state["status"] = "partial"
-                    channel_state["last_message_id"] = min(
-                        int(channel_state.get("last_message_id", 0)), int(message.id) - 1,
+                    channel_state["last_message_id"] = max(
+                        int(channel_state.get("last_message_id", 0)), int(message.id),
                     )
-                    channel_state["failed_message_id"] = int(message.id)
-                    channel_state["last_error"] = str(error)
+                    channel_state.pop("failed_message_id", None)
+                    channel_state.pop("last_error", None)
+                    channel_state["pending_message_ids"] = [
+                        message_id for message_id in channel_state.get("pending_message_ids", [])
+                        if int(message_id) != int(message.id)
+                    ]
                     if checkpoint:
                         checkpoint()
-                raise RuntimeError(f"Failed @{channel}/{message.id}: {error}; rerun to resume") from error
-        if not config.dry_run:
-            channel_state["last_message_id"] = max(int(channel_state.get("last_message_id", 0)), int(message.id))
-            channel_state.pop("failed_message_id", None)
-            channel_state.pop("last_error", None)
+        except Exception as error:
+            for task in tasks:
+                task.cancel()
+            await asyncio.gather(*tasks, return_exceptions=True)
+            if not config.dry_run:
+                channel_state["archive_complete"] = False
+                channel_state["status"] = "partial"
+                failed_id = int(message.id)
+                channel_state["last_message_id"] = min(
+                    int(channel_state.get("last_message_id", 0)), failed_id - 1,
+                )
+                channel_state["failed_message_id"] = failed_id
+                channel_state["last_error"] = str(error.__cause__ or error)
+                if checkpoint:
+                    checkpoint()
+            raise
+        if not config.dry_run and messages:
+            channel_state["last_message_id"] = max(
+                int(channel_state.get("last_message_id", 0)), int(messages[-1].id),
+            )
+        changed = bool(messages)
+    else:
+        for message in messages:
+            kind = media_kind(message)
+            metadata = document_metadata(message) if kind else {}
+            selected = matches_import_scope(kind, metadata.get("duration"), config)
+            old_record = items_by_id.get(f"{channel}:{message.id}")
             if selected:
-                channel_state["pending_message_ids"] = [
-                    message_id for message_id in channel_state.get("pending_message_ids", [])
-                    if int(message_id) != int(message.id)
-                ]
-        changed = True
-        if checkpoint and not config.dry_run:
-            checkpoint()
+                try:
+                    size = int(getattr(getattr(message, "file", None), "size", 0) or 0)
+                    if config.max_file_bytes is not None and size > config.max_file_bytes:
+                        raise RuntimeError(f"{size / 1024 / 1024:.1f} MB exceeds TELEGRAM_MAX_FILE_MB; "
+                                           "increase the cap or set it to 0 to resume")
+                    source = message
+                    if not caption_text(message).strip() and getattr(message, "grouped_id", None) in captions:
+                        source = captions[message.grouped_id]
+                    records = await download_record(
+                        client, message, channel, kind, metadata, config.dry_run, source, old_record,
+                    )
+                    added += upsert_records(items, records)
+                    items_by_id.update({record["id"]: record for record in records})
+                except Exception as error:
+                    if not config.dry_run:
+                        channel_state["archive_complete"] = False
+                        channel_state["status"] = "partial"
+                        channel_state["last_message_id"] = min(
+                            int(channel_state.get("last_message_id", 0)), int(message.id) - 1,
+                        )
+                        channel_state["failed_message_id"] = int(message.id)
+                        channel_state["last_error"] = str(error)
+                        if checkpoint:
+                            checkpoint()
+                    raise RuntimeError(f"Failed @{channel}/{message.id}: {error}; rerun to resume") from error
+            if not config.dry_run:
+                channel_state["last_message_id"] = max(int(channel_state.get("last_message_id", 0)), int(message.id))
+                channel_state.pop("failed_message_id", None)
+                channel_state.pop("last_error", None)
+                if selected:
+                    channel_state["pending_message_ids"] = [
+                        message_id for message_id in channel_state.get("pending_message_ids", [])
+                        if int(message_id) != int(message.id)
+                    ]
+            changed = True
+            if checkpoint and not config.dry_run:
+                checkpoint()
     if not config.dry_run:
         channel_state["initialized"] = True
         final_items_by_id = {str(record.get("id")): record for record in items}
         pending = sorted({int(item["message_id"]) for item in items
                           if item.get("channel") == channel and not item.get("source_video_id")
                           and record_matches_import_scope(item, config)
-                          and needs_repair(item, final_items_by_id)})
+                          and needs_scope_work(item, final_items_by_id, config)})
         channel_state["pending_message_ids"] = pending
         channel_state["scope"] = {
             "audio_only": config.audio_only,
+            "video_audio_only": config.video_audio_only,
             "min_duration_seconds": config.min_duration_seconds,
         }
         channel_state["status"] = "partial" if pending else "complete"
@@ -803,6 +990,10 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--full-history", action="store_true", help="Revisit complete history, ignoring history limit/checkpoint")
     parser.add_argument("--refresh", action="store_true", help="Revisit complete history to update edits and repair assets")
     parser.add_argument("--audio-only", action="store_true", help="Archive original audio messages, not videos")
+    parser.add_argument(
+        "--video-audio-only", action="store_true",
+        help="Extract audio from videos while retaining only catalog metadata, posters, and existing videos",
+    )
     parser.add_argument(
         "--min-duration-seconds", type=float, default=0, metavar="SECONDS",
         help="Archive media whose duration is strictly greater than this value",

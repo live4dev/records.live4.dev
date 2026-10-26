@@ -1,0 +1,225 @@
+{
+  "record": {
+    "id": "records_live4dev:185:audio",
+    "channel": "records_live4dev",
+    "message_id": 185,
+    "kind": "audio",
+    "title": "Организм после командировки выдал всю привычную симптоматику на поболеть, а точнее на отдохнуть. А лучший отдых для меня — музыка 😊 да и ка…",
+    "description": "Организм после командировки выдал всю привычную симптоматику на поболеть, а точнее на отдохнуть. А лучший отдых для меня — музыка 😊 да и кашель можно отлично изгнать из легких. Так что - Аэронавтика — Курс не меняется!",
+    "caption_original": "Организм после командировки выдал всю привычную симптоматику на поболеть, а точнее на отдохнуть. А лучший отдых для меня — музыка 😊 да и кашель можно отлично изгнать из легких. Так что - Аэронавтика — Курс не меняется!",
+    "tags": [],
+    "published_at": "2025-02-16T14:29:25Z",
+    "duration_seconds": 137.09,
+    "file": "content/audio/185-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1100872,
+    "telegram_url": "https://t.me/records_live4dev/185",
+    "expected_size_bytes": 1100872,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/185-video.json",
+    "caption_file": "content/audio/185-video.txt",
+    "telegram_document_id": 5300850835746482273,
+    "grouped_id": null,
+    "caption_source_message_id": 185,
+    "edited_at": "2025-03-23T21:00:59Z",
+    "poster": "content/video/185.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:185",
+    "source_original_filename": "IMG_1332.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Организм после командировки выдал всю привычную симптоматику на поболеть, а точнее на отдохнуть. А лучший отдых для меня — музыка 😊 да и кашель можно отлично изгнать из легких. Так что - Аэронавтика — Курс не меняется!",
+  "caption_effective": "Организм после командировки выдал всю привычную симптоматику на поболеть, а точнее на отдохнуть. А лучший отдых для меня — музыка 😊 да и кашель можно отлично изгнать из легких. Так что - Аэронавтика — Курс не меняется!",
+  "message_caption_original": "Организм после командировки выдал всю привычную симптоматику на поболеть, а точнее на отдохнуть. А лучший отдых для меня — музыка 😊 да и кашель можно отлично изгнать из легких. Так что - Аэронавтика — Курс не меняется!",
+  "caption_source_message_id": 185,
+  "entities": [],
+  "caption_entities": [],
+  "date": "2025-02-16T14:29:25Z",
+  "edit_date": "2025-03-23T21:00:59Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 137.17333333333,
+      "w": 528,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_1332.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 185,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2025-02-16T14:29:25Z",
+    "message": "Организм после командировки выдал всю привычную симптоматику на поболеть, а точнее на отдохнуть. А лучший отдых для меня — музыка 😊 да и кашель можно отлично изгнать из легких. Так что - Аэронавтика — Курс не меняется!",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5300850835746482273,
+        "access_hash": 6546781756480081217,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAC5at+Y4OPo0hebSE6FjkS68jJ68O4="
+        },
+        "date": "2025-02-16T14:29:25Z",
+        "mime_type": "video/mp4",
+        "size": 52719246,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 137.17333333333,
+            "w": 528,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_1332.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgZleWOFiHYAnpUkOGUsDkE9aqHY91NkK5CjG7pVq1GIsYAGeAKhFy2JiOKNtDsqDLMFHqTim+fF/z1T/voVZBkvjcdp2n1FWUUzxAjG+Pjk9aos5MnA59BV6FWt8u5GG+8B2pycUilzMl2qYg0sY8wcsKZ5yf88m/OlXdckMT+6HIUd/rUnz/3RUXHYhS3jjffglh3NMuFd2yf9Wo6etFFQnqW9iI3LspIbCjjinfaLj0b8qKK0Zmf"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 200,
+            "h": 320,
+            "size": 14840
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 1934,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 2,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 1140682525
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 993920510
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 833,
+      "read_max_id": null
+    },
+    "edit_date": "2025-03-23T21:00:59Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 9,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 2,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5328014223266030170
+          },
+          "count": 2,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

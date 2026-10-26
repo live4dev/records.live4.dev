@@ -105,7 +105,7 @@ function sorted(items) {
 
 function videos() { return sorted(state.items.filter((item) => item.kind === "video" && matches(item))); }
 function isPlaylistAudio(item) {
-  return item.kind === "audio" && item.audioOrigin === "original" && item.duration > MIN_PLAYLIST_AUDIO_SECONDS;
+  return item.kind === "audio" && item.duration > MIN_PLAYLIST_AUDIO_SECONDS;
 }
 function audios() {
   return sorted(state.items.filter((item) => isPlaylistAudio(item) && matches(item)))

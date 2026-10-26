@@ -1,30 +1,306 @@
 {
-  "id": "records_live4dev:97",
-  "kind": "video",
-  "title": "В жизни есть классные традиции, которые мы можем создавать сами и нести их сквозь время с людьми, которых любим. По вечерам играем с паца…",
-  "description": "В жизни есть классные традиции, которые мы можем создавать сами и нести их сквозь время с людьми, которых любим. По вечерам играем с пацанами несколько песен перед сном. И когда такие традиции прерываются на время становится пусто. Не всегда подобную пустоту можно заполнить чем-то новым, да и не всегда это нужно. \n\n«Отоспимся в гробах», а точнее ее хлороформная версия появился в нашей жизни когда Димке было приблизительно год - просто хотелось спать :) Темка иногда просит эту песню, а Димка говорит что он после нее думает о смерти. Так что играем и поем другие, к счастью на свете еще много классных песен, событий, хороших людей, достижений, испытаний, чудес, моментов от которых замирает дыхание и от моментов когда сердце моментально ускоряется, моментов когда ты просто чувствуешь себя дома. \n\nК счастью скоро будет возможность ощущать себя дома :) \n\n#guitar #voice #cover",
+  "record": {
+    "id": "records_live4dev:97",
+    "channel": "records_live4dev",
+    "message_id": 97,
+    "kind": "video",
+    "title": "В жизни есть классные традиции, которые мы можем создавать сами и нести их сквозь время с людьми, которых любим. По вечерам играем с пацана…",
+    "description": "В жизни есть классные традиции, которые мы можем создавать сами и нести их сквозь время с людьми, которых любим. По вечерам играем с пацанами несколько песен перед сном. И когда такие традиции прерываются на время становится пусто. Не всегда подобную пустоту можно заполнить чем-то новым, да и не всегда это нужно. \n\n«Отоспимся в гробах», а точнее ее хлороформная версия появился в нашей жизни когда Димке было приблизительно год - просто хотелось спать :) Темка иногда просит эту песню, а Димка говорит что он после нее думает о смерти. Так что играем и поем другие, к счастью на свете еще много классных песен, событий, хороших людей, достижений, испытаний, чудес, моментов от которых замирает дыхание и от моментов когда сердце моментально ускоряется, моментов когда ты просто чувствуешь себя дома. \n\nК счастью скоро будет возможность ощущать себя дома :) \n\n#guitar #voice #cover",
+    "caption_original": "В жизни есть классные традиции, которые мы можем создавать сами и нести их сквозь время с людьми, которых любим. По вечерам играем с пацанами несколько песен перед сном. И когда такие традиции прерываются на время становится пусто. Не всегда подобную пустоту можно заполнить чем-то новым, да и не всегда это нужно. \n\n«Отоспимся в гробах», а точнее ее хлороформная версия появился в нашей жизни когда Димке было приблизительно год - просто хотелось спать :) Темка иногда просит эту песню, а Димка говорит что он после нее думает о смерти. Так что играем и поем другие, к счастью на свете еще много классных песен, событий, хороших людей, достижений, испытаний, чудес, моментов от которых замирает дыхание и от моментов когда сердце моментально ускоряется, моментов когда ты просто чувствуешь себя дома. \n\nК счастью скоро будет возможность ощущать себя дома :) \n\n#guitar #voice #cover",
+    "tags": [
+      "guitar",
+      "voice",
+      "cover"
+    ],
+    "published_at": "2023-02-07T18:41:56Z",
+    "duration_seconds": 166.366667,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/97",
+    "original_filename": "IMG_7612.MP4",
+    "expected_size_bytes": 53390519,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/97.json",
+    "caption_file": "content/video/97.txt",
+    "telegram_document_id": 5411398749870107321,
+    "grouped_id": null,
+    "caption_source_message_id": 97,
+    "edited_at": "2023-02-07T19:02:04Z",
+    "poster": "content/video/97.jpg",
+    "audio_file": "content/audio/97-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "В жизни есть классные традиции, которые мы можем создавать сами и нести их сквозь время с людьми, которых любим. По вечерам играем с пацанами несколько песен перед сном. И когда такие традиции прерываются на время становится пусто. Не всегда подобную пустоту можно заполнить чем-то новым, да и не всегда это нужно. \n\n«Отоспимся в гробах», а точнее ее хлороформная версия появился в нашей жизни когда Димке было приблизительно год - просто хотелось спать :) Темка иногда просит эту песню, а Димка говорит что он после нее думает о смерти. Так что играем и поем другие, к счастью на свете еще много классных песен, событий, хороших людей, достижений, испытаний, чудес, моментов от которых замирает дыхание и от моментов когда сердце моментально ускоряется, моментов когда ты просто чувствуешь себя дома. \n\nК счастью скоро будет возможность ощущать себя дома :) \n\n#guitar #voice #cover",
+  "caption_effective": "В жизни есть классные традиции, которые мы можем создавать сами и нести их сквозь время с людьми, которых любим. По вечерам играем с пацанами несколько песен перед сном. И когда такие традиции прерываются на время становится пусто. Не всегда подобную пустоту можно заполнить чем-то новым, да и не всегда это нужно. \n\n«Отоспимся в гробах», а точнее ее хлороформная версия появился в нашей жизни когда Димке было приблизительно год - просто хотелось спать :) Темка иногда просит эту песню, а Димка говорит что он после нее думает о смерти. Так что играем и поем другие, к счастью на свете еще много классных песен, событий, хороших людей, достижений, испытаний, чудес, моментов от которых замирает дыхание и от моментов когда сердце моментально ускоряется, моментов когда ты просто чувствуешь себя дома. \n\nК счастью скоро будет возможность ощущать себя дома :) \n\n#guitar #voice #cover",
+  "message_caption_original": "В жизни есть классные традиции, которые мы можем создавать сами и нести их сквозь время с людьми, которых любим. По вечерам играем с пацанами несколько песен перед сном. И когда такие традиции прерываются на время становится пусто. Не всегда подобную пустоту можно заполнить чем-то новым, да и не всегда это нужно. \n\n«Отоспимся в гробах», а точнее ее хлороформная версия появился в нашей жизни когда Димке было приблизительно год - просто хотелось спать :) Темка иногда просит эту песню, а Димка говорит что он после нее думает о смерти. Так что играем и поем другие, к счастью на свете еще много классных песен, событий, хороших людей, достижений, испытаний, чудес, моментов от которых замирает дыхание и от моментов когда сердце моментально ускоряется, моментов когда ты просто чувствуешь себя дома. \n\nК счастью скоро будет возможность ощущать себя дома :) \n\n#guitar #voice #cover",
   "caption_source_message_id": 97,
-  "tags": [
-    "guitar",
-    "voice",
-    "cover"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 861,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 869,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 876,
+      "length": 6
+    }
   ],
-  "published_at": "2023-02-07T18:41:56Z",
-  "duration_seconds": 166,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 53390519,
-  "telegram_url": "https://t.me/records_live4dev/97",
-  "channel": "records_live4dev",
-  "message_id": 97,
-  "availability": "pending",
-  "original_filename": "IMG_7612.MP4",
-  "expected_size_bytes": 53390519,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/97.json",
-  "caption_file": "content/video/97.txt",
-  "telegram_metadata": "ID: 97 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-02-07 18:41:56+00:00 | 📎 video, edited | views:454, forwards:5, reactions:29",
-  "poster": "content/video/97.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 861,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 869,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 876,
+      "length": 6
+    }
+  ],
+  "date": "2023-02-07T18:41:56Z",
+  "edit_date": "2023-02-07T19:02:04Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 166.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_7612.MP4"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 97,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2023-02-07T18:41:56Z",
+    "message": "В жизни есть классные традиции, которые мы можем создавать сами и нести их сквозь время с людьми, которых любим. По вечерам играем с пацанами несколько песен перед сном. И когда такие традиции прерываются на время становится пусто. Не всегда подобную пустоту можно заполнить чем-то новым, да и не всегда это нужно. \n\n«Отоспимся в гробах», а точнее ее хлороформная версия появился в нашей жизни когда Димке было приблизительно год - просто хотелось спать :) Темка иногда просит эту песню, а Димка говорит что он после нее думает о смерти. Так что играем и поем другие, к счастью на свете еще много классных песен, событий, хороших людей, достижений, испытаний, чудес, моментов от которых замирает дыхание и от моментов когда сердце моментально ускоряется, моментов когда ты просто чувствуешь себя дома. \n\nК счастью скоро будет возможность ощущать себя дома :) \n\n#guitar #voice #cover",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5411398749870107321,
+        "access_hash": 4224954022234297138,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAABhat+FL/i0dD5Eit6mnDf/vxnBB9s="
+        },
+        "date": "2023-02-07T18:41:56Z",
+        "mime_type": "video/mp4",
+        "size": 53390519,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 166.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_7612.MP4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWrI7elSCd8nZEzAHBIqKFXZwv3c9Kni3RttDkHJzik2OMbkiSMwyAB9aKkZWViRgk4yce1FUmQ9yvMjQYVm7cc1DbsElxkn0xRdJLJcFnbB7DtikiBSVdw96yOi9zQ3ruK+nvRVaFt7NIxGD3oqk2S4xLZRJ0APfoaqeU3n+WxwOmaKKzRQs5jXYirwoooorQye5/"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 14595
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 861,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 869,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 876,
+        "length": 6
+      }
+    ],
+    "views": 454,
+    "forwards": 5,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 3,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 181351251
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 1323261825
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 426,
+      "read_max_id": null
+    },
+    "edit_date": "2023-02-07T19:02:04Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🥰"
+          },
+          "count": 13,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 6,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "😍"
+          },
+          "count": 5,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 2,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👏"
+          },
+          "count": 2,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

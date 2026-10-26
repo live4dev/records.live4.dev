@@ -1,0 +1,245 @@
+{
+  "record": {
+    "id": "records_live4dev:41:audio",
+    "channel": "records_live4dev",
+    "message_id": 41,
+    "kind": "audio",
+    "title": "Сегодня пол дня мучал большой лупер, получилось что-то напоминающее тайну третьей планеты ) почистить запись нормально не получилось, за лу…",
+    "description": "Сегодня пол дня мучал большой лупер, получилось что-то напоминающее тайну третьей планеты ) почистить запись нормально не получилось, за лупером приехал покупатель (Выставил его месяц назад на продажу, скоро выходит новый напольный надо готовиться)\n\n#looper #guitar #synth",
+    "caption_original": "Сегодня пол дня мучал большой лупер, получилось что-то напоминающее тайну третьей планеты ) почистить запись нормально не получилось, за лупером приехал покупатель (Выставил его месяц назад на продажу, скоро выходит новый напольный надо готовиться)\n\n#looper #guitar #synth",
+    "tags": [
+      "looper",
+      "guitar",
+      "synth"
+    ],
+    "published_at": "2021-11-03T19:37:23Z",
+    "duration_seconds": 270.07,
+    "file": "content/audio/41-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 2167833,
+    "telegram_url": "https://t.me/records_live4dev/41",
+    "expected_size_bytes": 2167833,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/41-video.json",
+    "caption_file": "content/audio/41-video.txt",
+    "telegram_document_id": 5195047017943929590,
+    "grouped_id": null,
+    "caption_source_message_id": 41,
+    "edited_at": "2021-11-03T19:37:47Z",
+    "poster": "content/video/41.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:41",
+    "source_original_filename": "IMG_9167.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Сегодня пол дня мучал большой лупер, получилось что-то напоминающее тайну третьей планеты ) почистить запись нормально не получилось, за лупером приехал покупатель (Выставил его месяц назад на продажу, скоро выходит новый напольный надо готовиться)\n\n#looper #guitar #synth",
+  "caption_effective": "Сегодня пол дня мучал большой лупер, получилось что-то напоминающее тайну третьей планеты ) почистить запись нормально не получилось, за лупером приехал покупатель (Выставил его месяц назад на продажу, скоро выходит новый напольный надо готовиться)\n\n#looper #guitar #synth",
+  "message_caption_original": "Сегодня пол дня мучал большой лупер, получилось что-то напоминающее тайну третьей планеты ) почистить запись нормально не получилось, за лупером приехал покупатель (Выставил его месяц назад на продажу, скоро выходит новый напольный надо готовиться)\n\n#looper #guitar #synth",
+  "caption_source_message_id": 41,
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 250,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 258,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 266,
+      "length": 6
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 250,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 258,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 266,
+      "length": 6
+    }
+  ],
+  "date": "2021-11-03T19:37:23Z",
+  "edit_date": "2021-11-03T19:37:47Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 270.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_9167.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 41,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-11-03T19:37:23Z",
+    "message": "Сегодня пол дня мучал большой лупер, получилось что-то напоминающее тайну третьей планеты ) почистить запись нормально не получилось, за лупером приехал покупатель (Выставил его месяц назад на продажу, скоро выходит новый напольный надо готовиться)\n\n#looper #guitar #synth",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5195047017943929590,
+        "access_hash": 5026987525363719090,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAApat9+LGoYmtZ/wRKXgVGcZ+UuI80="
+        },
+        "date": "2021-11-03T19:37:23Z",
+        "mime_type": "video/mp4",
+        "size": 86668136,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 270.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_9167.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWmYYHAqvL06Yp0Mo2GPJyvc1FPIAQOtKO4SWgHoKKaTwMUVqYiRuFty+Y2YjAUtzQ7CQITtRRweck++KYwRe2M9cU+QBYFkSNdrd8c1kmbtCyRSRkZIIPIOeCKKda3BRdkgV16gelFDuNJFZs7QhJ46/WpomVrV4ickHIzRRQlcbImtxxkn8OKKKKBH8="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 16292
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 250,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 258,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 266,
+        "length": 6
+      }
+    ],
+    "views": 313,
+    "forwards": 0,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 9,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 1433811940
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 1140682525
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 193954312
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 82,
+      "read_max_id": null
+    },
+    "edit_date": "2021-11-03T19:37:47Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

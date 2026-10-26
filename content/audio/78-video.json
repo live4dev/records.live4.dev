@@ -1,0 +1,280 @@
+{
+  "record": {
+    "id": "records_live4dev:78:audio",
+    "channel": "records_live4dev",
+    "message_id": 78,
+    "kind": "audio",
+    "title": "Здравствуй, дорогой дневник.",
+    "description": "Здравствуй, дорогой дневник. \nПубличная рефлексия странная штука, так что просто видео с песней из детства на фоне печи. Надеюсь вам станет теплее внутри, как и мне :) \n\nДля любителей игр - можно попробовать угадать без просмотра что за песня будет в видео ;) \n\n#cover #guitar",
+    "caption_original": "Здравствуй, дорогой дневник. \nПубличная рефлексия странная штука, так что просто видео с песней из детства на фоне печи. Надеюсь вам станет теплее внутри, как и мне :) \n\nДля любителей игр - можно попробовать угадать без просмотра что за песня будет в видео ;) \n\n#cover #guitar",
+    "tags": [
+      "cover",
+      "guitar"
+    ],
+    "published_at": "2022-12-11T10:34:03Z",
+    "duration_seconds": 214.18,
+    "file": "content/audio/78-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1716590,
+    "telegram_url": "https://t.me/records_live4dev/78",
+    "expected_size_bytes": 1716590,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/78-video.json",
+    "caption_file": "content/audio/78-video.txt",
+    "telegram_document_id": 5238201809952055308,
+    "grouped_id": null,
+    "caption_source_message_id": 78,
+    "edited_at": "2022-12-12T00:51:24Z",
+    "poster": "content/video/78.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:78",
+    "source_original_filename": "IMG_6165.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Здравствуй, дорогой дневник. \nПубличная рефлексия странная штука, так что просто видео с песней из детства на фоне печи. Надеюсь вам станет теплее внутри, как и мне :) \n\nДля любителей игр - можно попробовать угадать без просмотра что за песня будет в видео ;) \n\n#cover #guitar",
+  "caption_effective": "Здравствуй, дорогой дневник. \nПубличная рефлексия странная штука, так что просто видео с песней из детства на фоне печи. Надеюсь вам станет теплее внутри, как и мне :) \n\nДля любителей игр - можно попробовать угадать без просмотра что за песня будет в видео ;) \n\n#cover #guitar",
+  "message_caption_original": "Здравствуй, дорогой дневник. \nПубличная рефлексия странная штука, так что просто видео с песней из детства на фоне печи. Надеюсь вам станет теплее внутри, как и мне :) \n\nДля любителей игр - можно попробовать угадать без просмотра что за песня будет в видео ;) \n\n#cover #guitar",
+  "caption_source_message_id": 78,
+  "entities": [
+    {
+      "_": "MessageEntityStrike",
+      "offset": 0,
+      "length": 29
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 262,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 269,
+      "length": 7
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityStrike",
+      "offset": 0,
+      "length": 29
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 262,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 269,
+      "length": 7
+    }
+  ],
+  "date": "2022-12-11T10:34:03Z",
+  "edit_date": "2022-12-12T00:51:24Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 214.0,
+      "w": 848,
+      "h": 464,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_6165.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 78,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2022-12-11T10:34:03Z",
+    "message": "Здравствуй, дорогой дневник. \nПубличная рефлексия странная штука, так что просто видео с песней из детства на фоне печи. Надеюсь вам станет теплее внутри, как и мне :) \n\nДля любителей игр - можно попробовать угадать без просмотра что за песня будет в видео ;) \n\n#cover #guitar",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5238201809952055308,
+        "access_hash": -5502851949717050024,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAABOat+FL/uhtgDbjNj8gKqd2uv4FoM="
+        },
+        "date": "2022-12-11T10:34:03Z",
+        "mime_type": "video/mp4",
+        "size": 68705273,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 214.0,
+            "w": 848,
+            "h": 464,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_6165.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ARYokLluduT6Cku03RAcLgc54oNwEUkRE+m0VWlkaRT5h5U9Khal2Hwqv3WjBA700JiVAec0RuQM9qWaVPMjYcY6iiwMuJGKKIpVddyniioGZou5SABt59qhkmbe2QOfSiitESya0IIYEZBFSJEr3Lr2Qf0oookEdWS2jfIw9GNFFFQyjw=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 180,
+            "size": 13787
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityStrike",
+        "offset": 0,
+        "length": 29
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 262,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 269,
+        "length": 7
+      }
+    ],
+    "views": 370,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 5,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 193954312
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 5006267030
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 344,
+      "read_max_id": null
+    },
+    "edit_date": "2022-12-12T00:51:24Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 12,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 6,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 2,
+          "chosen_order": 1
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

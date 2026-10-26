@@ -1,0 +1,213 @@
+{
+  "record": {
+    "id": "records_live4dev:122:audio",
+    "channel": "records_live4dev",
+    "message_id": 122,
+    "kind": "audio",
+    "title": "Сменить по ходу тональность? - Изи )) зато какой ревер )",
+    "description": "Сменить по ходу тональность? - Изи )) зато какой ревер )\n\nПевчий зал монастыря Гегард. Больше фотографий здесь https://t.me/travel_live4dev/438",
+    "caption_original": "",
+    "tags": [],
+    "published_at": "2023-07-16T12:10:40Z",
+    "duration_seconds": 71.910998,
+    "file": "content/audio/122-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 582822,
+    "telegram_url": "https://t.me/records_live4dev/122",
+    "expected_size_bytes": 582822,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/122-video.json",
+    "caption_file": "content/audio/122-video.txt",
+    "telegram_document_id": 5303022461405638623,
+    "grouped_id": 13516075518851178,
+    "caption_source_message_id": 121,
+    "edited_at": "2023-07-16T12:10:43Z",
+    "poster": "content/video/122.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:122",
+    "source_original_filename": "IMG_6063.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "",
+  "caption_effective": "Сменить по ходу тональность? - Изи )) зато какой ревер )\n\nПевчий зал монастыря Гегард. Больше фотографий здесь https://t.me/travel_live4dev/438",
+  "message_caption_original": "",
+  "caption_source_message_id": 121,
+  "entities": [],
+  "caption_entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 111,
+      "length": 32
+    }
+  ],
+  "date": "2023-07-16T12:10:40Z",
+  "edit_date": "2023-07-16T12:10:43Z",
+  "grouped_id": 13516075518851178,
+  "reply_to": null,
+  "forwarded_from": {
+    "_": "MessageFwdHeader",
+    "date": "2023-07-16T12:09:23Z",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 1877117314
+    },
+    "from_name": null,
+    "channel_post": 455,
+    "post_author": "Danil Ivanov",
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 72.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_6063.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 122,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2023-07-16T12:10:40Z",
+    "message": "",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+      "_": "MessageFwdHeader",
+      "date": "2023-07-16T12:09:23Z",
+      "imported": false,
+      "saved_out": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1877117314
+      },
+      "from_name": null,
+      "channel_post": 455,
+      "post_author": "Danil Ivanov",
+      "saved_from_peer": null,
+      "saved_from_msg_id": null,
+      "saved_from_id": null,
+      "saved_from_name": null,
+      "saved_date": null,
+      "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5303022461405638623,
+        "access_hash": -4675422167382605684,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAB6at+FLhAdCSX4QB+81uVg0pzM0mc="
+        },
+        "date": "2023-07-16T04:22:39Z",
+        "mime_type": "video/mp4",
+        "size": 26837766,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 72.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_6063.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWxyc0UEYOKSgAooooAk4+fJxxxUZqYICOacqDHIFAFeirG0D+EUUAGacDRRSADRRRQB8="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 4693
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 1262,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": "2023-07-16T12:10:43Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": 13516075518851178,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

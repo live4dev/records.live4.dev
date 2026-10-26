@@ -1,30 +1,261 @@
 {
-  "id": "records_live4dev:48",
-  "kind": "video",
-  "title": "Недавно Укулеле исполнился год, как-то само собой получилось на ней вот такую композицию сделать. И наконец-то калимба подаренная Аней по…",
-  "description": "Недавно Укулеле исполнился год, как-то само собой получилось на ней вот такую композицию сделать. И наконец-то калимба подаренная Аней попала в запись :) \n\nПриятного прослушивания и спокойной ночи. \n\n#ukulele #looper #kalimba",
+  "record": {
+    "id": "records_live4dev:48",
+    "channel": "records_live4dev",
+    "message_id": 48,
+    "kind": "video",
+    "title": "Недавно Укулеле исполнился год, как-то само собой получилось на ней вот такую композицию сделать. И наконец-то калимба подаренная Аней попа…",
+    "description": "Недавно Укулеле исполнился год, как-то само собой получилось на ней вот такую композицию сделать. И наконец-то калимба подаренная Аней попала в запись :) \n\nПриятного прослушивания и спокойной ночи. \n\n#ukulele #looper #kalimba",
+    "caption_original": "Недавно Укулеле исполнился год, как-то само собой получилось на ней вот такую композицию сделать. И наконец-то калимба подаренная Аней попала в запись :) \n\nПриятного прослушивания и спокойной ночи. \n\n#ukulele #looper #kalimba",
+    "tags": [
+      "ukulele",
+      "looper",
+      "kalimba"
+    ],
+    "published_at": "2021-12-05T19:16:58Z",
+    "duration_seconds": 349.971678,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/48",
+    "original_filename": "IMG_9626.MOV",
+    "expected_size_bytes": 111153718,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/48.json",
+    "caption_file": "content/video/48.txt",
+    "telegram_document_id": 5289954340507751055,
+    "grouped_id": null,
+    "caption_source_message_id": 48,
+    "edited_at": "2026-01-10T11:39:30Z",
+    "poster": "content/video/48.jpg",
+    "audio_file": "content/audio/48-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Недавно Укулеле исполнился год, как-то само собой получилось на ней вот такую композицию сделать. И наконец-то калимба подаренная Аней попала в запись :) \n\nПриятного прослушивания и спокойной ночи. \n\n#ukulele #looper #kalimba",
+  "caption_effective": "Недавно Укулеле исполнился год, как-то само собой получилось на ней вот такую композицию сделать. И наконец-то калимба подаренная Аней попала в запись :) \n\nПриятного прослушивания и спокойной ночи. \n\n#ukulele #looper #kalimba",
+  "message_caption_original": "Недавно Укулеле исполнился год, как-то само собой получилось на ней вот такую композицию сделать. И наконец-то калимба подаренная Аней попала в запись :) \n\nПриятного прослушивания и спокойной ночи. \n\n#ukulele #looper #kalimba",
   "caption_source_message_id": 48,
-  "tags": [
-    "ukulele",
-    "looper",
-    "kalimba"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 200,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 209,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 217,
+      "length": 8
+    }
   ],
-  "published_at": "2021-12-05T19:16:58Z",
-  "duration_seconds": 350,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 111153718,
-  "telegram_url": "https://t.me/records_live4dev/48",
-  "channel": "records_live4dev",
-  "message_id": 48,
-  "availability": "pending",
-  "original_filename": "IMG_9626.MOV",
-  "expected_size_bytes": 111153718,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/48.json",
-  "caption_file": "content/video/48.txt",
-  "telegram_metadata": "ID: 48 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-12-05 19:16:58+00:00 | 📎 video, edited | views:450, forwards:2, reactions:1",
-  "poster": "content/video/48.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 200,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 209,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 217,
+      "length": 8
+    }
+  ],
+  "date": "2021-12-05T19:16:58Z",
+  "edit_date": "2026-01-10T11:39:30Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 350.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_9626.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 48,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-12-05T19:16:58Z",
+    "message": "Недавно Укулеле исполнился год, как-то само собой получилось на ней вот такую композицию сделать. И наконец-то калимба подаренная Аней попала в запись :) \n\nПриятного прослушивания и спокойной ночи. \n\n#ukulele #looper #kalimba",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5289954340507751055,
+        "access_hash": 7497614926069582035,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAwat9+LCzTO0YylUjFzVeWnWelcxc="
+        },
+        "date": "2021-12-05T19:16:58Z",
+        "mime_type": "video/mp4",
+        "size": 111153718,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 350.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_9626.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWjzxj0NK7EBCpw2cfgaleDAqlKGMhbOFXuf6VBRYR/lGRxRUVuEcEyMdg4HGeaKYi9MVClGPPUc81m3XPINTs4d3bPT5QP51WmBZTjrQgY2KUCLYTjnNFQNkcEUU7Bc0oEiaBlU5cSde+2kkgAGQTRRUvcpIpFjnkZoooqiQ="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 13686
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 200,
+        "length": 8
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 209,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 217,
+        "length": 8
+      }
+    ],
+    "views": 450,
+    "forwards": 2,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 19,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 44908755
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 70833797
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 152,
+      "read_max_id": null
+    },
+    "edit_date": "2026-01-10T11:39:30Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

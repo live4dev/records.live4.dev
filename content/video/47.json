@@ -1,31 +1,277 @@
 {
-  "id": "records_live4dev:47",
-  "kind": "video",
-  "title": "Сегодня на студии, под работу перфоратора соседей, снимал порнофильмы, а точнее их Ритуалы.",
-  "description": "Сегодня на студии, под работу перфоратора соседей, снимал порнофильмы, а точнее их Ритуалы. \n\nПора покупать ковёр )\n\n#guitar #looper #voice #cover",
+  "record": {
+    "id": "records_live4dev:47",
+    "channel": "records_live4dev",
+    "message_id": 47,
+    "kind": "video",
+    "title": "Сегодня на студии, под работу перфоратора соседей, снимал порнофильмы, а точнее их Ритуалы.",
+    "description": "Сегодня на студии, под работу перфоратора соседей, снимал порнофильмы, а точнее их Ритуалы. \n\nПора покупать ковёр )\n\n#guitar #looper #voice #cover",
+    "caption_original": "Сегодня на студии, под работу перфоратора соседей, снимал порнофильмы, а точнее их Ритуалы. \n\nПора покупать ковёр )\n\n#guitar #looper #voice #cover",
+    "tags": [
+      "guitar",
+      "looper",
+      "voice",
+      "cover"
+    ],
+    "published_at": "2021-12-04T19:58:47Z",
+    "duration_seconds": 238.166667,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/47",
+    "original_filename": "IMG_9578.MOV",
+    "expected_size_bytes": 76081449,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/47.json",
+    "caption_file": "content/video/47.txt",
+    "telegram_document_id": 5287286663305761246,
+    "grouped_id": null,
+    "caption_source_message_id": 47,
+    "edited_at": "2026-01-10T11:39:34Z",
+    "poster": "content/video/47.jpg",
+    "audio_file": "content/audio/47-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Сегодня на студии, под работу перфоратора соседей, снимал порнофильмы, а точнее их Ритуалы. \n\nПора покупать ковёр )\n\n#guitar #looper #voice #cover",
+  "caption_effective": "Сегодня на студии, под работу перфоратора соседей, снимал порнофильмы, а точнее их Ритуалы. \n\nПора покупать ковёр )\n\n#guitar #looper #voice #cover",
+  "message_caption_original": "Сегодня на студии, под работу перфоратора соседей, снимал порнофильмы, а точнее их Ритуалы. \n\nПора покупать ковёр )\n\n#guitar #looper #voice #cover",
   "caption_source_message_id": 47,
-  "tags": [
-    "guitar",
-    "looper",
-    "voice",
-    "cover"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 117,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 125,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 133,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 140,
+      "length": 6
+    }
   ],
-  "published_at": "2021-12-04T19:58:47Z",
-  "duration_seconds": 238,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 76081449,
-  "telegram_url": "https://t.me/records_live4dev/47",
-  "channel": "records_live4dev",
-  "message_id": 47,
-  "availability": "pending",
-  "original_filename": "IMG_9578.MOV",
-  "expected_size_bytes": 76081449,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/47.json",
-  "caption_file": "content/video/47.txt",
-  "telegram_metadata": "ID: 47 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-12-04 19:58:47+00:00 | 📎 video, edited | views:346, forwards:0, reactions:1",
-  "poster": "content/video/47.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 117,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 125,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 133,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 140,
+      "length": 6
+    }
+  ],
+  "date": "2021-12-04T19:58:47Z",
+  "edit_date": "2026-01-10T11:39:34Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 238.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_9578.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 47,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-12-04T19:58:47Z",
+    "message": "Сегодня на студии, под работу перфоратора соседей, снимал порнофильмы, а точнее их Ритуалы. \n\nПора покупать ковёр )\n\n#guitar #looper #voice #cover",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5287286663305761246,
+        "access_hash": 3959269823861027882,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAvat9+LLECZK/3KvRAsH2xI3L8YOU="
+        },
+        "date": "2021-12-04T19:58:47Z",
+        "mime_type": "video/mp4",
+        "size": 76081449,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 238.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_9578.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWWElT8zE57A4qtezyRz4RNoB6kfeqcyYOenrQ5S4LIeRjGc9Kzua2HBvNhRw2zcMmiqyuYgYxGCoPGTRSuNRZZktQyg5OfaoMGDy1zkMCTV6AuYl3jB7iqrQGQb26qAVPt6Ueo1uViST6/WigOueooosaXNcGosf6MM/3OfyoopGZjzr5Um3rxwfWiiitES3qfw=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 16145
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 117,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 125,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 133,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 140,
+        "length": 6
+      }
+    ],
+    "views": 346,
+    "forwards": 0,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 3,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 70833797
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 62459772
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 982253840
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 101,
+      "read_max_id": null
+    },
+    "edit_date": "2026-01-10T11:39:34Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

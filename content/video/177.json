@@ -1,26 +1,228 @@
 {
-  "id": "records_live4dev:177",
-  "kind": "video",
-  "title": "Ну что, продолжим? Сны Джо - Глаза!",
-  "description": "Ну что, продолжим? Сны Джо - Глаза!",
+  "record": {
+    "id": "records_live4dev:177",
+    "channel": "records_live4dev",
+    "message_id": 177,
+    "kind": "video",
+    "title": "Ну что, продолжим? Сны Джо - Глаза!",
+    "description": "Ну что, продолжим? Сны Джо - Глаза!",
+    "caption_original": "Ну что, продолжим? Сны Джо - Глаза!",
+    "tags": [],
+    "published_at": "2024-10-08T17:46:57Z",
+    "duration_seconds": 139.7,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/177",
+    "original_filename": "IMG_5795.MOV",
+    "expected_size_bytes": 116208351,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/177.json",
+    "caption_file": "content/video/177.txt",
+    "telegram_document_id": 5199501350001466487,
+    "grouped_id": null,
+    "caption_source_message_id": 177,
+    "edited_at": "2024-10-08T17:47:43Z",
+    "poster": "content/video/177.jpg",
+    "audio_file": "content/audio/177-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Ну что, продолжим? Сны Джо - Глаза!",
+  "caption_effective": "Ну что, продолжим? Сны Джо - Глаза!",
+  "message_caption_original": "Ну что, продолжим? Сны Джо - Глаза!",
   "caption_source_message_id": 177,
-  "tags": [],
-  "published_at": "2024-10-08T17:46:57Z",
-  "duration_seconds": 139.77296666667,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 116208351,
-  "telegram_url": "https://t.me/records_live4dev/177",
-  "channel": "records_live4dev",
-  "message_id": 177,
-  "availability": "pending",
-  "original_filename": "IMG_5795.MOV",
-  "expected_size_bytes": 116208351,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/177.json",
-  "caption_file": "content/video/177.txt",
-  "telegram_metadata": "ID: 177 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2024-10-08 17:46:57+00:00 | 📎 video, edited | views:3570, forwards:1, reactions:14",
-  "poster": "content/video/177.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [],
+  "caption_entities": [],
+  "date": "2024-10-08T17:46:57Z",
+  "edit_date": "2024-10-08T17:47:43Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 139.77296666667,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_5795.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 177,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2024-10-08T17:46:57Z",
+    "message": "Ну что, продолжим? Сны Джо - Глаза!",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5199501350001466487,
+        "access_hash": 6739615961507790054,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACxat+Y4KgwUFzvXaDxF/T6RwUj04k="
+        },
+        "date": "2024-10-08T17:46:57Z",
+        "mime_type": "video/mp4",
+        "size": 116208351,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 139.77296666667,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_5795.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWlFLQKhm3O+xZNgAyTUFk1FQWzNl0dt23oaKAI4rhtgMnH9ajjnfexYghqiQkyZfnimFiGPagpFhZnRmKqCWOSTRURfCjPWimDsWiiQod2CT1NQ7FdSQvA7UUUtiUTtCpjVT2oooqSz8="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 178,
+            "h": 320,
+            "size": 11696
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 3570,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 1,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 816,
+      "read_max_id": null
+    },
+    "edit_date": "2024-10-08T17:47:43Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 7,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5326007515761090209
+          },
+          "count": 3,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5327958075158568158
+          },
+          "count": 3,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

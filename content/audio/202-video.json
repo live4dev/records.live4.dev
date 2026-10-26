@@ -1,0 +1,267 @@
+{
+  "record": {
+    "id": "records_live4dev:202:audio",
+    "channel": "records_live4dev",
+    "message_id": 202,
+    "kind": "audio",
+    "title": "Вот и зима пришла 🙃 помню как у нас на городской площади строили огроменную горку, ну или она таковой казалась, как и некоторые жизненные г…",
+    "description": "Вот и зима пришла 🙃 помню как у нас на городской площади строили огроменную горку, ну или она таковой казалась, как и некоторые жизненные горки сейчас. С горки   на картонке — Олег Легкий!",
+    "caption_original": "Вот и зима пришла 🙃 помню как у нас на городской площади строили огроменную горку, ну или она таковой казалась, как и некоторые жизненные горки сейчас. С горки   на картонке — Олег Легкий!",
+    "tags": [],
+    "published_at": "2025-11-29T13:49:30Z",
+    "duration_seconds": 172.383991,
+    "file": "content/audio/202-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1429898,
+    "telegram_url": "https://t.me/records_live4dev/202",
+    "expected_size_bytes": 1429898,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/202-video.json",
+    "caption_file": "content/audio/202-video.txt",
+    "telegram_document_id": 5285477017490327780,
+    "grouped_id": null,
+    "caption_source_message_id": 202,
+    "edited_at": "2025-11-29T13:50:16Z",
+    "poster": "content/video/202.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:202",
+    "source_original_filename": "IMG_9927.MP4",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Вот и зима пришла 🙃 помню как у нас на городской площади строили огроменную горку, ну или она таковой казалась, как и некоторые жизненные горки сейчас. С горки   на картонке — Олег Легкий!",
+  "caption_effective": "Вот и зима пришла 🙃 помню как у нас на городской площади строили огроменную горку, ну или она таковой казалась, как и некоторые жизненные горки сейчас. С горки   на картонке — Олег Легкий!",
+  "message_caption_original": "Вот и зима пришла 🙃 помню как у нас на городской площади строили огроменную горку, ну или она таковой казалась, как и некоторые жизненные горки сейчас. С горки   на картонке — Олег Легкий!",
+  "caption_source_message_id": 202,
+  "entities": [],
+  "caption_entities": [],
+  "date": "2025-11-29T13:49:30Z",
+  "edit_date": "2025-11-29T13:50:16Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 172.39999389648,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_9927.MP4"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 202,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2025-11-29T13:49:30Z",
+    "message": "Вот и зима пришла 🙃 помню как у нас на городской площади строили огроменную горку, ну или она таковой казалась, как и некоторые жизненные горки сейчас. С горки   на картонке — Олег Легкий!",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5285477017490327780,
+        "access_hash": -3879837129873670232,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAADKat+Y4ImI5L1KpSHyhO9LjLO8aAI="
+        },
+        "date": "2025-11-29T13:49:30Z",
+        "mime_type": "video/mp4",
+        "size": 65891639,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 172.39999389648,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_9927.MP4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWEhG6nyxD5B6mnynYpb0FU5NkModGfIPO4VBdiwYBnpRVkDNFMkqzXCbG243YPDVSa4LSK3B6EjFEsYUgZy3cVXJx06+tJFmhFcPO7ZbbjoKKgS3nCq6qfmHaimKxXkclyc57Uw9KKKANdZgYY+f4RRRRU2Kufw=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 10840
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": {
+        "_": "Photo",
+        "id": 5285477017950293654,
+        "access_hash": 9065699704635933131,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAADKat+Y4HZM14H8w+VxEbd0jfT7M4E="
+        },
+        "date": "2025-11-29T13:48:07Z",
+        "sizes": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgXd5OB0qSOIbelSkVWkdh92bZgdAmc1BYgiDO/1xRT7R/Mjck5YHB+tFUSx7zqmS5GPaqE9yGclMAE8+ppFCMHDAk9qSS3Y48tfl+vU1JYRXjxxsqgZJzk0VAY5AcbG/KimFiWOQruNMS5dUZCAQTn6Giiiwrj47w5w4J9MUUUUWHc"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 11919
+          }
+        ],
+        "dc_id": 2,
+        "has_stickers": false,
+        "video_sizes": []
+      },
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 1308,
+    "forwards": 5,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 5,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerChannel",
+          "channel_id": 1723829296
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 365633420
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 907,
+      "read_max_id": null
+    },
+    "edit_date": "2025-11-29T13:50:16Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 14,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 10,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5328014223266030170
+          },
+          "count": 2,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5327958075158568158
+          },
+          "count": 2,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

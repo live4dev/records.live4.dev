@@ -1,0 +1,256 @@
+{
+  "record": {
+    "id": "records_live4dev:160:audio",
+    "channel": "records_live4dev",
+    "message_id": 160,
+    "kind": "audio",
+    "title": "Я вам еще принес записей с Настей :) сидит ржешь и тут внезапно запись пошла!",
+    "description": "Я вам еще принес записей с Настей :) сидит ржешь и тут внезапно запись пошла! \n\nПродолжаем кайфовать от инди музыку - Холи Полли - В маленьком доме (https://music.yandex.com/album/26134320/track/114347171)",
+    "caption_original": "Я вам еще принес записей с Настей :) сидит ржешь и тут внезапно запись пошла! \n\nПродолжаем кайфовать от инди музыку - Холи Полли - В маленьком доме (https://music.yandex.com/album/26134320/track/114347171)",
+    "tags": [],
+    "published_at": "2024-02-17T10:39:57Z",
+    "duration_seconds": 148.676009,
+    "file": "content/audio/160-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1196042,
+    "telegram_url": "https://t.me/records_live4dev/160",
+    "expected_size_bytes": 1196042,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/160-video.json",
+    "caption_file": "content/audio/160-video.txt",
+    "telegram_document_id": 5370720216961531843,
+    "grouped_id": null,
+    "caption_source_message_id": 160,
+    "edited_at": "2024-02-17T10:47:55Z",
+    "poster": "content/video/160.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:160",
+    "source_original_filename": "IMG_1404.MP4",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Я вам еще принес записей с Настей :) сидит ржешь и тут внезапно запись пошла! \n\nПродолжаем кайфовать от инди музыку - Холи Полли - В маленьком доме (https://music.yandex.com/album/26134320/track/114347171)",
+  "caption_effective": "Я вам еще принес записей с Настей :) сидит ржешь и тут внезапно запись пошла! \n\nПродолжаем кайфовать от инди музыку - Холи Полли - В маленьком доме (https://music.yandex.com/album/26134320/track/114347171)",
+  "message_caption_original": "Я вам еще принес записей с Настей :) сидит ржешь и тут внезапно запись пошла! \n\nПродолжаем кайфовать от инди музыку - Холи Полли - В маленьком доме (https://music.yandex.com/album/26134320/track/114347171)",
+  "caption_source_message_id": 160,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 149,
+      "length": 55
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 149,
+      "length": 55
+    }
+  ],
+  "date": "2024-02-17T10:39:57Z",
+  "edit_date": "2024-02-17T10:47:55Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 148.8,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_1404.MP4"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 160,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2024-02-17T10:39:57Z",
+    "message": "Я вам еще принес записей с Настей :) сидит ржешь и тут внезапно запись пошла! \n\nПродолжаем кайфовать от инди музыку - Холи Полли - В маленьком доме (https://music.yandex.com/album/26134320/track/114347171)",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5370720216961531843,
+        "access_hash": 8209302953638598904,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACgat+Y4PBEiIzUNYpAD93n0fgXIgE="
+        },
+        "date": "2024-02-17T10:39:57Z",
+        "mime_type": "video/mp4",
+        "size": 57008067,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 148.8,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_1404.MP4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWz4yPT9KmLD0NRxxs/wB0E49KeCsZfzfvcY4zSGJwexoqxB82Sqk+9FZudmUokenyYzzggimXgBuioOPf8KrxNtJ+lWZpGR0cNw68mrtqK+g6OcpCAg5HGTRUUgAC7WyDz1oqeRD57FcAjmniQgLwPlzRRWhBIT5rDZknGTmiiimhMw=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 176,
+            "h": 320,
+            "size": 13976
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityUrl",
+        "offset": 149,
+        "length": 55
+      }
+    ],
+    "views": 972,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 3,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 44908755
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 226090226
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 778,
+      "read_max_id": null
+    },
+    "edit_date": "2024-02-17T10:47:55Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 11,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 3,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 3,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5328014223266030170
+          },
+          "count": 2,
+          "chosen_order": 1
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

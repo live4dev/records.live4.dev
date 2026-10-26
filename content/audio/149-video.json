@@ -1,0 +1,276 @@
+{
+  "record": {
+    "id": "records_live4dev:149:audio",
+    "channel": "records_live4dev",
+    "message_id": 149,
+    "kind": "audio",
+    "title": "Если упрощать, то статистика утверждает что примерно «меньшую» половину своего века я прошел. Мне нравится тот путь которым я иду и люди ко…",
+    "description": "Если упрощать, то статистика утверждает что примерно «меньшую» половину своего века я прошел.  Мне нравится тот путь которым я иду и люди которые проходят свой путь рядом вместе со мной. \n\nОбычно здесь я делюсь с вами песнями, которые меня зацепили, ну точнее каверами на них. И музыкальными зарисовками, которые приходят в разных ситуациях. \n\nСегодня хочу впервые поделиться стихотворением, написанным на этой неделе. Знал что найду на просторах интернета подходящую мелодию и переслушав кучу современной «классики» нашел красивейшую композицию Дениса Стельмаха и Load - Broken Arrow, стих сам собой на неё лёг.\n\n#ЗаметкиНаПолях",
+    "caption_original": "Если упрощать, то статистика утверждает что примерно «меньшую» половину своего века я прошел.  Мне нравится тот путь которым я иду и люди которые проходят свой путь рядом вместе со мной. \n\nОбычно здесь я делюсь с вами песнями, которые меня зацепили, ну точнее каверами на них. И музыкальными зарисовками, которые приходят в разных ситуациях. \n\nСегодня хочу впервые поделиться стихотворением, написанным на этой неделе. Знал что найду на просторах интернета подходящую мелодию и переслушав кучу современной «классики» нашел красивейшую композицию Дениса Стельмаха и Load - Broken Arrow, стих сам собой на неё лёг.\n\n#ЗаметкиНаПолях",
+    "tags": [
+      "ЗаметкиНаПолях"
+    ],
+    "published_at": "2024-01-14T16:19:41Z",
+    "duration_seconds": 333.136009,
+    "file": "content/audio/149-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 2741978,
+    "telegram_url": "https://t.me/records_live4dev/149",
+    "expected_size_bytes": 2741978,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/149-video.json",
+    "caption_file": "content/audio/149-video.txt",
+    "telegram_document_id": 5269338188249316866,
+    "grouped_id": null,
+    "caption_source_message_id": 149,
+    "edited_at": "2024-05-05T19:30:57Z",
+    "poster": "content/video/149.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:149",
+    "source_original_filename": "IMG_0672.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Если упрощать, то статистика утверждает что примерно «меньшую» половину своего века я прошел.  Мне нравится тот путь которым я иду и люди которые проходят свой путь рядом вместе со мной. \n\nОбычно здесь я делюсь с вами песнями, которые меня зацепили, ну точнее каверами на них. И музыкальными зарисовками, которые приходят в разных ситуациях. \n\nСегодня хочу впервые поделиться стихотворением, написанным на этой неделе. Знал что найду на просторах интернета подходящую мелодию и переслушав кучу современной «классики» нашел красивейшую композицию Дениса Стельмаха и Load - Broken Arrow, стих сам собой на неё лёг.\n\n#ЗаметкиНаПолях",
+  "caption_effective": "Если упрощать, то статистика утверждает что примерно «меньшую» половину своего века я прошел.  Мне нравится тот путь которым я иду и люди которые проходят свой путь рядом вместе со мной. \n\nОбычно здесь я делюсь с вами песнями, которые меня зацепили, ну точнее каверами на них. И музыкальными зарисовками, которые приходят в разных ситуациях. \n\nСегодня хочу впервые поделиться стихотворением, написанным на этой неделе. Знал что найду на просторах интернета подходящую мелодию и переслушав кучу современной «классики» нашел красивейшую композицию Дениса Стельмаха и Load - Broken Arrow, стих сам собой на неё лёг.\n\n#ЗаметкиНаПолях",
+  "message_caption_original": "Если упрощать, то статистика утверждает что примерно «меньшую» половину своего века я прошел.  Мне нравится тот путь которым я иду и люди которые проходят свой путь рядом вместе со мной. \n\nОбычно здесь я делюсь с вами песнями, которые меня зацепили, ну точнее каверами на них. И музыкальными зарисовками, которые приходят в разных ситуациях. \n\nСегодня хочу впервые поделиться стихотворением, написанным на этой неделе. Знал что найду на просторах интернета подходящую мелодию и переслушав кучу современной «классики» нашел красивейшую композицию Дениса Стельмаха и Load - Broken Arrow, стих сам собой на неё лёг.\n\n#ЗаметкиНаПолях",
+  "caption_source_message_id": 149,
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 614,
+      "length": 15
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 614,
+      "length": 15
+    }
+  ],
+  "date": "2024-01-14T16:19:41Z",
+  "edit_date": "2024-05-05T19:30:57Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 333.23,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_0672.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 149,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2024-01-14T16:19:41Z",
+    "message": "Если упрощать, то статистика утверждает что примерно «меньшую» половину своего века я прошел.  Мне нравится тот путь которым я иду и люди которые проходят свой путь рядом вместе со мной. \n\nОбычно здесь я делюсь с вами песнями, которые меня зацепили, ну точнее каверами на них. И музыкальными зарисовками, которые приходят в разных ситуациях. \n\nСегодня хочу впервые поделиться стихотворением, написанным на этой неделе. Знал что найду на просторах интернета подходящую мелодию и переслушав кучу современной «классики» нашел красивейшую композицию Дениса Стельмаха и Load - Broken Arrow, стих сам собой на неё лёг.\n\n#ЗаметкиНаПолях",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5269338188249316866,
+        "access_hash": -9198531395646709872,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACVat+Y4D+Yc6rDYzkWbxcJyeizkfY="
+        },
+        "date": "2024-01-14T16:11:18Z",
+        "mime_type": "video/mp4",
+        "size": 277456799,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 333.23,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_0672.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWvKQRnB/Kqc15MrkRwkqO5FWlOV4TGRUMjSb25XrxUydioq4puGMauEGGGeWoqvdsY4EAGDmiquSStdRxcBgW9KqS3jGcMo+QfeFUWJYlscE04kmFePut1pNId2WJL0yoAygEHPFFU8/jRTEWpk226j+6arYzx60UVEHdAXp4odoESlSOC2OtFFFTdm1kfw=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 178,
+            "h": 320,
+            "size": 15705
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 614,
+        "length": 15
+      }
+    ],
+    "views": 441,
+    "forwards": 4,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 5,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 136802679
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 1140682525
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 724,
+      "read_max_id": null
+    },
+    "edit_date": "2024-05-05T19:30:57Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 7,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 6,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 3,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🥰"
+          },
+          "count": 3,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 2,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5341772493868769078
+          },
+          "count": 2,
+          "chosen_order": 1
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

@@ -1,26 +1,219 @@
 {
-  "id": "records_live4dev:34",
-  "kind": "video",
-  "title": "Юля и Данил - 7ой лепесток (Hi-Fi)",
-  "description": "Юля и Данил - 7ой лепесток (Hi-Fi) \n\nЧтобы добить ванильную неделю :)",
+  "record": {
+    "id": "records_live4dev:34",
+    "channel": "records_live4dev",
+    "message_id": 34,
+    "kind": "video",
+    "title": "Юля и Данил - 7ой лепесток (Hi-Fi)",
+    "description": "Юля и Данил - 7ой лепесток (Hi-Fi) \n\nЧтобы добить ванильную неделю :)",
+    "caption_original": "Юля и Данил - 7ой лепесток (Hi-Fi) \n\nЧтобы добить ванильную неделю :)",
+    "tags": [],
+    "published_at": "2021-08-21T15:45:08Z",
+    "duration_seconds": 238.833333,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/34",
+    "original_filename": "IMG_6764.MOV",
+    "expected_size_bytes": 76420809,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/34.json",
+    "caption_file": "content/video/34.txt",
+    "telegram_document_id": 5262763134485009189,
+    "grouped_id": null,
+    "caption_source_message_id": 34,
+    "edited_at": "2021-08-21T15:45:36Z",
+    "poster": "content/video/34.jpg",
+    "audio_file": "content/audio/34-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Юля и Данил - 7ой лепесток (Hi-Fi) \n\nЧтобы добить ванильную неделю :)",
+  "caption_effective": "Юля и Данил - 7ой лепесток (Hi-Fi) \n\nЧтобы добить ванильную неделю :)",
+  "message_caption_original": "Юля и Данил - 7ой лепесток (Hi-Fi) \n\nЧтобы добить ванильную неделю :)",
   "caption_source_message_id": 34,
-  "tags": [],
-  "published_at": "2021-08-21T15:45:08Z",
-  "duration_seconds": 238,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 76420809,
-  "telegram_url": "https://t.me/records_live4dev/34",
-  "channel": "records_live4dev",
-  "message_id": 34,
-  "availability": "pending",
-  "original_filename": "IMG_6764.MOV",
-  "expected_size_bytes": 76420809,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/34.json",
-  "caption_file": "content/video/34.txt",
-  "telegram_metadata": "ID: 34 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-08-21 15:45:08+00:00 | reply to 31 | 📎 video, edited | views:347, forwards:4",
-  "poster": "content/video/34.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [],
+  "caption_entities": [],
+  "date": "2021-08-21T15:45:08Z",
+  "edit_date": "2021-08-21T15:45:36Z",
+  "grouped_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 31,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null
+  },
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 238.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_6764.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 34,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-08-21T15:45:08Z",
+    "message": "Юля и Данил - 7ой лепесток (Hi-Fi) \n\nЧтобы добить ванильную неделю :)",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": {
+      "_": "MessageReplyHeader",
+      "reply_to_scheduled": false,
+      "forum_topic": false,
+      "quote": false,
+      "reply_to_msg_id": 31,
+      "reply_to_peer_id": null,
+      "reply_from": null,
+      "reply_media": null,
+      "reply_to_top_id": null,
+      "quote_text": null,
+      "quote_entities": [],
+      "quote_offset": null,
+      "todo_item_id": null
+    },
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5262763134485009189,
+        "access_hash": -3765156580281477285,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAiat9+LPDfU9Tbj2CqHe71C0JjEnQ="
+        },
+        "date": "2021-08-21T15:45:08Z",
+        "mime_type": "video/mp4",
+        "size": 76420809,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 238.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_6764.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWdFtIqTcgPf8AKolJjdeM7h6Yp5fJwVb86SYNWHeZEe5/KimsygZJYUVVxFBrtmkUqoXAxjNW4wz4AbgHBzWe+1zviTaqgZye9adrEViBY/Meazk7I0irsh1BWCptBIz0opyt5oYdec0UrsLIo2gDsY2ONxBHvWyxCxk+goopT+JFQ2MiBpGkYx5/EUUUU5OzElof"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 14877
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 347,
+    "forwards": 4,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 10,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 180650450
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 5006267030
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 202,
+      "read_max_id": null
+    },
+    "edit_date": "2021-08-21T15:45:36Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

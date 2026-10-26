@@ -1,0 +1,306 @@
+{
+  "record": {
+    "id": "records_live4dev:140:audio",
+    "channel": "records_live4dev",
+    "message_id": 140,
+    "kind": "audio",
+    "title": "Периодически вытаскиваю себя на участие в квартирниках или концертах. Пока стеснялся вас звать, так что если захотите в следующий раз присо…",
+    "description": "Периодически вытаскиваю себя на участие в квартирниках или концертах.  Пока стеснялся вас звать, так что если захотите в следующий раз присоединиться - пишите в комменты или в личку, лайки к сожалению анонимны :)\n\nОсобенно интересно наблюдать за собой в подобных ситуациях, за реакциями, за потоком слов, который идет между песнями, за тем какие формы принимает волнение при разных обстоятельствах, как это сказывается на голосе, на контроле рук и тела в целом. И за тем как время меняет скорость своего хода. \n\n- Wicked Game\n- Say it to me now\n\n#cover #scene #guitar #voice",
+    "caption_original": "Периодически вытаскиваю себя на участие в квартирниках или концертах.  Пока стеснялся вас звать, так что если захотите в следующий раз присоединиться - пишите в комменты или в личку, лайки к сожалению анонимны :)\n\nОсобенно интересно наблюдать за собой в подобных ситуациях, за реакциями, за потоком слов, который идет между песнями, за тем какие формы принимает волнение при разных обстоятельствах, как это сказывается на голосе, на контроле рук и тела в целом. И за тем как время меняет скорость своего хода. \n\n- Wicked Game\n- Say it to me now\n\n#cover #scene #guitar #voice",
+    "tags": [
+      "cover",
+      "scene",
+      "guitar",
+      "voice"
+    ],
+    "published_at": "2023-12-19T05:36:18Z",
+    "duration_seconds": 210.929002,
+    "file": "content/audio/140-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1690897,
+    "telegram_url": "https://t.me/records_live4dev/140",
+    "expected_size_bytes": 1690897,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/140-video.json",
+    "caption_file": "content/audio/140-video.txt",
+    "telegram_document_id": 5190954901953329427,
+    "grouped_id": 13623713427625202,
+    "caption_source_message_id": 140,
+    "edited_at": "2024-01-23T10:53:17Z",
+    "poster": "content/video/140.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:140",
+    "source_original_filename": "IMG_0043.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Периодически вытаскиваю себя на участие в квартирниках или концертах.  Пока стеснялся вас звать, так что если захотите в следующий раз присоединиться - пишите в комменты или в личку, лайки к сожалению анонимны :)\n\nОсобенно интересно наблюдать за собой в подобных ситуациях, за реакциями, за потоком слов, который идет между песнями, за тем какие формы принимает волнение при разных обстоятельствах, как это сказывается на голосе, на контроле рук и тела в целом. И за тем как время меняет скорость своего хода. \n\n- Wicked Game\n- Say it to me now\n\n#cover #scene #guitar #voice",
+  "caption_effective": "Периодически вытаскиваю себя на участие в квартирниках или концертах.  Пока стеснялся вас звать, так что если захотите в следующий раз присоединиться - пишите в комменты или в личку, лайки к сожалению анонимны :)\n\nОсобенно интересно наблюдать за собой в подобных ситуациях, за реакциями, за потоком слов, который идет между песнями, за тем какие формы принимает волнение при разных обстоятельствах, как это сказывается на голосе, на контроле рук и тела в целом. И за тем как время меняет скорость своего хода. \n\n- Wicked Game\n- Say it to me now\n\n#cover #scene #guitar #voice",
+  "message_caption_original": "Периодически вытаскиваю себя на участие в квартирниках или концертах.  Пока стеснялся вас звать, так что если захотите в следующий раз присоединиться - пишите в комменты или в личку, лайки к сожалению анонимны :)\n\nОсобенно интересно наблюдать за собой в подобных ситуациях, за реакциями, за потоком слов, который идет между песнями, за тем какие формы принимает волнение при разных обстоятельствах, как это сказывается на голосе, на контроле рук и тела в целом. И за тем как время меняет скорость своего хода. \n\n- Wicked Game\n- Say it to me now\n\n#cover #scene #guitar #voice",
+  "caption_source_message_id": 140,
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 546,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 553,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 560,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 568,
+      "length": 6
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 546,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 553,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 560,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 568,
+      "length": 6
+    }
+  ],
+  "date": "2023-12-19T05:36:18Z",
+  "edit_date": "2024-01-23T10:53:17Z",
+  "grouped_id": 13623713427625202,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 211.02333333333,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_0043.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 140,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2023-12-19T05:36:18Z",
+    "message": "Периодически вытаскиваю себя на участие в квартирниках или концертах.  Пока стеснялся вас звать, так что если захотите в следующий раз присоединиться - пишите в комменты или в личку, лайки к сожалению анонимны :)\n\nОсобенно интересно наблюдать за собой в подобных ситуациях, за реакциями, за потоком слов, который идет между песнями, за тем какие формы принимает волнение при разных обстоятельствах, как это сказывается на голосе, на контроле рук и тела в целом. И за тем как время меняет скорость своего хода. \n\n- Wicked Game\n- Say it to me now\n\n#cover #scene #guitar #voice",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5190954901953329427,
+        "access_hash": -7492636754396729171,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACMat+Y4AfZaZ2vZUdKMaUHe3CPCKk="
+        },
+        "date": "2023-12-19T05:35:49Z",
+        "mime_type": "video/mp4",
+        "size": 175794698,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 211.02333333333,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_0043.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWqholwOuf7oppb+6oH1NQoVKjJOanjQN0FQ4xR0LmYKxxyy/gKKQkr1XFFO67Fcj7lbpV2Bw8eF47GqqRoyEhsYqWJ1QH5+TTcbmUZWFCO/uaKcqNjjDD1oo5DX2liiCQaUt6UUVRzE0M5VdpPHaiiiqQXZ8="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 178,
+            "h": 320,
+            "size": 16053
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 546,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 553,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 560,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 568,
+        "length": 6
+      }
+    ],
+    "views": 502,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 5,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 365633420
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 338303820
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 1235416822
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 707,
+      "read_max_id": null
+    },
+    "edit_date": "2024-01-23T10:53:17Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": 13623713427625202,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 14,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 7,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5328014223266030170
+          },
+          "count": 5,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

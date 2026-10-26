@@ -1,0 +1,209 @@
+{
+  "record": {
+    "id": "records_live4dev:12:audio",
+    "channel": "records_live4dev",
+    "message_id": 12,
+    "kind": "audio",
+    "title": "Калугин - Ночь защиты. Без слов.",
+    "description": "Калугин - Ночь защиты. Без слов.\n\n#guitar",
+    "caption_original": "Калугин - Ночь защиты. Без слов.\n\n#guitar",
+    "tags": [
+      "guitar"
+    ],
+    "published_at": "2021-06-10T10:52:44Z",
+    "duration_seconds": 98.451995,
+    "file": "content/audio/12-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 792139,
+    "telegram_url": "https://t.me/records_live4dev/12",
+    "expected_size_bytes": 792139,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/12-video.json",
+    "caption_file": "content/audio/12-video.txt",
+    "telegram_document_id": 5337137077400112609,
+    "grouped_id": null,
+    "caption_source_message_id": 12,
+    "edited_at": "2026-01-10T11:44:11Z",
+    "poster": "content/video/12.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:12",
+    "source_original_filename": "IMG_5953.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Калугин - Ночь защиты. Без слов.\n\n#guitar",
+  "caption_effective": "Калугин - Ночь защиты. Без слов.\n\n#guitar",
+  "message_caption_original": "Калугин - Ночь защиты. Без слов.\n\n#guitar",
+  "caption_source_message_id": 12,
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 34,
+      "length": 7
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 34,
+      "length": 7
+    }
+  ],
+  "date": "2021-06-10T10:52:44Z",
+  "edit_date": "2026-01-10T11:44:11Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 98.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_5953.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 12,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-06-10T10:52:44Z",
+    "message": "Калугин - Ночь защиты. Без слов.\n\n#guitar",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5337137077400112609,
+        "access_hash": -7026341411545653049,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAMat9+LDJajLJzLpOoyEt2A5wPgDM="
+        },
+        "date": "2021-06-10T10:52:44Z",
+        "mime_type": "video/mp4",
+        "size": 31888258,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 98.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_5953.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWkgmdTkRMTjFS+fMxB3iPPYrmooJzCSxUFPX0qKW8Wd84CAdPepvoOKLlxOsDje3JFFVWmtpdoYM5C+mRRU8tx8rAwb4grDaWfnH0qK5tPJIJG5DwCp5qe+Z4ZvNyCCcKPSqrX5BwVJPfmmNOwwCVW/dROF6fdyTRV22vBKu3BXHOT3oouVdjW3hiGk3gdmXNRz6e27em35ucZ6UUVT02M1qRxiVSVHGOwooopgc="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 18718
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 34,
+        "length": 7
+      }
+    ],
+    "views": 256,
+    "forwards": 1,
+    "replies": null,
+    "edit_date": "2026-01-10T11:44:11Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

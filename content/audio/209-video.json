@@ -1,0 +1,274 @@
+{
+  "record": {
+    "id": "records_live4dev:209:audio",
+    "channel": "records_live4dev",
+    "message_id": 209,
+    "kind": "audio",
+    "title": "На канале вновь творчество Саши Солнцевой — «Солнечно», а 9го марта в Питере у нее состоится концерт! https://t.me/sashasolntseva_music/192…",
+    "description": "На канале вновь творчество Саши Солнцевой — «Солнечно», а 9го марта в Питере у нее состоится концерт! https://t.me/sashasolntseva_music/1921  🙂 пойдем?!",
+    "caption_original": "На канале вновь творчество Саши Солнцевой — «Солнечно», а 9го марта в Питере у нее состоится концерт! https://t.me/sashasolntseva_music/1921  🙂 пойдем?!",
+    "tags": [],
+    "published_at": "2026-03-04T17:46:28Z",
+    "duration_seconds": 148.955011,
+    "file": "content/audio/209-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1197003,
+    "telegram_url": "https://t.me/records_live4dev/209",
+    "expected_size_bytes": 1197003,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/209-video.json",
+    "caption_file": "content/audio/209-video.txt",
+    "telegram_document_id": 5280587983202850763,
+    "grouped_id": null,
+    "caption_source_message_id": 209,
+    "edited_at": "2026-03-04T17:47:04Z",
+    "poster": "content/video/209.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:209",
+    "source_original_filename": "IMG_1875.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "На канале вновь творчество Саши Солнцевой — «Солнечно», а 9го марта в Питере у нее состоится концерт! https://t.me/sashasolntseva_music/1921  🙂 пойдем?!",
+  "caption_effective": "На канале вновь творчество Саши Солнцевой — «Солнечно», а 9го марта в Питере у нее состоится концерт! https://t.me/sashasolntseva_music/1921  🙂 пойдем?!",
+  "message_caption_original": "На канале вновь творчество Саши Солнцевой — «Солнечно», а 9го марта в Питере у нее состоится концерт! https://t.me/sashasolntseva_music/1921  🙂 пойдем?!",
+  "caption_source_message_id": 209,
+  "entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 102,
+      "length": 38
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 142,
+      "length": 2,
+      "document_id": 5327824188143050646
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityUrl",
+      "offset": 102,
+      "length": 38
+    },
+    {
+      "_": "MessageEntityCustomEmoji",
+      "offset": 142,
+      "length": 2,
+      "document_id": 5327824188143050646
+    }
+  ],
+  "date": "2026-03-04T17:46:28Z",
+  "edit_date": "2026-03-04T17:47:04Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 148.94000244141,
+      "w": 528,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_1875.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 209,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2026-03-04T17:46:28Z",
+    "message": "На канале вновь творчество Саши Солнцевой — «Солнечно», а 9го марта в Питере у нее состоится концерт! https://t.me/sashasolntseva_music/1921  🙂 пойдем?!",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5280587983202850763,
+        "access_hash": -2743209022157807927,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAADRat+Y4PkOTUC+sgHPa8eZKX8tfko="
+        },
+        "date": "2026-03-04T17:46:28Z",
+        "mime_type": "video/mp4",
+        "size": 57244968,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 148.94000244141,
+            "w": 528,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_1875.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgZtMtVzMA2djbAcb8cVZYjpnkjis92PlhXLfLxtPFQWi84GwkdlNZdXInxYspzkZXn61RzTEWnlluY98Sfd9+lUTcOc7juz61rsgit8RjFZsdujblJOexpXKsRpMx+UscMfm5qXyz/AHh+RqCFNz7cZNa+wUxE3DJg9xWRIpgd/QHtRRUlDUny4DfKPUVe+zx/89F/OiiqJA=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 201,
+            "h": 320,
+            "size": 11859
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityUrl",
+        "offset": 102,
+        "length": 38
+      },
+      {
+        "_": "MessageEntityCustomEmoji",
+        "offset": 142,
+        "length": 2,
+        "document_id": 5327824188143050646
+      }
+    ],
+    "views": 2501,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 6,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 1140682525
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 101408339
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 924,
+      "read_max_id": null
+    },
+    "edit_date": "2026-03-04T17:47:04Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 9,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 3,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 3,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

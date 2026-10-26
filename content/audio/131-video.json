@@ -1,0 +1,289 @@
+{
+  "record": {
+    "id": "records_live4dev:131:audio",
+    "channel": "records_live4dev",
+    "message_id": 131,
+    "kind": "audio",
+    "title": "Словил вчера грустное состояние и решил его превратить во что-то приятное, спокойное, светлое, теплое и немного нежное. Что-то что поможет…",
+    "description": "Словил вчера грустное состояние и решил его превратить во что-то приятное, спокойное, светлое, теплое и немного нежное. Что-то что поможет замедлиться среди гонки и дневной суеты, этакое \"Утро выходного дня\", когда не надо спешить и можно спокойно замедлиться, наблюдая за солнечными лучами падающими через окна на постельное белье. \n\nХорошего дня :) \n\naudio #guitar #improvisation",
+    "caption_original": "Словил вчера грустное состояние и решил его превратить во что-то приятное, спокойное, светлое, теплое и немного нежное. Что-то что поможет замедлиться среди гонки и дневной суеты, этакое \"Утро выходного дня\", когда не надо спешить и можно спокойно замедлиться, наблюдая за солнечными лучами падающими через окна на постельное белье. \n\nХорошего дня :) \n\naudio #guitar #improvisation",
+    "tags": [
+      "guitar",
+      "improvisation"
+    ],
+    "published_at": "2023-10-12T10:32:44Z",
+    "duration_seconds": 194.28,
+    "file": "content/audio/131-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1558718,
+    "telegram_url": "https://t.me/records_live4dev/131",
+    "expected_size_bytes": 1558718,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/131-video.json",
+    "caption_file": "content/audio/131-video.txt",
+    "telegram_document_id": 5278776189903714743,
+    "grouped_id": null,
+    "caption_source_message_id": 131,
+    "edited_at": "2023-10-12T10:34:02Z",
+    "poster": "content/video/131.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:131",
+    "source_original_filename": "IMG_8761.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Словил вчера грустное состояние и решил его превратить во что-то приятное, спокойное, светлое, теплое и немного нежное. Что-то что поможет замедлиться среди гонки и дневной суеты, этакое \"Утро выходного дня\", когда не надо спешить и можно спокойно замедлиться, наблюдая за солнечными лучами падающими через окна на постельное белье. \n\nХорошего дня :) \n\naudio #guitar #improvisation",
+  "caption_effective": "Словил вчера грустное состояние и решил его превратить во что-то приятное, спокойное, светлое, теплое и немного нежное. Что-то что поможет замедлиться среди гонки и дневной суеты, этакое \"Утро выходного дня\", когда не надо спешить и можно спокойно замедлиться, наблюдая за солнечными лучами падающими через окна на постельное белье. \n\nХорошего дня :) \n\naudio #guitar #improvisation",
+  "message_caption_original": "Словил вчера грустное состояние и решил его превратить во что-то приятное, спокойное, светлое, теплое и немного нежное. Что-то что поможет замедлиться среди гонки и дневной суеты, этакое \"Утро выходного дня\", когда не надо спешить и можно спокойно замедлиться, наблюдая за солнечными лучами падающими через окна на постельное белье. \n\nХорошего дня :) \n\naudio #guitar #improvisation",
+  "caption_source_message_id": 131,
+  "entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 188,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 353,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/68"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 359,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 367,
+      "length": 14
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityBold",
+      "offset": 188,
+      "length": 18
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 353,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/68"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 359,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 367,
+      "length": 14
+    }
+  ],
+  "date": "2023-10-12T10:32:44Z",
+  "edit_date": "2023-10-12T10:34:02Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 194.385,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_8761.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 131,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2023-10-12T10:32:44Z",
+    "message": "Словил вчера грустное состояние и решил его превратить во что-то приятное, спокойное, светлое, теплое и немного нежное. Что-то что поможет замедлиться среди гонки и дневной суеты, этакое \"Утро выходного дня\", когда не надо спешить и можно спокойно замедлиться, наблюдая за солнечными лучами падающими через окна на постельное белье. \n\nХорошего дня :) \n\naudio #guitar #improvisation",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5278776189903714743,
+        "access_hash": 1640629867042382675,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACDat+Y4Bp2mia2JMBrKhGl71lleEU="
+        },
+        "date": "2023-10-12T10:32:44Z",
+        "mime_type": "video/mp4",
+        "size": 161641107,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 194.385,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_8761.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWoRw7hTZIgoOWwfSrUDqARznFJJudWcDCnkZ61NykigByRRUoRmY7R+NFO4crLNseuThT3xTriZUjVVXkjA+lLaTNKGBCKq98VXcGWMjjep4wam3cal2CGYRLg9+aKrtkcGinYtTsG4hcA1IrBcnPXtRRTMluMkbce1FFFAw="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 178,
+            "h": 320,
+            "size": 14937
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityBold",
+        "offset": 188,
+        "length": 18
+      },
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 353,
+        "length": 5,
+        "url": "https://t.me/mp3records_live4dev/68"
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 359,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 367,
+        "length": 14
+      }
+    ],
+    "views": 702,
+    "forwards": 0,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 3,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 226090226
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 1469854957
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 436999606
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 763,
+      "read_max_id": null
+    },
+    "edit_date": "2023-10-12T10:34:02Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 17,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

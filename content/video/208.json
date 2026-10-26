@@ -1,26 +1,228 @@
 {
-  "id": "records_live4dev:208",
-  "kind": "video",
-  "title": "А вот и запись для полноты коллекции! Ещё немного согревающего инди чтобы приятнее  было ждать солнце и весну 🙂 dmtrevna — хочется тепла",
-  "description": "А вот и запись для полноты коллекции! Ещё немного согревающего инди чтобы приятнее  было ждать солнце и весну 🙂 dmtrevna — хочется тепла",
+  "record": {
+    "id": "records_live4dev:208",
+    "channel": "records_live4dev",
+    "message_id": 208,
+    "kind": "video",
+    "title": "А вот и запись для полноты коллекции! Ещё немного согревающего инди чтобы приятнее было ждать солнце и весну 🙂 dmtrevna — хочется тепла",
+    "description": "А вот и запись для полноты коллекции! Ещё немного согревающего инди чтобы приятнее  было ждать солнце и весну 🙂 dmtrevna — хочется тепла",
+    "caption_original": "А вот и запись для полноты коллекции! Ещё немного согревающего инди чтобы приятнее  было ждать солнце и весну 🙂 dmtrevna — хочется тепла",
+    "tags": [],
+    "published_at": "2026-02-08T14:51:05Z",
+    "duration_seconds": 132.7,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/208",
+    "original_filename": "IMG_1793.MOV",
+    "expected_size_bytes": 51038330,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/208.json",
+    "caption_file": "content/video/208.txt",
+    "telegram_document_id": 5208664065727044084,
+    "grouped_id": null,
+    "caption_source_message_id": 208,
+    "edited_at": "2026-02-08T14:52:43Z",
+    "poster": "content/video/208.jpg",
+    "audio_file": "content/audio/208-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "А вот и запись для полноты коллекции! Ещё немного согревающего инди чтобы приятнее  было ждать солнце и весну 🙂 dmtrevna — хочется тепла",
+  "caption_effective": "А вот и запись для полноты коллекции! Ещё немного согревающего инди чтобы приятнее  было ждать солнце и весну 🙂 dmtrevna — хочется тепла",
+  "message_caption_original": "А вот и запись для полноты коллекции! Ещё немного согревающего инди чтобы приятнее  было ждать солнце и весну 🙂 dmtrevna — хочется тепла",
   "caption_source_message_id": 208,
-  "tags": [],
-  "published_at": "2026-02-08T14:51:05Z",
-  "duration_seconds": 132.77333068848,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 51038330,
-  "telegram_url": "https://t.me/records_live4dev/208",
-  "channel": "records_live4dev",
-  "message_id": 208,
-  "availability": "pending",
-  "original_filename": "IMG_1793.MOV",
-  "expected_size_bytes": 51038330,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/208.json",
-  "caption_file": "content/video/208.txt",
-  "telegram_metadata": "ID: 208 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2026-02-08 14:51:05+00:00 | 📎 video, edited | views:1856, forwards:1, reactions:30",
-  "poster": "content/video/208.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [],
+  "caption_entities": [],
+  "date": "2026-02-08T14:51:05Z",
+  "edit_date": "2026-02-08T14:52:43Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 132.77333068848,
+      "w": 592,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_1793.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 208,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2026-02-08T14:51:05Z",
+    "message": "А вот и запись для полноты коллекции! Ещё немного согревающего инди чтобы приятнее  было ждать солнце и весну 🙂 dmtrevna — хочется тепла",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5208664065727044084,
+        "access_hash": -7820523010069308730,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAADQat+Y4MIdzsWkpUJ6QCsAXI4+x3w="
+        },
+        "date": "2026-02-08T14:51:05Z",
+        "mime_type": "video/mp4",
+        "size": 51038330,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 132.77333068848,
+            "w": 592,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_1793.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgcvlahlcRDdgsfQVYOM471VkLxySMTtHABx19azLQ+CdJsgAhh1Bol4YfSq1rue7LYGAvJFWpeW/CgChcXu6QmPK9s1B9pkbILbsn+KplsBswfvdzUdzaeUF8oMxPUdaFON7DcWQRTlLhZMAbe3rWkl1JON6RfL2zk1jknkY5rX0sYtOePmNUyCs8xkcIOMNnBqw0qxqUkPJPBzRRWf2kjXpcpPekMQoDAd/WtCGPdErOSrMM4oorRozTP"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 224,
+            "h": 320,
+            "size": 14796
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 1866,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 1,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 1140682525
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 917,
+      "read_max_id": null
+    },
+    "edit_date": "2026-02-08T14:52:43Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 16,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5325850195404005217
+          },
+          "count": 7,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5328014223266030170
+          },
+          "count": 5,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 2,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

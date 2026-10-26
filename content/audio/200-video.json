@@ -1,0 +1,262 @@
+{
+  "record": {
+    "id": "records_live4dev:200:audio",
+    "channel": "records_live4dev",
+    "message_id": 200,
+    "kind": "audio",
+    "title": "Работа коллектива это всегда интересно, у каждого свои цели, свои ожидания, свое видение, свои ограничения и возможности. И как же кайфово…",
+    "description": "Работа коллектива это всегда интересно, у каждого свои цели, свои ожидания, свое видение, свои  ограничения и возможности. И как же кайфово наблюдать когда на выходе появляется результат. \n\nКавер на песню Маяк группы Обстоятельства.\n\nНа 20ое августа ещё есть билеты, пишите @nastia_fiks 😉",
+    "caption_original": "Работа коллектива это всегда интересно, у каждого свои цели, свои ожидания, свое видение, свои  ограничения и возможности. И как же кайфово наблюдать когда на выходе появляется результат. \n\nКавер на песню Маяк группы Обстоятельства.\n\nНа 20ое августа ещё есть билеты, пишите @nastia_fiks 😉",
+    "tags": [],
+    "published_at": "2025-08-05T13:48:40Z",
+    "duration_seconds": 236.191995,
+    "file": "content/audio/200-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1925983,
+    "telegram_url": "https://t.me/records_live4dev/200",
+    "expected_size_bytes": 1925983,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/200-video.json",
+    "caption_file": "content/audio/200-video.txt",
+    "telegram_document_id": 5228702287186132417,
+    "grouped_id": null,
+    "caption_source_message_id": 200,
+    "edited_at": "2025-08-05T13:50:51Z",
+    "poster": "content/video/200.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:200",
+    "source_original_filename": "IMG_7310.MP4",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Работа коллектива это всегда интересно, у каждого свои цели, свои ожидания, свое видение, свои  ограничения и возможности. И как же кайфово наблюдать когда на выходе появляется результат. \n\nКавер на песню Маяк группы Обстоятельства.\n\nНа 20ое августа ещё есть билеты, пишите @nastia_fiks 😉",
+  "caption_effective": "Работа коллектива это всегда интересно, у каждого свои цели, свои ожидания, свое видение, свои  ограничения и возможности. И как же кайфово наблюдать когда на выходе появляется результат. \n\nКавер на песню Маяк группы Обстоятельства.\n\nНа 20ое августа ещё есть билеты, пишите @nastia_fiks 😉",
+  "message_caption_original": "Работа коллектива это всегда интересно, у каждого свои цели, свои ожидания, свое видение, свои  ограничения и возможности. И как же кайфово наблюдать когда на выходе появляется результат. \n\nКавер на песню Маяк группы Обстоятельства.\n\nНа 20ое августа ещё есть билеты, пишите @nastia_fiks 😉",
+  "caption_source_message_id": 200,
+  "entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 274,
+      "length": 12
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 274,
+      "length": 12
+    }
+  ],
+  "date": "2025-08-05T13:48:40Z",
+  "edit_date": "2025-08-05T13:50:51Z",
+  "grouped_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 199,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null
+  },
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 236.18524169922,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_7310.MP4"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 200,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2025-08-05T13:48:40Z",
+    "message": "Работа коллектива это всегда интересно, у каждого свои цели, свои ожидания, свое видение, свои  ограничения и возможности. И как же кайфово наблюдать когда на выходе появляется результат. \n\nКавер на песню Маяк группы Обстоятельства.\n\nНа 20ое августа ещё есть билеты, пишите @nastia_fiks 😉",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": {
+      "_": "MessageReplyHeader",
+      "reply_to_scheduled": false,
+      "forum_topic": false,
+      "quote": false,
+      "reply_to_msg_id": 199,
+      "reply_to_peer_id": null,
+      "reply_from": null,
+      "reply_media": null,
+      "reply_to_top_id": null,
+      "quote_text": null,
+      "quote_entities": [],
+      "quote_offset": null,
+      "todo_item_id": null
+    },
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5228702287186132417,
+        "access_hash": 4746109858203089461,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAADIat+Y4I8GlOT02h3A6TGfKrOyXeM="
+        },
+        "date": "2025-08-05T13:48:40Z",
+        "mime_type": "video/mp4",
+        "size": 91073187,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 236.18524169922,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_7310.MP4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWhQ4cgsc7jwadnDU7ylEnAy/UDNP8gMCQcNjJFQyiMFmbngYzRSK/lybW5AXGMd6KdhXB5I1R5FkLMx4BH8qbB5gkIPzB+uT0okspYSPlUj+92qdM5GSDj2pgtRjwh8DO1sZJ6/hRSyOhcgYGOtFNLQ3jCLWppo6uSpUg9wRVe5siQTCcH+7RRQcxnOhRiGXBHY0UUUFH"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 15771
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityMention",
+        "offset": 274,
+        "length": 12
+      }
+    ],
+    "views": 3119,
+    "forwards": 3,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 0,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [],
+      "channel_id": 1290562209,
+      "max_id": null,
+      "read_max_id": null
+    },
+    "edit_date": "2025-08-05T13:50:51Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 21,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5325850195404005217
+          },
+          "count": 6,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 5,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

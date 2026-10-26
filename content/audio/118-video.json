@@ -1,0 +1,171 @@
+{
+  "record": {
+    "id": "records_live4dev:118:audio",
+    "channel": "records_live4dev",
+    "message_id": 118,
+    "kind": "audio",
+    "title": "Снег из прошлого поста уже давно успел растаять, а записей как-то не прибавилось. Но тут в гости Ваня пришел, посидели, попели, хотели стри…",
+    "description": "Снег из прошлого поста уже давно успел растаять, а записей как-то не прибавилось. Но тут в гости Ваня пришел, посидели, попели, хотели стрим даже сделать, но качество звука сильно проседало, так что решили просто записать все и выложить, приятного прослушивания :)\n\n1. Сироткин - Тигры в темных очках 😎 \n2. Найк Борзов - Одна она\n3. Tyrone Wells - More\n4. Браво - Жар птица \n5. Сироткин - лисы волки\n6. Ленинград - Magic people \n7. Chris Isaak - Wicked game\n8. Мертвые дельфины - на моей луне",
+    "caption_original": "",
+    "tags": [],
+    "published_at": "2023-06-04T19:15:00Z",
+    "duration_seconds": 112.313991,
+    "file": "content/audio/118-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 902194,
+    "telegram_url": "https://t.me/records_live4dev/118",
+    "expected_size_bytes": 902194,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/118-video.json",
+    "caption_file": "content/audio/118-video.txt",
+    "telegram_document_id": 5470052897733487369,
+    "grouped_id": 13487248798476930,
+    "caption_source_message_id": 113,
+    "edited_at": "2023-06-04T19:15:02Z",
+    "poster": "content/video/118.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:118",
+    "source_original_filename": "IMG_4820.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "",
+  "caption_effective": "Снег из прошлого поста уже давно успел растаять, а записей как-то не прибавилось. Но тут в гости Ваня пришел, посидели, попели, хотели стрим даже сделать, но качество звука сильно проседало, так что решили просто записать все и выложить, приятного прослушивания :)\n\n1. Сироткин - Тигры в темных очках 😎 \n2. Найк Борзов - Одна она\n3. Tyrone Wells - More\n4. Браво - Жар птица \n5. Сироткин - лисы волки\n6. Ленинград - Magic people \n7. Chris Isaak - Wicked game\n8. Мертвые дельфины - на моей луне",
+  "message_caption_original": "",
+  "caption_source_message_id": 113,
+  "entities": [],
+  "caption_entities": [],
+  "date": "2023-06-04T19:15:00Z",
+  "edit_date": "2023-06-04T19:15:02Z",
+  "grouped_id": 13487248798476930,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 112.0,
+      "w": 848,
+      "h": 464,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_4820.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 118,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2023-06-04T19:15:00Z",
+    "message": "",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5470052897733487369,
+        "access_hash": 6729691050845101776,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAB2at+FLtAwcq3AI4ItAVSMpYaOKiI="
+        },
+        "date": "2023-06-04T19:12:57Z",
+        "mime_type": "video/mp4",
+        "size": 43153874,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 112.0,
+            "w": 848,
+            "h": 464,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_4820.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ARYoWe586IK2A2enpTjbxxorKCGB9cg1QM245xjHrTnuX2gkAADgChoaY5XIfrznpV0HB2tJz7YFRaaiGIswBJODTr11iClAAQcYFJx0uFx5BGRvP50VFDK0i5459TRSCxRCjb9afEvmFgOMCiiq6C6k1odiNtJ+U5I9abdgzKGzyDRRT6CI43aH5KKKKnlRV2c="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 180,
+            "size": 17843
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 1271,
+    "forwards": 10,
+    "replies": null,
+    "edit_date": "2023-06-04T19:15:02Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": 13487248798476930,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

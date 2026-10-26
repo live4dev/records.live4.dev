@@ -1,25 +1,195 @@
 {
-  "id": "records_live4dev:192",
-  "kind": "video",
-  "title": "И ещё немного грустной нежнятины - кавер на Глюкозу - А снег идет, хотя точнее это кавер на версию Аннушки :) приятного прослушивания.",
-  "description": "И ещё немного грустной нежнятины - кавер на Глюкозу - А снег идет, хотя точнее это кавер на версию Аннушки :) приятного прослушивания.",
+  "record": {
+    "id": "records_live4dev:192",
+    "channel": "records_live4dev",
+    "message_id": 192,
+    "kind": "video",
+    "title": "И ещё немного грустной нежнятины - кавер на Глюкозу - А снег идет, хотя точнее это кавер на версию Аннушки :) приятного прослушивания.",
+    "description": "И ещё немного грустной нежнятины - кавер на Глюкозу - А снег идет, хотя точнее это кавер на версию Аннушки :) приятного прослушивания.",
+    "caption_original": "И ещё немного грустной нежнятины - кавер на Глюкозу - А снег идет, хотя точнее это кавер на версию Аннушки :) приятного прослушивания.",
+    "tags": [],
+    "published_at": "2025-04-28T16:59:46Z",
+    "duration_seconds": 118.7,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/192",
+    "original_filename": "",
+    "expected_size_bytes": 24871867,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/192.json",
+    "caption_file": "content/video/192.txt",
+    "telegram_document_id": 5221947974371801456,
+    "grouped_id": null,
+    "caption_source_message_id": 192,
+    "edited_at": "2025-04-28T17:00:34Z",
+    "poster": "content/video/192.jpg",
+    "audio_file": "content/audio/192-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "И ещё немного грустной нежнятины - кавер на Глюкозу - А снег идет, хотя точнее это кавер на версию Аннушки :) приятного прослушивания.",
+  "caption_effective": "И ещё немного грустной нежнятины - кавер на Глюкозу - А снег идет, хотя точнее это кавер на версию Аннушки :) приятного прослушивания.",
+  "message_caption_original": "И ещё немного грустной нежнятины - кавер на Глюкозу - А снег идет, хотя точнее это кавер на версию Аннушки :) приятного прослушивания.",
   "caption_source_message_id": 192,
-  "tags": [],
-  "published_at": "2025-04-28T16:59:46Z",
-  "duration_seconds": 118.8,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 24871867,
-  "telegram_url": "https://t.me/records_live4dev/192",
-  "channel": "records_live4dev",
-  "message_id": 192,
-  "availability": "pending",
-  "original_filename": null,
-  "expected_size_bytes": 24871867,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/192.json",
-  "caption_file": "content/video/192.txt",
-  "telegram_metadata": "ID: 192 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2025-04-28 16:59:46+00:00 | 📎 video, edited | views:2524, forwards:9, reactions:17",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [],
+  "caption_entities": [],
+  "date": "2025-04-28T16:59:46Z",
+  "edit_date": "2025-04-28T17:00:34Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 118.8,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 192,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2025-04-28T16:59:46Z",
+    "message": "И ещё немного грустной нежнятины - кавер на Глюкозу - А снег идет, хотя точнее это кавер на версию Аннушки :) приятного прослушивания.",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5221947974371801456,
+        "access_hash": -6104295561627523866,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAADAat+Y4GkT1o2sqbEPD5J0WRFzapM="
+        },
+        "date": "2025-04-28T16:59:46Z",
+        "mime_type": "video/mp4",
+        "size": 24871867,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 118.8,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 2528,
+    "forwards": 9,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 1,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 1140682525
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 855,
+      "read_max_id": null
+    },
+    "edit_date": "2025-04-28T17:00:34Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 13,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 3,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

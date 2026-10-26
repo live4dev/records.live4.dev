@@ -1,29 +1,263 @@
 {
-  "id": "records_live4dev:37",
-  "kind": "video",
-  "title": "Странным образом Oasis прошёл мимо меня, последние пару месяцев слушал, большего всего зацепили Wonderwall и Stop Crying Your Heart Out.",
-  "description": "Странным образом Oasis прошёл мимо меня, последние пару месяцев слушал, большего всего зацепили Wonderwall и Stop Crying Your Heart Out.\n\n#acoustic #voice",
+  "record": {
+    "id": "records_live4dev:37",
+    "channel": "records_live4dev",
+    "message_id": 37,
+    "kind": "video",
+    "title": "Странным образом Oasis прошёл мимо меня, последние пару месяцев слушал, большего всего зацепили Wonderwall и Stop Crying Your Heart Out.",
+    "description": "Странным образом Oasis прошёл мимо меня, последние пару месяцев слушал, большего всего зацепили Wonderwall и Stop Crying Your Heart Out.\n\n#acoustic #voice",
+    "caption_original": "Странным образом Oasis прошёл мимо меня, последние пару месяцев слушал, большего всего зацепили Wonderwall и Stop Crying Your Heart Out.\n\n#acoustic #voice",
+    "tags": [
+      "acoustic",
+      "voice"
+    ],
+    "published_at": "2021-10-17T18:01:31Z",
+    "duration_seconds": 233.5,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/37",
+    "original_filename": "IMG_8939.MOV",
+    "expected_size_bytes": 34192037,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/37.json",
+    "caption_file": "content/video/37.txt",
+    "telegram_document_id": 5433701741944116179,
+    "grouped_id": null,
+    "caption_source_message_id": 37,
+    "edited_at": "2021-10-17T18:00:51Z",
+    "poster": "content/video/37.jpg",
+    "audio_file": "content/audio/37-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Странным образом Oasis прошёл мимо меня, последние пару месяцев слушал, большего всего зацепили Wonderwall и Stop Crying Your Heart Out.\n\n#acoustic #voice",
+  "caption_effective": "Странным образом Oasis прошёл мимо меня, последние пару месяцев слушал, большего всего зацепили Wonderwall и Stop Crying Your Heart Out.\n\n#acoustic #voice",
+  "message_caption_original": "Странным образом Oasis прошёл мимо меня, последние пару месяцев слушал, большего всего зацепили Wonderwall и Stop Crying Your Heart Out.\n\n#acoustic #voice",
   "caption_source_message_id": 37,
-  "tags": [
-    "acoustic",
-    "voice"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 138,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 148,
+      "length": 6
+    }
   ],
-  "published_at": "2021-10-17T18:01:31Z",
-  "duration_seconds": 233,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 34192037,
-  "telegram_url": "https://t.me/records_live4dev/37",
-  "channel": "records_live4dev",
-  "message_id": 37,
-  "availability": "pending",
-  "original_filename": "IMG_8939.MOV",
-  "expected_size_bytes": 34192037,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/37.json",
-  "caption_file": "content/video/37.txt",
-  "telegram_metadata": "ID: 37 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-10-17 18:01:31+00:00 | 📎 video, forwarded, edited | views:304, forwards:0",
-  "poster": "content/video/37.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 138,
+      "length": 9
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 148,
+      "length": 6
+    }
+  ],
+  "date": "2021-10-17T18:01:31Z",
+  "edit_date": "2021-10-17T18:00:51Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": {
+    "_": "MessageFwdHeader",
+    "date": "2021-10-17T17:47:22Z",
+    "imported": false,
+    "saved_out": false,
+    "from_id": {
+      "_": "PeerChannel",
+      "channel_id": 1441620546
+    },
+    "from_name": null,
+    "channel_post": 222,
+    "post_author": null,
+    "saved_from_peer": null,
+    "saved_from_msg_id": null,
+    "saved_from_id": null,
+    "saved_from_name": null,
+    "saved_date": null,
+    "psa_type": null
+  },
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 233.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_8939.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 37,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-10-17T18:01:31Z",
+    "message": "Странным образом Oasis прошёл мимо меня, последние пару месяцев слушал, большего всего зацепили Wonderwall и Stop Crying Your Heart Out.\n\n#acoustic #voice",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+      "_": "MessageFwdHeader",
+      "date": "2021-10-17T17:47:22Z",
+      "imported": false,
+      "saved_out": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1441620546
+      },
+      "from_name": null,
+      "channel_post": 222,
+      "post_author": null,
+      "saved_from_peer": null,
+      "saved_from_msg_id": null,
+      "saved_from_id": null,
+      "saved_from_name": null,
+      "saved_date": null,
+      "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5433701741944116179,
+        "access_hash": -6146559606871284117,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAlat9+LAf3NuJH2sT2v6CKConPNnM="
+        },
+        "date": "2021-10-17T17:47:22Z",
+        "mime_type": "video/mp4",
+        "size": 34192037,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 233.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_8939.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWnkZTwN1VpSFXJfin+YCoORUOPPu0Tqo5OKQJELSLnkkfUUVeuSFA3hWXPGR0oqeYvkEWKJUCsAxxzmkVo4ZCoQAkdhTcOk53c56Uk8YkZecYOPrQtRbMinRp+PMHB4BopJbYBztJOecEZxRTEXjgyYNRTHZ1GRRRUI1ZWS5EbbyevFFFFVYzuQ=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 175,
+            "h": 320,
+            "size": 18872
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 138,
+        "length": 9
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 148,
+        "length": 6
+      }
+    ],
+    "views": 304,
+    "forwards": 0,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 9,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 896906220
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 125955637
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 62459772
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 72,
+      "read_max_id": null
+    },
+    "edit_date": "2021-10-17T18:00:51Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

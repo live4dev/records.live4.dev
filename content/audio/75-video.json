@@ -1,0 +1,290 @@
+{
+  "record": {
+    "id": "records_live4dev:75:audio",
+    "channel": "records_live4dev",
+    "message_id": 75,
+    "kind": "audio",
+    "title": "Сегодня благодаря соседу Денису наконец-то заработал мой комп ) В общем было немного увлекательной цифровой археологии, смешные записи нашё…",
+    "description": "Сегодня благодаря соседу Денису наконец-то заработал мой комп ) В общем было немного увлекательной цифровой археологии, смешные записи нашёл, правда пока не знаю выкладывать их или нет. \n\nНаткнулся и на давно забытую песню Алексея Кульбацкого - Спаситель с альбома «Рок из подворотни» группа Пилот так давала возможность малоизвестным музыкантам заявить о себе. \n\nКажется, некоторым из вас она отзовётся.  Хорошего вечера =) ну и всегда можно обсудить либо в комментах, либо в личке ) \n\naudio #cover #voice #guitar",
+    "caption_original": "Сегодня благодаря соседу Денису наконец-то заработал мой комп ) В общем было немного увлекательной цифровой археологии, смешные записи нашёл, правда пока не знаю выкладывать их или нет. \n\nНаткнулся и на давно забытую песню Алексея Кульбацкого - Спаситель с альбома «Рок из подворотни» группа Пилот так давала возможность малоизвестным музыкантам заявить о себе. \n\nКажется, некоторым из вас она отзовётся.  Хорошего вечера =) ну и всегда можно обсудить либо в комментах, либо в личке ) \n\naudio #cover #voice #guitar",
+    "tags": [
+      "cover",
+      "voice",
+      "guitar"
+    ],
+    "published_at": "2022-11-06T16:38:02Z",
+    "duration_seconds": 142.43,
+    "file": "content/audio/75-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1146960,
+    "telegram_url": "https://t.me/records_live4dev/75",
+    "expected_size_bytes": 1146960,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/75-video.json",
+    "caption_file": "content/audio/75-video.txt",
+    "telegram_document_id": 5422484661756503550,
+    "grouped_id": null,
+    "caption_source_message_id": 75,
+    "edited_at": "2022-11-12T07:23:39Z",
+    "poster": "content/video/75.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:75",
+    "source_original_filename": "IMG_5642.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Сегодня благодаря соседу Денису наконец-то заработал мой комп ) В общем было немного увлекательной цифровой археологии, смешные записи нашёл, правда пока не знаю выкладывать их или нет. \n\nНаткнулся и на давно забытую песню Алексея Кульбацкого - Спаситель с альбома «Рок из подворотни» группа Пилот так давала возможность малоизвестным музыкантам заявить о себе. \n\nКажется, некоторым из вас она отзовётся.  Хорошего вечера =) ну и всегда можно обсудить либо в комментах, либо в личке ) \n\naudio #cover #voice #guitar",
+  "caption_effective": "Сегодня благодаря соседу Денису наконец-то заработал мой комп ) В общем было немного увлекательной цифровой археологии, смешные записи нашёл, правда пока не знаю выкладывать их или нет. \n\nНаткнулся и на давно забытую песню Алексея Кульбацкого - Спаситель с альбома «Рок из подворотни» группа Пилот так давала возможность малоизвестным музыкантам заявить о себе. \n\nКажется, некоторым из вас она отзовётся.  Хорошего вечера =) ну и всегда можно обсудить либо в комментах, либо в личке ) \n\naudio #cover #voice #guitar",
+  "message_caption_original": "Сегодня благодаря соседу Денису наконец-то заработал мой комп ) В общем было немного увлекательной цифровой археологии, смешные записи нашёл, правда пока не знаю выкладывать их или нет. \n\nНаткнулся и на давно забытую песню Алексея Кульбацкого - Спаситель с альбома «Рок из подворотни» группа Пилот так давала возможность малоизвестным музыкантам заявить о себе. \n\nКажется, некоторым из вас она отзовётся.  Хорошего вечера =) ну и всегда можно обсудить либо в комментах, либо в личке ) \n\naudio #cover #voice #guitar",
+  "caption_source_message_id": 75,
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 487,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/58"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 493,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 500,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 507,
+      "length": 7
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 487,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/58"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 493,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 500,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 507,
+      "length": 7
+    }
+  ],
+  "date": "2022-11-06T16:38:02Z",
+  "edit_date": "2022-11-12T07:23:39Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 142.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_5642.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 75,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2022-11-06T16:38:02Z",
+    "message": "Сегодня благодаря соседу Денису наконец-то заработал мой комп ) В общем было немного увлекательной цифровой археологии, смешные записи нашёл, правда пока не знаю выкладывать их или нет. \n\nНаткнулся и на давно забытую песню Алексея Кульбацкого - Спаситель с альбома «Рок из подворотни» группа Пилот так давала возможность малоизвестным музыкантам заявить о себе. \n\nКажется, некоторым из вас она отзовётся.  Хорошего вечера =) ну и всегда можно обсудить либо в комментах, либо в личке ) \n\naudio #cover #voice #guitar",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5422484661756503550,
+        "access_hash": -5051573640697272978,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAABLat+FL5IRrm9bfm+GyBoWPrzlq2w="
+        },
+        "date": "2022-11-06T16:38:02Z",
+        "mime_type": "video/mp4",
+        "size": 45724749,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 142.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_5642.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWVWk28kAe1WI8MuQ2fpVCJRIW8wkqoHC+9PtgEumjQuq7c81I7aFqSMbun5nNFNkBz979aKBEaQeQC/AYjkVCk6q7OR8xPGaUO0iNteQ+maYyqVG5m47ZFGhb2JmmDnsP60VVkm2hQoG7HzcUUCJbe5KwACPIHHFQyvhyzAgntRRSSSY29CJmIOQh57miiinckw=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 17623
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 487,
+        "length": 5,
+        "url": "https://t.me/mp3records_live4dev/58"
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 493,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 500,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 507,
+        "length": 7
+      }
+    ],
+    "views": 410,
+    "forwards": 2,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 8,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 5006267030
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 45565504
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 326,
+      "read_max_id": null
+    },
+    "edit_date": "2022-11-12T07:23:39Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 12,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 7,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

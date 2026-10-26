@@ -1,26 +1,311 @@
 {
-  "id": "records_live4dev:99",
-  "kind": "video",
-  "title": "Ковид для меня был классным периодом жизни, много времени с семьей, много времени на баловство и игры - развлекались как могли. Представл…",
-  "description": "Ковид для меня был классным периодом жизни, много времени с семьей, много времени на баловство и игры - развлекались как могли. Представляю трио - двое против ветра и зайчонок.\n\nВ комментах бонусы ) обложка, конферансье, панки",
+  "record": {
+    "id": "records_live4dev:99",
+    "channel": "records_live4dev",
+    "message_id": 99,
+    "kind": "video",
+    "title": "Ковид для меня был классным периодом жизни, много времени с семьей, много времени на баловство и игры - развлекались как могли. Представляю…",
+    "description": "Ковид для меня был классным периодом жизни, много времени с семьей, много времени на баловство и игры - развлекались как могли. Представляю трио - двое против ветра и зайчонок.\n\nВ комментах бонусы ) обложка, конферансье, панки",
+    "caption_original": "Ковид для меня был классным периодом жизни, много времени с семьей, много времени на баловство и игры - развлекались как могли. Представляю трио - двое против ветра и зайчонок.\n\nВ комментах бонусы ) обложка, конферансье, панки",
+    "tags": [],
+    "published_at": "2023-02-27T17:17:42Z",
+    "duration_seconds": 129.233333,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/99",
+    "original_filename": "IMG_0053.MP4",
+    "expected_size_bytes": 41498524,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/99.json",
+    "caption_file": "content/video/99.txt",
+    "telegram_document_id": 5469814166271305088,
+    "grouped_id": null,
+    "caption_source_message_id": 99,
+    "edited_at": "2023-02-27T19:07:35Z",
+    "poster": "content/video/99.jpg",
+    "audio_file": "content/audio/99-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Ковид для меня был классным периодом жизни, много времени с семьей, много времени на баловство и игры - развлекались как могли. Представляю трио - двое против ветра и зайчонок.\n\nВ комментах бонусы ) обложка, конферансье, панки",
+  "caption_effective": "Ковид для меня был классным периодом жизни, много времени с семьей, много времени на баловство и игры - развлекались как могли. Представляю трио - двое против ветра и зайчонок.\n\nВ комментах бонусы ) обложка, конферансье, панки",
+  "message_caption_original": "Ковид для меня был классным периодом жизни, много времени с семьей, много времени на баловство и игры - развлекались как могли. Представляю трио - двое против ветра и зайчонок.\n\nВ комментах бонусы ) обложка, конферансье, панки",
   "caption_source_message_id": 99,
-  "tags": [],
-  "published_at": "2023-02-27T17:17:42Z",
-  "duration_seconds": 129,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 41498524,
-  "telegram_url": "https://t.me/records_live4dev/99",
-  "channel": "records_live4dev",
-  "message_id": 99,
-  "availability": "pending",
-  "original_filename": "IMG_0053.MP4",
-  "expected_size_bytes": 41498524,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/99.json",
-  "caption_file": "content/video/99.txt",
-  "telegram_metadata": "ID: 99 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-02-27 17:17:42+00:00 | 📎 video, edited | views:472, forwards:4, reactions:30",
-  "poster": "content/video/99.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 199,
+      "length": 7,
+      "url": "https://t.me/records_live4dev/99?comment=439"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 208,
+      "length": 11,
+      "url": "https://t.me/records_live4dev/99?comment=438"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 221,
+      "length": 5,
+      "url": "https://t.me/records_live4dev/99?comment=433"
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 199,
+      "length": 7,
+      "url": "https://t.me/records_live4dev/99?comment=439"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 208,
+      "length": 11,
+      "url": "https://t.me/records_live4dev/99?comment=438"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 221,
+      "length": 5,
+      "url": "https://t.me/records_live4dev/99?comment=433"
+    }
+  ],
+  "date": "2023-02-27T17:17:42Z",
+  "edit_date": "2023-02-27T19:07:35Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 129.0,
+      "w": 848,
+      "h": 464,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_0053.MP4"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 99,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2023-02-27T17:17:42Z",
+    "message": "Ковид для меня был классным периодом жизни, много времени с семьей, много времени на баловство и игры - развлекались как могли. Представляю трио - двое против ветра и зайчонок.\n\nВ комментах бонусы ) обложка, конферансье, панки",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5469814166271305088,
+        "access_hash": 5335586902570417607,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAABjat+FL6y49QHxn65pb4jLYPDRdnA="
+        },
+        "date": "2023-02-27T17:17:42Z",
+        "mime_type": "video/mp4",
+        "size": 41498524,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 129.0,
+            "w": 848,
+            "h": 464,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_0053.MP4"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ARYoiV8YPXBomlDTFgmAVwBmqcMUsrgqCcd6u3IPyoq/MKHMap3VyRJiwCqMc0KyeUFGc96qhGXDbhn2NSK4LEjjmqjK8iZQtEWYg5oqOR+tFNvUUVoRguu5N5AB6DijeVjLKcAcUUViboByvHHPWrcMWUVye2DRRQyE9SKVCVPIwhAIPeiiimgP"
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 320,
+            "h": 180,
+            "size": 14420
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 199,
+        "length": 7,
+        "url": "https://t.me/records_live4dev/99?comment=439"
+      },
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 208,
+        "length": 11,
+        "url": "https://t.me/records_live4dev/99?comment=438"
+      },
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 221,
+        "length": 5,
+        "url": "https://t.me/records_live4dev/99?comment=433"
+      }
+    ],
+    "views": 473,
+    "forwards": 4,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 11,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 226090226
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 151738181
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 760,
+      "read_max_id": null
+    },
+    "edit_date": "2023-02-27T19:07:35Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 15,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "😁"
+          },
+          "count": 6,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🥰"
+          },
+          "count": 5,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 2,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 1,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

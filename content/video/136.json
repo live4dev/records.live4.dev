@@ -1,30 +1,279 @@
 {
-  "id": "records_live4dev:136",
-  "kind": "video",
-  "title": "Есть у меня мечта, свалить на море и серфить, когда нибудь - да, а сейчас -  работаем ) а вечерами когда мелкие уже спят можно позаписыва…",
-  "description": "Есть у меня мечта, свалить на море и серфить, когда нибудь - да, а сейчас -  работаем ) а вечерами когда мелкие уже спят можно позаписывать песни про то как я когда нибудь уеду к морю, навсегда. Песня Саши Солнцевой - К морю, приятного прослушивания. \n\n#cover #guitar #looper",
+  "record": {
+    "id": "records_live4dev:136",
+    "channel": "records_live4dev",
+    "message_id": 136,
+    "kind": "video",
+    "title": "Есть у меня мечта, свалить на море и серфить, когда нибудь - да, а сейчас - работаем ) а вечерами когда мелкие уже спят можно позаписывать…",
+    "description": "Есть у меня мечта, свалить на море и серфить, когда нибудь - да, а сейчас -  работаем ) а вечерами когда мелкие уже спят можно позаписывать песни про то как я когда нибудь уеду к морю, навсегда. Песня Саши Солнцевой - К морю, приятного прослушивания. \n\n#cover #guitar #looper",
+    "caption_original": "Есть у меня мечта, свалить на море и серфить, когда нибудь - да, а сейчас -  работаем ) а вечерами когда мелкие уже спят можно позаписывать песни про то как я когда нибудь уеду к морю, навсегда. Песня Саши Солнцевой - К морю, приятного прослушивания. \n\n#cover #guitar #looper",
+    "tags": [
+      "cover",
+      "guitar",
+      "looper"
+    ],
+    "published_at": "2023-11-13T12:21:53Z",
+    "duration_seconds": 164.031667,
+    "file": null,
+    "mime_type": "video/mp4",
+    "size_bytes": 0,
+    "telegram_url": "https://t.me/records_live4dev/136",
+    "original_filename": "IMG_9410.MOV",
+    "expected_size_bytes": 136493935,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/video/136.json",
+    "caption_file": "content/video/136.txt",
+    "telegram_document_id": 5375309355157567174,
+    "grouped_id": null,
+    "caption_source_message_id": 136,
+    "edited_at": "2023-11-13T12:22:43Z",
+    "poster": "content/video/136.jpg",
+    "audio_file": "content/audio/136-video.m4a",
+    "availability": "catalog"
+  },
   "caption_original": "Есть у меня мечта, свалить на море и серфить, когда нибудь - да, а сейчас -  работаем ) а вечерами когда мелкие уже спят можно позаписывать песни про то как я когда нибудь уеду к морю, навсегда. Песня Саши Солнцевой - К морю, приятного прослушивания. \n\n#cover #guitar #looper",
+  "caption_effective": "Есть у меня мечта, свалить на море и серфить, когда нибудь - да, а сейчас -  работаем ) а вечерами когда мелкие уже спят можно позаписывать песни про то как я когда нибудь уеду к морю, навсегда. Песня Саши Солнцевой - К морю, приятного прослушивания. \n\n#cover #guitar #looper",
+  "message_caption_original": "Есть у меня мечта, свалить на море и серфить, когда нибудь - да, а сейчас -  работаем ) а вечерами когда мелкие уже спят можно позаписывать песни про то как я когда нибудь уеду к морю, навсегда. Песня Саши Солнцевой - К морю, приятного прослушивания. \n\n#cover #guitar #looper",
   "caption_source_message_id": 136,
-  "tags": [
-    "cover",
-    "guitar",
-    "looper"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 253,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 260,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 268,
+      "length": 7
+    }
   ],
-  "published_at": "2023-11-13T12:21:53Z",
-  "duration_seconds": 164.125,
-  "file": null,
-  "mime_type": "video/mp4",
-  "size_bytes": 136493935,
-  "telegram_url": "https://t.me/records_live4dev/136",
-  "channel": "records_live4dev",
-  "message_id": 136,
-  "availability": "pending",
-  "original_filename": "IMG_9410.MOV",
-  "expected_size_bytes": 136493935,
-  "telegram_mime_type": "video/mp4",
-  "metadata_file": "content/video/136.json",
-  "caption_file": "content/video/136.txt",
-  "telegram_metadata": "ID: 136 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-11-13 12:21:53+00:00 | 📎 video, edited | views:550, forwards:2, reactions:25",
-  "poster": "content/video/136.jpg",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 253,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 260,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 268,
+      "length": 7
+    }
+  ],
+  "date": "2023-11-13T12:21:53Z",
+  "edit_date": "2023-11-13T12:22:43Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 164.125,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_9410.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 136,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2023-11-13T12:21:53Z",
+    "message": "Есть у меня мечта, свалить на море и серфить, когда нибудь - да, а сейчас -  работаем ) а вечерами когда мелкие уже спят можно позаписывать песни про то как я когда нибудь уеду к морю, навсегда. Песня Саши Солнцевой - К морю, приятного прослушивания. \n\n#cover #guitar #looper",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5375309355157567174,
+        "access_hash": -3525044452344109260,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACIat+Y4LpJPrVoGhZhYwFUyw35DcU="
+        },
+        "date": "2023-11-13T12:21:52Z",
+        "mime_type": "video/mp4",
+        "size": 136493935,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 164.125,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_9410.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWvySQBzuYA+9RTTRRJls4PTHeppIldWVxle53VnlhBKqZ2rjao64ouO2ox7mBhkNtPowNFNuFZ7khEDkKMnoKKaY2ki3PdKJWU5wR6dKp3H/HxukbcQMhcfdommxe8/w8cioZLgS73wBzx71CK0TJYwZ5DuOTjtRVMTPG5aNsHpxRVWL57GneyLmRFUrkck96oxW5dnAKKBnG84oopRMpEUkXlnG5T9DRRRViuQ=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 178,
+            "h": 320,
+            "size": 19379
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 253,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 260,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 268,
+        "length": 7
+      }
+    ],
+    "views": 551,
+    "forwards": 2,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 9,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 113585877
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 101408339
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 698,
+      "read_max_id": null
+    },
+    "edit_date": "2023-11-13T12:22:43Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🥰"
+          },
+          "count": 11,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 9,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 5,
+          "chosen_order": 1
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

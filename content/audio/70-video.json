@@ -1,0 +1,308 @@
+{
+  "record": {
+    "id": "records_live4dev:70:audio",
+    "channel": "records_live4dev",
+    "message_id": 70,
+    "kind": "audio",
+    "title": "Горло потихоньку отходит после ангины, захотелось немного попеть и поиграть на нейлоне :) так что попробую добавить музыки в субботний вече…",
+    "description": "Горло потихоньку отходит после ангины, захотелось немного попеть и поиграть на нейлоне :) так что попробую добавить музыки в субботний вечер песней Павла Федосова - Голуби. \n\nходил человек по жизни долго\nсебя загонял чувством долга\nсебя запрягал на работу\nно только вот сломалось что то …\n\nрычал по ночам волчьим рыком\nпытался начать жить по книгам\nпотом пропадал от депрессий\nпотом взял - и превратился в песню\n\nи эта песенка так запела\nчто человечек стал снова целым\nдля всех знакомых и незнакомых \nоткрыл он двери большого дома..\n\nДальше про волков ещё будет :)\n\naudio #cover #voice #guitar",
+    "caption_original": "Горло потихоньку отходит после ангины, захотелось немного попеть и поиграть на нейлоне :) так что попробую добавить музыки в субботний вечер песней Павла Федосова - Голуби. \n\nходил человек по жизни долго\nсебя загонял чувством долга\nсебя запрягал на работу\nно только вот сломалось что то …\n\nрычал по ночам волчьим рыком\nпытался начать жить по книгам\nпотом пропадал от депрессий\nпотом взял - и превратился в песню\n\nи эта песенка так запела\nчто человечек стал снова целым\nдля всех знакомых и незнакомых \nоткрыл он двери большого дома..\n\nДальше про волков ещё будет :)\n\naudio #cover #voice #guitar",
+    "tags": [
+      "cover",
+      "voice",
+      "guitar"
+    ],
+    "published_at": "2022-10-08T18:59:17Z",
+    "duration_seconds": 204.729002,
+    "file": "content/audio/70-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 1641654,
+    "telegram_url": "https://t.me/records_live4dev/70",
+    "expected_size_bytes": 1641654,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/70-video.json",
+    "caption_file": "content/audio/70-video.txt",
+    "telegram_document_id": 5334741413361885378,
+    "grouped_id": null,
+    "caption_source_message_id": 70,
+    "edited_at": "2022-10-17T06:08:06Z",
+    "poster": "content/video/70.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:70",
+    "source_original_filename": "IMG_5085.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Горло потихоньку отходит после ангины, захотелось немного попеть и поиграть на нейлоне :) так что попробую добавить музыки в субботний вечер песней Павла Федосова - Голуби. \n\nходил человек по жизни долго\nсебя загонял чувством долга\nсебя запрягал на работу\nно только вот сломалось что то …\n\nрычал по ночам волчьим рыком\nпытался начать жить по книгам\nпотом пропадал от депрессий\nпотом взял - и превратился в песню\n\nи эта песенка так запела\nчто человечек стал снова целым\nдля всех знакомых и незнакомых \nоткрыл он двери большого дома..\n\nДальше про волков ещё будет :)\n\naudio #cover #voice #guitar",
+  "caption_effective": "Горло потихоньку отходит после ангины, захотелось немного попеть и поиграть на нейлоне :) так что попробую добавить музыки в субботний вечер песней Павла Федосова - Голуби. \n\nходил человек по жизни долго\nсебя загонял чувством долга\nсебя запрягал на работу\nно только вот сломалось что то …\n\nрычал по ночам волчьим рыком\nпытался начать жить по книгам\nпотом пропадал от депрессий\nпотом взял - и превратился в песню\n\nи эта песенка так запела\nчто человечек стал снова целым\nдля всех знакомых и незнакомых \nоткрыл он двери большого дома..\n\nДальше про волков ещё будет :)\n\naudio #cover #voice #guitar",
+  "message_caption_original": "Горло потихоньку отходит после ангины, захотелось немного попеть и поиграть на нейлоне :) так что попробую добавить музыки в субботний вечер песней Павла Федосова - Голуби. \n\nходил человек по жизни долго\nсебя загонял чувством долга\nсебя запрягал на работу\nно только вот сломалось что то …\n\nрычал по ночам волчьим рыком\nпытался начать жить по книгам\nпотом пропадал от депрессий\nпотом взял - и превратился в песню\n\nи эта песенка так запела\nчто человечек стал снова целым\nдля всех знакомых и незнакомых \nоткрыл он двери большого дома..\n\nДальше про волков ещё будет :)\n\naudio #cover #voice #guitar",
+  "caption_source_message_id": 70,
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 566,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/57"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 572,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 579,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 586,
+      "length": 7
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 566,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/57"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 572,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 579,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 586,
+      "length": 7
+    }
+  ],
+  "date": "2022-10-08T18:59:17Z",
+  "edit_date": "2022-10-17T06:08:06Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 204.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_5085.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 70,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2022-10-08T18:59:17Z",
+    "message": "Горло потихоньку отходит после ангины, захотелось немного попеть и поиграть на нейлоне :) так что попробую добавить музыки в субботний вечер песней Павла Федосова - Голуби. \n\nходил человек по жизни долго\nсебя загонял чувством долга\nсебя запрягал на работу\nно только вот сломалось что то …\n\nрычал по ночам волчьим рыком\nпытался начать жить по книгам\nпотом пропадал от депрессий\nпотом взял - и превратился в песню\n\nи эта песенка так запела\nчто человечек стал снова целым\nдля всех знакомых и незнакомых \nоткрыл он двери большого дома..\n\nДальше про волков ещё будет :)\n\naudio #cover #voice #guitar",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5334741413361885378,
+        "access_hash": -3800161163562797890,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAABGat+FL9s9zWale+B1HK1Mt4qOUqI="
+        },
+        "date": "2022-10-08T18:59:17Z",
+        "mime_type": "video/mp4",
+        "size": 65630282,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 204.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_5085.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWtTS70A/Hili2/jVTaUXBfcM8U6PBxnP50gtYfcYL9BRUMygNxmikAk7qijAGT0qJJDnp054/Cq5lLbc8kfrSqwDc5UY6e9CKepM8wZvm4470VBK4zg5OOM4ooENUENnuOamJywA60UUmV0BY8sQGI9qKKKVyTw=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 15558
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 566,
+        "length": 5,
+        "url": "https://t.me/mp3records_live4dev/57"
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 572,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 579,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 586,
+        "length": 7
+      }
+    ],
+    "views": 369,
+    "forwards": 3,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 3,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 175194200
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 1323261825
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 290,
+      "read_max_id": null
+    },
+    "edit_date": "2022-10-17T06:08:06Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 17,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🥰"
+          },
+          "count": 2,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🕊"
+          },
+          "count": 2,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🤯"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

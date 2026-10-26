@@ -1,0 +1,302 @@
+{
+  "record": {
+    "id": "records_live4dev:219:audio",
+    "channel": "records_live4dev",
+    "message_id": 219,
+    "kind": "audio",
+    "title": "Быстро летит время … его право … как же быстро летим мы и с такими декорациями 😊😍",
+    "description": "Быстро летит время … его право … как же быстро летим мы и с такими декорациями 😊😍",
+    "caption_original": "Быстро летит время … его право … как же быстро летим мы и с такими декорациями 😊😍",
+    "tags": [],
+    "published_at": "2026-09-26T12:13:58Z",
+    "duration_seconds": 86.818005,
+    "file": "content/audio/219-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 697180,
+    "telegram_url": "https://t.me/records_live4dev/219",
+    "expected_size_bytes": 697180,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/219-video.json",
+    "caption_file": "content/audio/219-video.txt",
+    "telegram_document_id": 5314792097725852313,
+    "grouped_id": null,
+    "caption_source_message_id": 219,
+    "edited_at": "2026-09-27T12:43:18Z",
+    "poster": "content/video/219.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:219",
+    "source_original_filename": "IMG_6336.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Быстро летит время … его право … как же быстро летим мы и с такими декорациями 😊😍",
+  "caption_effective": "Быстро летит время … его право … как же быстро летим мы и с такими декорациями 😊😍",
+  "message_caption_original": "Быстро летит время … его право … как же быстро летим мы и с такими декорациями 😊😍",
+  "caption_source_message_id": 219,
+  "entities": [],
+  "caption_entities": [],
+  "date": "2026-09-26T12:13:58Z",
+  "edit_date": "2026-09-27T12:43:18Z",
+  "grouped_id": null,
+  "reply_to": {
+    "_": "MessageReplyHeader",
+    "reply_to_scheduled": false,
+    "forum_topic": false,
+    "quote": false,
+    "reply_to_msg_id": 217,
+    "reply_to_peer_id": null,
+    "reply_from": null,
+    "reply_media": null,
+    "reply_to_top_id": null,
+    "quote_text": null,
+    "quote_entities": [],
+    "quote_offset": null,
+    "todo_item_id": null
+  },
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 87.071662902832,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_6336.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 219,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2026-09-26T12:13:58Z",
+    "message": "Быстро летит время … его право … как же быстро летим мы и с такими декорациями 😊😍",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": {
+      "_": "MessageReplyHeader",
+      "reply_to_scheduled": false,
+      "forum_topic": false,
+      "quote": false,
+      "reply_to_msg_id": 217,
+      "reply_to_peer_id": null,
+      "reply_from": null,
+      "reply_media": null,
+      "reply_to_top_id": null,
+      "quote_text": null,
+      "quote_entities": [],
+      "quote_offset": null,
+      "todo_item_id": null
+    },
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5314792097725852313,
+        "access_hash": -8924057835046540356,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAADbat+Y4PT2U2K9n7FfnqIRkA+74So="
+        },
+        "date": "2026-09-26T12:13:58Z",
+        "mime_type": "video/mp4",
+        "size": 72747269,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 87.071662902832,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_6336.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWvJcq7lcEdh71Vktn80qi/KeQajBII559RU8F25lCugweARU77gnbYjisvMLlnxhsYAoq3EOZB/tk0VSG2ZhYKMn881GJZCQNjZP3celW1icoznb71Ukv383O1cdOOuKlAkWbVpYyQ/Axxk0VQeTe5NFVYB0m7ed+4HvURBzxzRRTEL5frRRRQB8="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 13878
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": {
+        "_": "Photo",
+        "id": 5314792098185814142,
+        "access_hash": -5957820278213739826,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAADbat+Y4JisEA8Bczz6mTcqJmnjz7o="
+        },
+        "date": "2026-09-26T12:12:35Z",
+        "sizes": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgXupdK8m3BGeAaqzWjiUiNcqeR7VCCQQe9WZbt1iUoQW75FLfcEQxWZeRwz7SvpRVu1fdI74xuAOPwopobZnbgOT/OmCR3+XYxz93FWVifY7ttwOvFU57uV24baPQUkBahdoG/fSZBH1oqm8xdPm5NFAaBLkORICDUZHPHNFFUIXbkdaKKKAM="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 15822
+          },
+          {
+            "_": "PhotoSize",
+            "type": "x",
+            "w": 450,
+            "h": 800,
+            "size": 56660
+          },
+          {
+            "_": "PhotoSizeProgressive",
+            "type": "y",
+            "w": 720,
+            "h": 1280,
+            "sizes": [
+              14573,
+              33832,
+              44670,
+              65124,
+              111720
+            ]
+          }
+        ],
+        "dc_id": 2,
+        "has_stickers": false,
+        "video_sizes": []
+      },
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 367,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 2,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 89009320
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 957,
+      "read_max_id": null
+    },
+    "edit_date": "2026-09-27T12:43:18Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 13,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5341772493868769078
+          },
+          "count": 6,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 2,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}

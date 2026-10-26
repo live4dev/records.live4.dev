@@ -115,6 +115,17 @@ class ImportTests(unittest.TestCase):
         self.assertFalse(archive.matches_import_scope("video", 90, config))
         self.assertFalse(archive.matches_import_scope("audio", None, config))
 
+    def test_video_audio_scope_selects_only_long_videos(self):
+        config = self.config(video_audio_only=True, min_duration_seconds=60)
+        self.assertTrue(archive.matches_import_scope("video", 61, config))
+        self.assertFalse(archive.matches_import_scope("video", 60, config))
+        self.assertFalse(archive.matches_import_scope("audio", 61, config))
+
+    def test_link_preview_document_is_not_imported_as_duplicate_video(self):
+        item = message(68, kind="video", duration=174)
+        item.media = type("MessageMediaWebPage", (), {})()
+        self.assertIsNone(archive.media_kind(item))
+
     def test_scoped_import_skips_video_and_short_audio(self):
         async def scenario():
             items = [
@@ -128,6 +139,32 @@ class ImportTests(unittest.TestCase):
             with patch.object(archive, "download_record", new=AsyncMock(return_value=[])) as download:
                 await archive.import_channel(client, config, "records_live4dev", [], state)
             self.assertEqual([call.args[1].id for call in download.await_args_list], [3])
+        asyncio.run(scenario())
+
+    def test_video_audio_import_uses_bounded_parallel_workers(self):
+        async def scenario():
+            items = [message(index, kind="video", duration=61) for index in range(1, 5)]
+            active = 0
+            peak = 0
+            converted = []
+
+            async def convert(client, item, channel, metadata, dry_run, source, old):
+                nonlocal active, peak
+                active += 1
+                peak = max(peak, active)
+                await asyncio.sleep(0.02)
+                converted.append(item.id)
+                active -= 1
+                return []
+
+            with patch.object(archive, "download_video_audio_record", side_effect=convert):
+                await archive.import_channel(
+                    FakeClient(items),
+                    self.config(video_audio_only=True, min_duration_seconds=60, dry_run=True),
+                    "records_live4dev", [], {},
+                )
+            self.assertEqual(sorted(converted), [1, 2, 3, 4])
+            self.assertEqual(peak, archive.VIDEO_AUDIO_CONCURRENCY)
         asyncio.run(scenario())
 
     def test_long_caption_and_album_inheritance_preserve_original(self):
@@ -273,6 +310,43 @@ class ImportTests(unittest.TestCase):
 
 @unittest.skipUnless(shutil.which("ffmpeg") and shutil.which("ffprobe"), "FFmpeg required")
 class MediaIntegrationTests(unittest.TestCase):
+    def test_video_audio_only_discards_temporary_source_and_keeps_catalog_assets(self):
+        async def scenario():
+            with tempfile.TemporaryDirectory() as directory:
+                root = Path(directory)
+                source = root / "fixture.mp4"
+                archive.run_media_command([
+                    "ffmpeg", "-hide_banner", "-loglevel", "error", "-nostdin", "-y",
+                    "-f", "lavfi", "-i", "color=c=blue:s=160x90:r=12",
+                    "-f", "lavfi", "-i", "sine=frequency=440:sample_rate=44100",
+                    "-t", "2", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-c:a", "aac", str(source),
+                ])
+                payload = source.read_bytes()
+                item = message(1, "Video caption", size=len(payload), duration=2)
+                item.document.attributes = []
+                with patch.object(archive, "ROOT", root), patch.object(archive, "CONTENT_DIR", root / "content"):
+                    records = await archive.download_video_audio_record(
+                        FakeClient([item], payload), item, "records_live4dev",
+                        {"duration": 2}, False,
+                    )
+                    video, audio = records
+                    self.assertIsNone(video["file"])
+                    self.assertEqual(video["availability"], "catalog")
+                    self.assertTrue((root / video["poster"]).is_file())
+                    self.assertTrue((root / video["metadata_file"]).is_file())
+                    self.assertTrue((root / video["caption_file"]).is_file())
+                    self.assertTrue((root / audio["file"]).is_file())
+                    self.assertFalse((root / ".tmp/video-audio/1.mp4").exists())
+                    by_id = {record["id"]: record for record in records}
+                    self.assertFalse(archive.needs_scope_work(
+                        video, by_id, archive.Config(
+                            api_id=1, api_hash="test", session="test",
+                            channels=("records_live4dev",), history_limit=None,
+                            max_file_bytes=None, dry_run=False, video_audio_only=True,
+                        ),
+                    ))
+        asyncio.run(scenario())
+
     def test_aac_copy_mp3_conversion_posters_and_idempotence(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

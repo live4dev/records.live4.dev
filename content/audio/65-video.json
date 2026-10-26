@@ -1,0 +1,310 @@
+{
+  "record": {
+    "id": "records_live4dev:65:audio",
+    "channel": "records_live4dev",
+    "message_id": 65,
+    "kind": "audio",
+    "title": "Данная мелодия для меня отличный способ замедлиться и просто побыть наедине со своими мыслями, ощущениями, эмоциями и внутренней тишиной. Х…",
+    "description": "Данная мелодия для меня отличный способ замедлиться и просто побыть наедине со своими мыслями, ощущениями, эмоциями и внутренней тишиной. Хочется однажды из неё сделать что нибудь цельное, а пока лёгкая импровизация. \n\nПриятного прослушивания ;) лучше конечно в наушниках и где нибудь на природе :) \n\naudio #guitar #looper",
+    "caption_original": "Данная мелодия для меня отличный способ замедлиться и просто побыть наедине со своими мыслями, ощущениями, эмоциями и внутренней тишиной. Хочется однажды из неё сделать что нибудь цельное, а пока лёгкая импровизация. \n\nПриятного прослушивания ;) лучше конечно в наушниках и где нибудь на природе :) \n\naudio #guitar #looper",
+    "tags": [
+      "guitar",
+      "looper"
+    ],
+    "published_at": "2022-08-14T18:26:56Z",
+    "duration_seconds": 313.630998,
+    "file": "content/audio/65-video.m4a",
+    "mime_type": "audio/mp4",
+    "size_bytes": 2517089,
+    "telegram_url": "https://t.me/records_live4dev/65",
+    "expected_size_bytes": 2517089,
+    "telegram_mime_type": "video/mp4",
+    "metadata_file": "content/audio/65-video.json",
+    "caption_file": "content/audio/65-video.txt",
+    "telegram_document_id": 5460931564017818767,
+    "grouped_id": null,
+    "caption_source_message_id": 65,
+    "edited_at": "2022-08-14T20:22:38Z",
+    "poster": "content/video/65.jpg",
+    "availability": "local",
+    "audio_origin": "extracted",
+    "source_video_id": "records_live4dev:65",
+    "source_original_filename": "IMG_3574.MOV",
+    "audio_codec": "aac"
+  },
+  "caption_original": "Данная мелодия для меня отличный способ замедлиться и просто побыть наедине со своими мыслями, ощущениями, эмоциями и внутренней тишиной. Хочется однажды из неё сделать что нибудь цельное, а пока лёгкая импровизация. \n\nПриятного прослушивания ;) лучше конечно в наушниках и где нибудь на природе :) \n\naudio #guitar #looper",
+  "caption_effective": "Данная мелодия для меня отличный способ замедлиться и просто побыть наедине со своими мыслями, ощущениями, эмоциями и внутренней тишиной. Хочется однажды из неё сделать что нибудь цельное, а пока лёгкая импровизация. \n\nПриятного прослушивания ;) лучше конечно в наушниках и где нибудь на природе :) \n\naudio #guitar #looper",
+  "message_caption_original": "Данная мелодия для меня отличный способ замедлиться и просто побыть наедине со своими мыслями, ощущениями, эмоциями и внутренней тишиной. Хочется однажды из неё сделать что нибудь цельное, а пока лёгкая импровизация. \n\nПриятного прослушивания ;) лучше конечно в наушниках и где нибудь на природе :) \n\naudio #guitar #looper",
+  "caption_source_message_id": 65,
+  "entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 7,
+      "length": 7,
+      "url": "https://t.me/mp3records_live4dev/53"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 301,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/53"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 307,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 315,
+      "length": 7
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 7,
+      "length": 7,
+      "url": "https://t.me/mp3records_live4dev/53"
+    },
+    {
+      "_": "MessageEntityTextUrl",
+      "offset": 301,
+      "length": 5,
+      "url": "https://t.me/mp3records_live4dev/53"
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 307,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 315,
+      "length": 7
+    }
+  ],
+  "date": "2022-08-14T18:26:56Z",
+  "edit_date": "2022-08-14T20:22:38Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeVideo",
+      "duration": 313.0,
+      "w": 464,
+      "h": 848,
+      "round_message": false,
+      "supports_streaming": true,
+      "nosound": false,
+      "preload_prefix_size": null,
+      "video_start_ts": null,
+      "video_codec": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "IMG_3574.MOV"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 65,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2022-08-14T18:26:56Z",
+    "message": "Данная мелодия для меня отличный способ замедлиться и просто побыть наедине со своими мыслями, ощущениями, эмоциями и внутренней тишиной. Хочется однажды из неё сделать что нибудь цельное, а пока лёгкая импровизация. \n\nПриятного прослушивания ;) лучше конечно в наушниках и где нибудь на природе :) \n\naudio #guitar #looper",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": true,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5460931564017818767,
+        "access_hash": 7101939956922258339,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAABBat9+LPuSy1xmPh6IJythOcBaZrY="
+        },
+        "date": "2022-08-14T18:26:56Z",
+        "mime_type": "video/mp4",
+        "size": 100697821,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeVideo",
+            "duration": 313.0,
+            "w": 464,
+            "h": 848,
+            "round_message": false,
+            "supports_streaming": true,
+            "nosound": false,
+            "preload_prefix_size": null,
+            "video_start_ts": null,
+            "video_codec": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "IMG_3574.MOV"
+          }
+        ],
+        "thumbs": [
+          {
+            "_": "PhotoStrippedSize",
+            "type": "i",
+            "bytes": {
+              "encoding": "base64",
+              "data": "ASgWq3M7yzAn5c1dhaQr+8Tj+HHWmSQR5VtuST3qVnK87PyrO9y7DvMVfvK35UVWN2N/PCdj6mimIlLtMwSND1yW7Clb5Sd3bp705pgpMT7lJHWqV0+yUEMW4FSkWxZ4gFDKM89PSio5LvLYC/L70VWpOhpzBHUs3YHkViS+YckjjOSRRRUwY5jYhuJooorUzA=="
+            }
+          },
+          {
+            "_": "PhotoSize",
+            "type": "m",
+            "w": 180,
+            "h": 320,
+            "size": 16453
+          }
+        ],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 7,
+        "length": 7,
+        "url": "https://t.me/mp3records_live4dev/53"
+      },
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 301,
+        "length": 5,
+        "url": "https://t.me/mp3records_live4dev/53"
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 307,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 315,
+        "length": 7
+      }
+    ],
+    "views": 429,
+    "forwards": 8,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 12,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 226090226
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 13241870
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 768,
+      "read_max_id": null
+    },
+    "edit_date": "2022-08-14T20:22:38Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 11,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 6,
+          "chosen_order": null
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 2,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 2,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
+}
