@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:10",
+  "kind": "audio",
+  "title": "Песня попалась на диске \"Максу в днюху\" лет 20 назад, до сих пор понятия не имею кто этот Макс =). Там же был и Калугин и еще пара клёвых…",
+  "description": "Песня попалась на диске \"Максу в днюху\" лет 20 назад, до сих пор понятия не имею кто этот Макс =). Там же был и Калугин и еще пара клёвых записей. Автор рассказывает про то как учил Аве Марию (вроде на классической гитаре) и написал к ней текст. Экзамен автор завалил, но песня классная получилась.\n\n#guitar #voice",
+  "caption_original": "Песня попалась на диске \"Максу в днюху\" лет 20 назад, до сих пор понятия не имею кто этот Макс =). Там же был и Калугин и еще пара клёвых записей. Автор рассказывает про то как учил Аве Марию (вроде на классической гитаре) и написал к ней текст. Экзамен автор завалил, но песня классная получилась.\n\n#guitar #voice",
+  "caption_source_message_id": 10,
+  "tags": [
+    "guitar",
+    "voice"
+  ],
+  "published_at": "2021-05-10T21:02:43Z",
+  "duration_seconds": 224,
+  "file": null,
+  "mime_type": "audio/mpeg3",
+  "size_bytes": 7187143,
+  "telegram_url": "https://t.me/records_live4dev/10",
+  "channel": "records_live4dev",
+  "message_id": 10,
+  "availability": "pending",
+  "original_filename": "Дмитрий В. - Аве Мария.mp3",
+  "expected_size_bytes": 7187143,
+  "telegram_mime_type": "audio/mpeg3",
+  "metadata_file": "content/audio/10.json",
+  "caption_file": "content/audio/10.txt",
+  "telegram_metadata": "ID: 10 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-05-10 21:02:43+00:00 | 📎 audio, edited | views:317, forwards:5, reactions:2",
+  "audio_origin": "original",
+  "original_media_type": "audio",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

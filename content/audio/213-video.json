@@ -1,0 +1,33 @@
+{
+  "id": "records_live4dev:213:audio",
+  "kind": "audio",
+  "title": "Ребята, не разродился я нормальным анонсом, поэтому!",
+  "description": "Ребята, не разродился я нормальным анонсом, поэтому!\n\nСтудия продакшена и музыкальная площадка «САД» официально открывается уже в эту субботу, 08.08😈\n\nВот вам отчет по недавней прошедшей тусе, чтобы вы прочувствовали атмосферу)\n\nУ нас большой и качественный звук, так что шуметь мы будем громко и без зазрения совести, закон о тишине в производственном кластере 1872-го года постройки нам не грозит!\n\nНа открытии вам естественно спою я, а еще Настя Гюнтер, мой братишка дожить до мая, а так же совладельцы пространства Даня и Рома \n\nПосреди этого музыкального разнообразия будем с общаться, обязательно проведем разных интерактивчиков и от души похихикаем\n\nВ конце нас анигилирует топовым диджей-сетом Настя \n\nУлица Курляндская 49\n\nСбор в 18:00\n\nВХОД СВОБОДНЫЙ, МЕСТ ТОЛЬКО 40!!!!\n\nКайфуем до последнего стоячего на ногах 😈\n\nПопадаем в списки через ЛС, всех добавлю в чат",
+  "caption_original": "",
+  "caption_source_message_id": 212,
+  "tags": [],
+  "published_at": "2026-08-03T05:35:14Z",
+  "duration_seconds": 16.23,
+  "file": "content/audio/213-video.m4a",
+  "mime_type": "audio/mp4",
+  "size_bytes": 135627,
+  "telegram_url": "https://t.me/records_live4dev/213",
+  "channel": "records_live4dev",
+  "message_id": 213,
+  "availability": "local",
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/audio/213-video.json",
+  "caption_file": "content/audio/213-video.txt",
+  "telegram_metadata": "ID: 213 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2026-08-03 05:35:14+00:00 | 📎 video, album:14285882513775842, forwarded, edited | views:638, forwards:2",
+  "album_id": "14285882513775842",
+  "poster": "content/video/213.jpg",
+  "sha256": "ba83b24239af59706ca8740cd2abd49d7dc11e8add21441ef8d578605701683c",
+  "codecs": [
+    {
+      "type": "audio",
+      "codec": "aac"
+    }
+  ],
+  "source_video_id": "records_live4dev:213",
+  "audio_origin": "extracted"
+}

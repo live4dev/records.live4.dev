@@ -1,0 +1,32 @@
+{
+  "id": "records_live4dev:140",
+  "kind": "video",
+  "title": "Периодически вытаскиваю себя на участие в квартирниках или концертах.  Пока стеснялся вас звать, так что если захотите в следующий раз пр…",
+  "description": "Периодически вытаскиваю себя на участие в квартирниках или концертах.  Пока стеснялся вас звать, так что если захотите в следующий раз присоединиться - пишите в комменты или в личку, лайки к сожалению анонимны :)\n\nОсобенно интересно наблюдать за собой в подобных ситуациях, за реакциями, за потоком слов, который идет между песнями, за тем какие формы принимает волнение при разных обстоятельствах, как это сказывается на голосе, на контроле рук и тела в целом. И за тем как время меняет скорость своего хода. \n\n- Wicked Game\n- Say it to me now\n\n#cover #scene #guitar #voice",
+  "caption_original": "Периодически вытаскиваю себя на участие в квартирниках или концертах.  Пока стеснялся вас звать, так что если захотите в следующий раз присоединиться - пишите в комменты или в личку, лайки к сожалению анонимны :)\n\nОсобенно интересно наблюдать за собой в подобных ситуациях, за реакциями, за потоком слов, который идет между песнями, за тем какие формы принимает волнение при разных обстоятельствах, как это сказывается на голосе, на контроле рук и тела в целом. И за тем как время меняет скорость своего хода. \n\n- Wicked Game\n- Say it to me now\n\n#cover #scene #guitar #voice",
+  "caption_source_message_id": 140,
+  "tags": [
+    "cover",
+    "scene",
+    "guitar",
+    "voice"
+  ],
+  "published_at": "2023-12-19T05:36:18Z",
+  "duration_seconds": 211.02333333333,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 175794698,
+  "telegram_url": "https://t.me/records_live4dev/140",
+  "channel": "records_live4dev",
+  "message_id": 140,
+  "availability": "pending",
+  "original_filename": "IMG_0043.MOV",
+  "expected_size_bytes": 175794698,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/140.json",
+  "caption_file": "content/video/140.txt",
+  "telegram_metadata": "ID: 140 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-12-19 05:36:18+00:00 | 📎 video, album:13623713427625202, edited | views:501, forwards:1, reactions:27",
+  "album_id": "13623713427625202",
+  "poster": "content/video/140.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

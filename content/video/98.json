@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:98",
+  "kind": "video",
+  "title": "Пой мне, пой,",
+  "description": "Пой мне, пой, \nМоя медленная паника \nПод сломанным зонтиком\n\nМне тепло \nЕсли где-то в мегаполисе \nТы покупаешь бантики\n\nХорошо,\nА свежий ветер мне приносит\nАроматы твои вкусные\n\nШапито — Романы Ремарка \n\n#cover #acoustic #voice",
+  "caption_original": "Пой мне, пой, \nМоя медленная паника \nПод сломанным зонтиком\n\nМне тепло \nЕсли где-то в мегаполисе \nТы покупаешь бантики\n\nХорошо,\nА свежий ветер мне приносит\nАроматы твои вкусные\n\nШапито — Романы Ремарка \n\n#cover #acoustic #voice",
+  "caption_source_message_id": 98,
+  "tags": [
+    "cover",
+    "acoustic",
+    "voice"
+  ],
+  "published_at": "2023-02-14T19:17:46Z",
+  "duration_seconds": 226,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 72720371,
+  "telegram_url": "https://t.me/records_live4dev/98",
+  "channel": "records_live4dev",
+  "message_id": 98,
+  "availability": "pending",
+  "original_filename": "IMG_7806.MOV",
+  "expected_size_bytes": 72720371,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/98.json",
+  "caption_file": "content/video/98.txt",
+  "telegram_metadata": "ID: 98 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-02-14 19:17:46+00:00 | 📎 video, edited | views:460, forwards:1, reactions:23",
+  "poster": "content/video/98.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

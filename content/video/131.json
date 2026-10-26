@@ -1,0 +1,29 @@
+{
+  "id": "records_live4dev:131",
+  "kind": "video",
+  "title": "Словил вчера грустное состояние и решил его превратить во что-то приятное, спокойное, светлое, теплое и немного нежное. Что-то что поможе…",
+  "description": "Словил вчера грустное состояние и решил его превратить во что-то приятное, спокойное, светлое, теплое и немного нежное. Что-то что поможет замедлиться среди гонки и дневной суеты, этакое \"Утро выходного дня\", когда не надо спешить и можно спокойно замедлиться, наблюдая за солнечными лучами падающими через окна на постельное белье. \n\nХорошего дня :) \n\naudio #guitar #improvisation",
+  "caption_original": "Словил вчера грустное состояние и решил его превратить во что-то приятное, спокойное, светлое, теплое и немного нежное. Что-то что поможет замедлиться среди гонки и дневной суеты, этакое \"Утро выходного дня\", когда не надо спешить и можно спокойно замедлиться, наблюдая за солнечными лучами падающими через окна на постельное белье. \n\nХорошего дня :) \n\naudio #guitar #improvisation",
+  "caption_source_message_id": 131,
+  "tags": [
+    "guitar",
+    "improvisation"
+  ],
+  "published_at": "2023-10-12T10:32:44Z",
+  "duration_seconds": 194.385,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 161641107,
+  "telegram_url": "https://t.me/records_live4dev/131",
+  "channel": "records_live4dev",
+  "message_id": 131,
+  "availability": "pending",
+  "original_filename": "IMG_8761.MOV",
+  "expected_size_bytes": 161641107,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/131.json",
+  "caption_file": "content/video/131.txt",
+  "telegram_metadata": "ID: 131 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-10-12 10:32:44+00:00 | 📎 video, edited | views:701, forwards:0, reactions:18",
+  "poster": "content/video/131.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

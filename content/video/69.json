@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:69",
+  "kind": "video",
+  "title": "Не все же выкладывать из домашней студии ;) (хотя конечно теперь хочется записать с микрофоном и лупером). Относительно недавно познакоми…",
+  "description": "Не все же выкладывать из домашней студии ;) (хотя конечно теперь хочется записать с микрофоном и лупером). Относительно недавно познакомился с творчеством группы Сироткин, песня Август зацепила текстом и рифом, правда пока не осилил играть и петь одновременно, но ничего упорство моя сильная сторона :) \n\n#cover #voice #guitar",
+  "caption_original": "Не все же выкладывать из домашней студии ;) (хотя конечно теперь хочется записать с микрофоном и лупером). Относительно недавно познакомился с творчеством группы Сироткин, песня Август зацепила текстом и рифом, правда пока не осилил играть и петь одновременно, но ничего упорство моя сильная сторона :) \n\n#cover #voice #guitar",
+  "caption_source_message_id": 69,
+  "tags": [
+    "cover",
+    "voice",
+    "guitar"
+  ],
+  "published_at": "2022-09-24T15:34:49Z",
+  "duration_seconds": 178,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 26146689,
+  "telegram_url": "https://t.me/records_live4dev/69",
+  "channel": "records_live4dev",
+  "message_id": 69,
+  "availability": "pending",
+  "original_filename": "IMG_4654.MP4",
+  "expected_size_bytes": 26146689,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/69.json",
+  "caption_file": "content/video/69.txt",
+  "telegram_metadata": "ID: 69 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-09-24 15:34:49+00:00 | 📎 video, edited | views:355, forwards:0, reactions:17",
+  "poster": "content/video/69.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

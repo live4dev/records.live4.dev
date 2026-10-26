@@ -1,0 +1,37 @@
+{
+  "id": "records_live4dev:46",
+  "kind": "audio",
+  "title": "New Recording 112",
+  "description": "Странное настроение, в записи смешались «раковый корпус» Калугина и немного грусти.\n\nНавзничь упасть и смотреть в потолок\nОбидно бывает читать между строк\nКак кто-то уходит в закат навсегда\nОсталось понять что всё было (не) зря\n\n#looper #piano",
+  "caption_original": "Странное настроение, в записи смешались «раковый корпус» Калугина и немного грусти.\n\nНавзничь упасть и смотреть в потолок\nОбидно бывает читать между строк\nКак кто-то уходит в закат навсегда\nОсталось понять что всё было (не) зря\n\n#looper #piano",
+  "caption_source_message_id": 46,
+  "tags": [
+    "looper",
+    "piano"
+  ],
+  "published_at": "2021-12-02T20:46:46Z",
+  "duration_seconds": 150.279546,
+  "file": "content/audio/46.m4a",
+  "mime_type": "audio/mp4",
+  "size_bytes": 2410011,
+  "telegram_url": "https://t.me/records_live4dev/46",
+  "channel": "records_live4dev",
+  "message_id": 46,
+  "availability": "local",
+  "original_filename": "New Recording 112.m4a",
+  "expected_size_bytes": 2410011,
+  "telegram_mime_type": "audio/mpeg",
+  "metadata_file": "content/audio/46.json",
+  "caption_file": "content/audio/46.txt",
+  "telegram_metadata": "ID: 46 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-12-02 20:46:46+00:00 | 📎 voice, forwarded, edited | views:295, forwards:0, reactions:1",
+  "audio_origin": "original",
+  "original_media_type": "voice",
+  "download_origin": "public_telegram_https",
+  "sha256": "52e632df7ac76f2710faca686ff27de765458d708e7174f70be9febc03bb4b03",
+  "codecs": [
+    {
+      "type": "audio",
+      "codec": "aac"
+    }
+  ]
+}

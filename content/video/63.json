@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:63",
+  "kind": "video",
+  "title": "Вечер воскресенья отличное время помузицировать (или просто поорать) и вспомнить что в жизни есть разные маяки, которые помогают не потер…",
+  "description": "Вечер воскресенья отличное время помузицировать (или просто поорать) и вспомнить что в жизни есть разные маяки, которые помогают не потерять ориентир, один из таких ориентиров — Мечта. Ребята из Аффинажа  хорошо описывают способ вспомнить о своей мечте — «в холодной темноте на языке огня со мной поговори». Обожаю медитировать на огонь, хотя однажды залип на свечке и чуть не угорел, но кажется это уже другая история, просто надо было технику безопастности соблюдать :)\n\nА как вы понимаете что это ваша мечта? И есть ли она вообще? )\n\naudio #cover #acoustic #voice",
+  "caption_original": "Вечер воскресенья отличное время помузицировать (или просто поорать) и вспомнить что в жизни есть разные маяки, которые помогают не потерять ориентир, один из таких ориентиров — Мечта. Ребята из Аффинажа  хорошо описывают способ вспомнить о своей мечте — «в холодной темноте на языке огня со мной поговори». Обожаю медитировать на огонь, хотя однажды залип на свечке и чуть не угорел, но кажется это уже другая история, просто надо было технику безопастности соблюдать :)\n\nА как вы понимаете что это ваша мечта? И есть ли она вообще? )\n\naudio #cover #acoustic #voice",
+  "caption_source_message_id": 63,
+  "tags": [
+    "cover",
+    "acoustic",
+    "voice"
+  ],
+  "published_at": "2022-08-07T16:52:29Z",
+  "duration_seconds": 145,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 46412417,
+  "telegram_url": "https://t.me/records_live4dev/63",
+  "channel": "records_live4dev",
+  "message_id": 63,
+  "availability": "pending",
+  "original_filename": "IMG_3441.MOV",
+  "expected_size_bytes": 46412417,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/63.json",
+  "caption_file": "content/video/63.txt",
+  "telegram_metadata": "ID: 63 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-08-07 16:52:29+00:00 | 📎 video, edited | views:332, forwards:1, reactions:23",
+  "poster": "content/video/63.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

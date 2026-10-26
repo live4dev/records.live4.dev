@@ -1,14 +1,81 @@
-<!DOCTYPE HTML>
-<html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=https://t.me/records_live4dev">
-        <script type="text/javascript">
-            window.location.href = "https://t.me/records_live4dev"
-        </script>
-        <title>Page Redirection</title>
-    </head>
-    <body>
-        If you are not redirected automatically, follow this <a href='https://t.me/records_live4dev'>link to example</a>.
-    </body>
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f8f7f4">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; media-src 'self'; style-src 'self'; script-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'">
+    <meta name="description" content="Видео и аудиозаписи live4.dev. Смотрите записи, слушайте аудиоплейлист и возвращайтесь к важному.">
+    <title>records — видео и аудио live4.dev</title>
+    <link rel="stylesheet" href="./assets/styles.css?v=20261026-1">
+    <script src="./assets/app.js?v=20261026-1" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#catalog">Перейти к видео</a>
+    <svg class="icon-library" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <symbol id="i-play" viewBox="0 0 24 24"><path d="m9 5 11 7-11 7Z"/></symbol>
+      <symbol id="i-pause" viewBox="0 0 24 24"><path d="M8 5v14M16 5v14"/></symbol>
+      <symbol id="i-stop" viewBox="0 0 24 24"><rect x="6" y="6" width="12" height="12" rx="1"/></symbol>
+      <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></symbol>
+      <symbol id="i-video" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="4"/><path d="m10 9 5 3-5 3Z"/></symbol>
+      <symbol id="i-home" viewBox="0 0 24 24"><path d="m3 10 9-7 9 7v10a1 1 0 0 1-1 1h-5v-7H9v7H4a1 1 0 0 1-1-1Z"/></symbol>
+      <symbol id="i-audio" viewBox="0 0 24 24"><path d="M4 13v-1a8 8 0 0 1 16 0v1"/><rect x="3" y="12" width="4" height="8" rx="2"/><rect x="17" y="12" width="4" height="8" rx="2"/></symbol>
+      <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M7 17 17 7M7 7h10v10"/></symbol>
+      <symbol id="i-back" viewBox="0 0 24 24"><path d="m10 5-7 7 7 7M3 12h18"/></symbol>
+      <symbol id="i-next" viewBox="0 0 24 24"><path d="m5 5 10 7-10 7ZM19 5v14"/></symbol>
+      <symbol id="i-prev" viewBox="0 0 24 24"><path d="m19 5-10 7 10 7ZM5 5v14"/></symbol>
+      <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3v12m-5-5 5 5 5-5M4 17v4h16v-4"/></symbol>
+      <symbol id="i-telegram" viewBox="0 0 24 24"><path d="m3 10 18-7-4 18-6-5-4 3 1-6Zm5 3L21 3M11 16l6-9"/></symbol>
+      <symbol id="i-list" viewBox="0 0 24 24"><path d="M8 6h13M8 12h13M8 18h9M3 6h.01M3 12h.01M3 18h.01"/></symbol>
+    </svg>
+
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="records.live4.dev — на главную"><span class="brand-mark"><svg aria-hidden="true"><use href="#i-play"/></svg></span><span class="brand-word">records<span class="brand-domain">live4.dev</span></span></a>
+      <form class="header-search" role="search" id="search-form"><label class="sr-only" for="search">Поиск по названиям, описаниям и тегам</label><input id="search" type="search" placeholder="Найти запись, тему или тег" autocomplete="off"><button type="submit" aria-label="Найти записи"><svg aria-hidden="true"><use href="#i-search"/></svg></button><kbd aria-hidden="true">/</kbd></form>
+      <a class="mobile-audio-link" href="#audio-playlist"><svg aria-hidden="true"><use href="#i-audio"/></svg>Аудио</a><a class="channel-link" href="https://t.me/records_live4dev" target="_blank" rel="noopener noreferrer"><svg aria-hidden="true"><use href="#i-telegram"/></svg><span>Наш Telegram</span><svg class="external-icon" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+    </header>
+    <nav class="side-nav" aria-label="Основная навигация"><button class="nav-item is-active" id="home-button" type="button" aria-current="page"><svg aria-hidden="true"><use href="#i-home"/></svg><span>Главная</span></button><a class="nav-item" href="#catalog"><svg aria-hidden="true"><use href="#i-video"/></svg><span>Видео</span></a><a class="nav-item" href="#audio-playlist"><svg aria-hidden="true"><use href="#i-audio"/></svg><span>Аудио</span></a><div class="nav-divider"></div><a class="nav-item" href="https://t.me/records_live4dev" target="_blank" rel="noopener noreferrer"><svg aria-hidden="true"><use href="#i-telegram"/></svg><span>Канал</span></a><span class="rail-word" aria-hidden="true">SAVE THE MOMENT</span></nav>
+
+    <main class="workspace">
+      <div class="video-column">
+        <section class="watch-panel" id="watch-panel" aria-labelledby="watch-title" hidden>
+          <div class="watch-navigation"><button class="text-control" id="close-watch" type="button"><svg aria-hidden="true"><use href="#i-back"/></svg>Все видео</button><span>Выбранная запись</span></div>
+          <div class="watch-screen"><video id="watch-video" controls playsinline preload="none" aria-label="Выбранная видеозапись"></video><div id="pending-video" class="pending-video" hidden><img id="pending-poster" alt=""><div class="pending-video-copy"><svg aria-hidden="true"><use href="#i-telegram"/></svg><h2>Запись есть в Telegram</h2><p>Видеофайла пока нет в архиве.<br>Описание и теги уже доступны ниже.</p><a id="pending-video-source" target="_blank" rel="noopener noreferrer">Смотреть в Telegram <svg aria-hidden="true"><use href="#i-arrow"/></svg></a></div></div></div>
+          <p class="playback-message" id="video-message" role="status" hidden></p>
+          <div class="watch-info"><h1 id="watch-title"></h1><div class="watch-meta"><span class="publisher-avatar" aria-hidden="true">r.</span><div><strong>live4.dev</strong><p id="watch-meta"></p></div><button class="listen-button" id="listen-video" type="button" hidden><svg aria-hidden="true"><use href="#i-audio"/></svg>Слушать аудио</button></div><div class="watch-tags" id="watch-tags"></div><details class="description-box" id="watch-description"><summary>Описание записи <span aria-hidden="true">Развернуть</span></summary><p class="original-caption" id="watch-caption"></p><div class="description-links"><a id="watch-source" target="_blank" rel="noopener noreferrer">Публикация в Telegram <svg aria-hidden="true"><use href="#i-arrow"/></svg></a><a id="watch-download" download><svg aria-hidden="true"><use href="#i-download"/></svg>Скачать видео</a><a id="watch-audio-download" download hidden><svg aria-hidden="true"><use href="#i-download"/></svg>Скачать аудио</a></div></details></div>
+        </section>
+        <section class="catalog" id="catalog" aria-labelledby="catalog-title"><div class="section-heading"><div><p class="eyebrow">Смотреть</p><h2 id="catalog-title"><span id="catalog-heading">Видеоархив</span><span id="video-count" class="count-badge">—</span></h2></div><label class="sort-field"><span class="sr-only">Порядок записей</span><select id="sort"><option value="newest">Сначала новые</option><option value="oldest">Сначала старые</option><option value="shortest">Сначала короткие</option><option value="available">Доступные на сайте</option></select></label></div><div class="topics" id="tag-filters" role="group" aria-label="Фильтр по теме"></div><p class="results-label sr-only" id="results-label" aria-live="polite"></p><div class="records-grid" id="records-grid" aria-busy="true"></div><div class="empty-state" id="empty-state" hidden><span class="empty-icon"><svg aria-hidden="true"><use href="#i-video"/></svg></span><h3 id="empty-title">Загружаем видео</h3><p id="empty-copy"></p><button class="reset-button" id="reset-filters" type="button" hidden>Сбросить фильтры</button><button class="reset-button" id="retry-load" type="button" hidden>Попробовать ещё раз</button></div><div class="catalog-footer"><span>Всё важное — в одной коллекции.</span><a href="https://t.me/records_live4dev" target="_blank" rel="noopener noreferrer">Источник: @records_live4dev <svg aria-hidden="true"><use href="#i-arrow"/></svg></a></div></section>
+      </div>
+      <aside class="audio-column" id="audio-playlist" aria-labelledby="audio-title"><div class="audio-panel">
+        <div class="audio-heading"><div class="audio-heading-icon"><svg aria-hidden="true"><use href="#i-audio"/></svg></div><div><p class="eyebrow">Можно просто слушать</p><h2 id="audio-title">Аудиоплейлист</h2></div><span id="audio-count" class="count-badge">—</span></div>
+        <div class="now-playing winamp-player" id="now-playing">
+          <div class="winamp-titlebar"><span class="winamp-title-led" aria-hidden="true"></span><span>records player</span><span class="winamp-window-buttons" aria-hidden="true"><i></i><i></i></span></div>
+          <div class="winamp-display">
+            <div class="winamp-time" id="winamp-time" aria-hidden="true">00:00</div>
+            <div class="winamp-spectrum" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+            <div class="winamp-track-screen">
+              <span class="player-label" id="player-label">АУДИОАРХИВ ГОТОВ</span>
+              <div class="winamp-marquee"><h3 id="current-track-title">Выберите запись из плейлиста</h3></div>
+              <p id="current-track-meta">live4.dev audio</p>
+            </div>
+          </div>
+          <audio id="audio-player" preload="none" aria-label="Аудиоплеер" hidden></audio>
+          <label class="winamp-seek"><span class="sr-only">Позиция в записи</span><input id="audio-progress" type="range" min="0" max="1000" value="0" step="1" disabled></label>
+          <div class="winamp-counter"><time id="audio-elapsed">0:00</time><span aria-hidden="true">STEREO · 44 KHZ</span><time id="audio-total">0:00</time></div>
+          <div class="player-controls">
+            <button class="icon-button" id="audio-prev" type="button" aria-label="Предыдущая запись" disabled><svg aria-hidden="true"><use href="#i-prev"/></svg></button>
+            <button class="main-play-button" id="audio-toggle" type="button" aria-label="Начать слушать" disabled><svg aria-hidden="true"><use href="#i-play"/></svg></button>
+            <button class="icon-button" id="audio-stop" type="button" aria-label="Остановить и перемотать в начало" disabled><svg aria-hidden="true"><use href="#i-stop"/></svg></button>
+            <button class="icon-button" id="audio-next" type="button" aria-label="Следующая запись" disabled><svg aria-hidden="true"><use href="#i-next"/></svg></button>
+          </div>
+          <label class="winamp-volume"><span>VOL</span><input id="audio-volume" type="range" min="0" max="1" value="0.8" step="0.01"></label>
+          <p class="audio-message" id="audio-message" role="status" hidden></p>
+        </div>
+        <div class="audio-filters" role="group" aria-label="Источник аудио"><button type="button" data-audio-filter="all" class="is-active" aria-pressed="true">Все</button><button type="button" data-audio-filter="original" aria-pressed="false">Аудиозаписи</button><button type="button" data-audio-filter="extracted" aria-pressed="false">Из видео</button></div><div class="queue-heading"><span><svg aria-hidden="true"><use href="#i-list"/></svg>Очередь воспроизведения</span><span id="queue-count"></span></div><ol class="audio-queue" id="audio-queue" aria-label="Аудиозаписи"></ol><p class="audio-empty" id="audio-empty">Загружаем аудиозаписи…</p>
+        <details class="audio-details" id="audio-details" hidden><summary>О записи <span>Описание и файлы</span></summary><p class="original-caption" id="audio-caption"></p><div class="audio-detail-tags" id="audio-detail-tags"></div><div class="description-links"><a id="audio-source" target="_blank" rel="noopener noreferrer">Telegram <svg aria-hidden="true"><use href="#i-arrow"/></svg></a><a id="audio-download" download><svg aria-hidden="true"><use href="#i-download"/></svg>Скачать</a></div></details><div class="audio-note"><span class="coral-dot"></span>Аудиозаписи и звук из видео — вместе.</div>
+      </div></aside>
+    </main>
+    <div class="mobile-audio-bar" id="mobile-audio-bar" hidden><a href="#audio-playlist"><span class="mobile-audio-icon"><svg aria-hidden="true"><use href="#i-audio"/></svg></span><span><small>Выбранная запись</small><strong id="mobile-track-title"></strong></span></a><button id="mobile-audio-toggle" type="button" aria-label="Приостановить аудио"><svg aria-hidden="true"><use href="#i-pause"/></svg></button></div>
+    <footer class="site-footer"><span>records<span class="footer-dot">.</span>live4.dev</span><p>Сохранить момент. Вернуться к мысли.</p></footer>
+  </body>
 </html>

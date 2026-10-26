@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:64",
+  "kind": "video",
+  "title": "Едешь по набережной, наслаждаешься Невой и тут, внезапно, Площадь восстания, но не метро, а группа и поёт - Лети. Искра, буря, безумие и …",
+  "description": "Едешь по набережной, наслаждаешься Невой и тут, внезапно, Площадь восстания, но не метро, а группа и поёт - Лети. Искра, буря, безумие и все как в тумане, ты уже с гитарой возле микрофона стоишь мучаешь соседей :) и значит просто так надо … хорошего вечера вторника :)\n\naudio #cover #guitar #voice",
+  "caption_original": "Едешь по набережной, наслаждаешься Невой и тут, внезапно, Площадь восстания, но не метро, а группа и поёт - Лети. Искра, буря, безумие и все как в тумане, ты уже с гитарой возле микрофона стоишь мучаешь соседей :) и значит просто так надо … хорошего вечера вторника :)\n\naudio #cover #guitar #voice",
+  "caption_source_message_id": 64,
+  "tags": [
+    "cover",
+    "guitar",
+    "voice"
+  ],
+  "published_at": "2022-08-09T18:28:14Z",
+  "duration_seconds": 165,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 53037876,
+  "telegram_url": "https://t.me/records_live4dev/64",
+  "channel": "records_live4dev",
+  "message_id": 64,
+  "availability": "pending",
+  "original_filename": "IMG_3481.MOV",
+  "expected_size_bytes": 53037876,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/64.json",
+  "caption_file": "content/video/64.txt",
+  "telegram_metadata": "ID: 64 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-08-09 18:28:14+00:00 | 📎 video, edited | views:377, forwards:4, reactions:23",
+  "poster": "content/video/64.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

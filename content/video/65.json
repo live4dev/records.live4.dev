@@ -1,0 +1,29 @@
+{
+  "id": "records_live4dev:65",
+  "kind": "video",
+  "title": "Данная мелодия для меня отличный способ замедлиться и просто побыть наедине со своими мыслями, ощущениями, эмоциями и внутренней тишиной.…",
+  "description": "Данная мелодия для меня отличный способ замедлиться и просто побыть наедине со своими мыслями, ощущениями, эмоциями и внутренней тишиной. Хочется однажды из неё сделать что нибудь цельное, а пока лёгкая импровизация. \n\nПриятного прослушивания ;) лучше конечно в наушниках и где нибудь на природе :) \n\naudio #guitar #looper",
+  "caption_original": "Данная мелодия для меня отличный способ замедлиться и просто побыть наедине со своими мыслями, ощущениями, эмоциями и внутренней тишиной. Хочется однажды из неё сделать что нибудь цельное, а пока лёгкая импровизация. \n\nПриятного прослушивания ;) лучше конечно в наушниках и где нибудь на природе :) \n\naudio #guitar #looper",
+  "caption_source_message_id": 65,
+  "tags": [
+    "guitar",
+    "looper"
+  ],
+  "published_at": "2022-08-14T18:26:56Z",
+  "duration_seconds": 313,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 100697821,
+  "telegram_url": "https://t.me/records_live4dev/65",
+  "channel": "records_live4dev",
+  "message_id": 65,
+  "availability": "pending",
+  "original_filename": "IMG_3574.MOV",
+  "expected_size_bytes": 100697821,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/65.json",
+  "caption_file": "content/video/65.txt",
+  "telegram_metadata": "ID: 65 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-08-14 18:26:56+00:00 | 📎 video, edited | views:428, forwards:8, reactions:21",
+  "poster": "content/video/65.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

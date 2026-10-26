@@ -1,0 +1,33 @@
+{
+  "id": "records_live4dev:152:audio",
+  "kind": "audio",
+  "title": "Квартирник состоялся, было тепло и приятно ) Хочется поделиться некоторыми фрагментами, положу их в комментарии",
+  "description": "Квартирник состоялся, было тепло и приятно ) Хочется поделиться некоторыми фрагментами, положу их в комментарии",
+  "caption_original": "Квартирник состоялся, было тепло и приятно ) Хочется поделиться некоторыми фрагментами, положу их в комментарии",
+  "caption_source_message_id": 152,
+  "tags": [],
+  "published_at": "2024-01-25T11:00:05Z",
+  "duration_seconds": 16.346009,
+  "file": "content/audio/152-video.m4a",
+  "mime_type": "audio/mp4",
+  "size_bytes": 129123,
+  "telegram_url": "https://t.me/records_live4dev/152",
+  "channel": "records_live4dev",
+  "message_id": 152,
+  "availability": "local",
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/audio/152-video.json",
+  "caption_file": "content/audio/152-video.txt",
+  "telegram_metadata": "ID: 152 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2024-01-25 11:00:05+00:00 | reply to 142 | 📎 video, album:13649443247591530, edited | views:458, forwards:0, reactions:14",
+  "album_id": "13649443247591530",
+  "poster": "content/video/152.jpg",
+  "sha256": "c09cab9987cdf23109f171ee79d02281d81fa46a2ad0556c9576728662e338f1",
+  "codecs": [
+    {
+      "type": "audio",
+      "codec": "aac"
+    }
+  ],
+  "source_video_id": "records_live4dev:152",
+  "audio_origin": "extracted"
+}

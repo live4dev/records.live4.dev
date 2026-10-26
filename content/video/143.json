@@ -1,0 +1,31 @@
+{
+  "id": "records_live4dev:143",
+  "kind": "video",
+  "title": "Довольный сегодня записал пару песен так что потихоньку буду выкладывать.",
+  "description": "Довольный сегодня записал пару песен так что потихоньку буду выкладывать. \n\nА пока еще одна запись с Настей кавер на песню Vos’ и Paragis — Голышом.\n\nИ напоминание для тех кто в Питере про квартирник 8го января https://t.me/records_live4dev/142\n\n#guest #cover #guitar #voice",
+  "caption_original": "Довольный сегодня записал пару песен так что потихоньку буду выкладывать. \n\nА пока еще одна запись с Настей кавер на песню Vos’ и Paragis — Голышом.\n\nИ напоминание для тех кто в Питере про квартирник 8го января https://t.me/records_live4dev/142\n\n#guest #cover #guitar #voice",
+  "caption_source_message_id": 143,
+  "tags": [
+    "guest",
+    "cover",
+    "guitar",
+    "voice"
+  ],
+  "published_at": "2024-01-06T19:04:58Z",
+  "duration_seconds": 196.76833333333,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 163874820,
+  "telegram_url": "https://t.me/records_live4dev/143",
+  "channel": "records_live4dev",
+  "message_id": 143,
+  "availability": "pending",
+  "original_filename": "IMG_0304.MOV",
+  "expected_size_bytes": 163874820,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/143.json",
+  "caption_file": "content/video/143.txt",
+  "telegram_metadata": "ID: 143 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2024-01-06 19:04:58+00:00 | 📎 video, edited | views:408, forwards:0, reactions:24",
+  "poster": "content/video/143.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:70",
+  "kind": "video",
+  "title": "Горло потихоньку отходит после ангины, захотелось немного попеть и поиграть на нейлоне :) так что попробую добавить музыки в субботний ве…",
+  "description": "Горло потихоньку отходит после ангины, захотелось немного попеть и поиграть на нейлоне :) так что попробую добавить музыки в субботний вечер песней Павла Федосова - Голуби. \n\nходил человек по жизни долго\nсебя загонял чувством долга\nсебя запрягал на работу\nно только вот сломалось что то …\n\nрычал по ночам волчьим рыком\nпытался начать жить по книгам\nпотом пропадал от депрессий\nпотом взял - и превратился в песню\n\nи эта песенка так запела\nчто человечек стал снова целым\nдля всех знакомых и незнакомых \nоткрыл он двери большого дома..\n\nДальше про волков ещё будет :)\n\naudio #cover #voice #guitar",
+  "caption_original": "Горло потихоньку отходит после ангины, захотелось немного попеть и поиграть на нейлоне :) так что попробую добавить музыки в субботний вечер песней Павла Федосова - Голуби. \n\nходил человек по жизни долго\nсебя загонял чувством долга\nсебя запрягал на работу\nно только вот сломалось что то …\n\nрычал по ночам волчьим рыком\nпытался начать жить по книгам\nпотом пропадал от депрессий\nпотом взял - и превратился в песню\n\nи эта песенка так запела\nчто человечек стал снова целым\nдля всех знакомых и незнакомых \nоткрыл он двери большого дома..\n\nДальше про волков ещё будет :)\n\naudio #cover #voice #guitar",
+  "caption_source_message_id": 70,
+  "tags": [
+    "cover",
+    "voice",
+    "guitar"
+  ],
+  "published_at": "2022-10-08T18:59:17Z",
+  "duration_seconds": 204,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 65630282,
+  "telegram_url": "https://t.me/records_live4dev/70",
+  "channel": "records_live4dev",
+  "message_id": 70,
+  "availability": "pending",
+  "original_filename": "IMG_5085.MOV",
+  "expected_size_bytes": 65630282,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/70.json",
+  "caption_file": "content/video/70.txt",
+  "telegram_metadata": "ID: 70 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-10-08 18:59:17+00:00 | 📎 video, edited | views:369, forwards:3, reactions:22",
+  "poster": "content/video/70.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

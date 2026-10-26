@@ -1,0 +1,29 @@
+{
+  "id": "records_live4dev:170",
+  "kind": "video",
+  "title": "В жизни есть люди с кем приятно и радостно вновь увидеться :) и Сога один из них :)",
+  "description": "В жизни есть люди с кем приятно и радостно вновь увидеться :) и Сога один из них :)\n\n#ташкент #узбекистан",
+  "caption_original": "В жизни есть люди с кем приятно и радостно вновь увидеться :) и Сога один из них :)\n\n#ташкент #узбекистан",
+  "caption_source_message_id": 170,
+  "tags": [
+    "ташкент",
+    "узбекистан"
+  ],
+  "published_at": "2024-03-29T03:03:41Z",
+  "duration_seconds": 143.81333333333,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 119610681,
+  "telegram_url": "https://t.me/records_live4dev/170",
+  "channel": "records_live4dev",
+  "message_id": 170,
+  "availability": "pending",
+  "original_filename": "IMG_3262.MOV",
+  "expected_size_bytes": 119610681,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/170.json",
+  "caption_file": "content/video/170.txt",
+  "telegram_metadata": "ID: 170 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2024-03-29 03:03:41+00:00 | 📎 video, forwarded, edited | views:1917, forwards:1, reactions:19",
+  "poster": "content/video/170.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

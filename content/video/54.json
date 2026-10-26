@@ -1,0 +1,31 @@
+{
+  "id": "records_live4dev:54",
+  "kind": "video",
+  "title": "Слушай, а поехали на Аляску? Заведём у юрты собак, в полозья врежем коляску, будем встречать рассветы консервами из Канады, разглядывать …",
+  "description": "Слушай, а поехали на Аляску? Заведём у юрты собак, в полозья врежем коляску, будем встречать рассветы консервами из Канады, разглядывать волчий след, одеваясь в овечьи латы.\n\n#cover #guitar #voice #looper",
+  "caption_original": "Слушай, а поехали на Аляску? Заведём у юрты собак, в полозья врежем коляску, будем встречать рассветы консервами из Канады, разглядывать волчий след, одеваясь в овечьи латы.\n\n#cover #guitar #voice #looper",
+  "caption_source_message_id": 54,
+  "tags": [
+    "cover",
+    "guitar",
+    "voice",
+    "looper"
+  ],
+  "published_at": "2022-01-23T16:41:10Z",
+  "duration_seconds": 190,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 61232449,
+  "telegram_url": "https://t.me/records_live4dev/54",
+  "channel": "records_live4dev",
+  "message_id": 54,
+  "availability": "pending",
+  "original_filename": "IMG_0608.MOV",
+  "expected_size_bytes": 61232449,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/54.json",
+  "caption_file": "content/video/54.txt",
+  "telegram_metadata": "ID: 54 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-01-23 16:41:10+00:00 | 📎 video, edited | views:411, forwards:1, reactions:12",
+  "poster": "content/video/54.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

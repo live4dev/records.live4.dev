@@ -1,0 +1,34 @@
+{
+  "id": "records_live4dev:16",
+  "kind": "audio",
+  "title": "Засыпай ария ",
+  "description": "",
+  "caption_original": "",
+  "caption_source_message_id": 16,
+  "tags": [],
+  "published_at": "2021-06-15T11:31:28Z",
+  "duration_seconds": 39.744,
+  "file": "content/audio/16.m4a",
+  "mime_type": "audio/mp4",
+  "size_bytes": 319723,
+  "telegram_url": "https://t.me/records_live4dev/16",
+  "channel": "records_live4dev",
+  "message_id": 16,
+  "availability": "local",
+  "original_filename": "Засыпай ария.m4a",
+  "expected_size_bytes": 319723,
+  "telegram_mime_type": "audio/mpeg",
+  "metadata_file": "content/audio/16.json",
+  "caption_file": "content/audio/16.txt",
+  "telegram_metadata": "ID: 16 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-06-15 11:31:28+00:00 | 📎 voice, forwarded | views:258, forwards:0",
+  "audio_origin": "original",
+  "original_media_type": "voice",
+  "download_origin": "public_telegram_https",
+  "sha256": "4b084f8a5eb323a9520714d0ad7dae1181a088cf6e3f744fcb49388fcca1618f",
+  "codecs": [
+    {
+      "type": "audio",
+      "codec": "aac"
+    }
+  ]
+}

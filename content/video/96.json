@@ -1,0 +1,38 @@
+{
+  "id": "records_live4dev:96",
+  "kind": "video",
+  "title": "В отеле не особо удобно записываться с голосом или рубабом, зато на рынках в поисках нормального инструмента можно развлечься. Забавно чт…",
+  "description": "В отеле не особо удобно записываться с голосом или рубабом, зато на рынках в поисках нормального инструмента можно развлечься. Забавно что так и не нашел нормального магазина с национальными музыкальными инструментами.",
+  "caption_original": "В отеле не особо удобно записываться с голосом или рубабом, зато на рынках в поисках нормального инструмента можно развлечься. Забавно что так и не нашел нормального магазина с национальными музыкальными инструментами.",
+  "caption_source_message_id": 96,
+  "tags": [],
+  "published_at": "2023-02-01T06:03:16Z",
+  "duration_seconds": 17.866667,
+  "file": "content/video/96.mp4",
+  "mime_type": "video/mp4",
+  "size_bytes": 5770180,
+  "telegram_url": "https://t.me/records_live4dev/96",
+  "channel": "records_live4dev",
+  "message_id": 96,
+  "availability": "local",
+  "original_filename": "IMG_7439.MP4",
+  "expected_size_bytes": 5770180,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/96.json",
+  "caption_file": "content/video/96.txt",
+  "telegram_metadata": "ID: 96 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-02-01 06:03:16+00:00 | 📎 video, forwarded, edited | views:391, forwards:2, reactions:18",
+  "poster": "content/video/96.jpg",
+  "download_origin": "public_telegram_https",
+  "sha256": "4c04ac76eed2dca4cf71eefa9d6bbdc160b9876665175fbe8ab575cccf8b8e0b",
+  "codecs": [
+    {
+      "type": "video",
+      "codec": "h264"
+    },
+    {
+      "type": "audio",
+      "codec": "aac"
+    }
+  ],
+  "audio_file": "content/audio/96-video.m4a"
+}

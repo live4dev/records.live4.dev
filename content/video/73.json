@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:73",
+  "kind": "video",
+  "title": "Продолжаю тему «о Любви». Увы на этих выходных не добрался до записи, но нашел кавер одной классной группы — Весна в Сан-Бликко, помнится…",
+  "description": "Продолжаю тему «о Любви». Увы на этих выходных не добрался до записи, но нашел кавер одной классной группы — Весна в Сан-Бликко, помнится как год назад наткнулся на их «Виноград» и начал слушать всё что у них есть. \n\nТекст в «Иногда» понравился тем, что его по разному воспринимают, кто-то однозначно говорит что это любовники, кто-то что это семейная пара. Интересно, а что вам  услышалось?\n\naudio #cover #guitar #voice",
+  "caption_original": "Продолжаю тему «о Любви». Увы на этих выходных не добрался до записи, но нашел кавер одной классной группы — Весна в Сан-Бликко, помнится как год назад наткнулся на их «Виноград» и начал слушать всё что у них есть. \n\nТекст в «Иногда» понравился тем, что его по разному воспринимают, кто-то однозначно говорит что это любовники, кто-то что это семейная пара. Интересно, а что вам  услышалось?\n\naudio #cover #guitar #voice",
+  "caption_source_message_id": 73,
+  "tags": [
+    "cover",
+    "guitar",
+    "voice"
+  ],
+  "published_at": "2022-10-30T15:36:16Z",
+  "duration_seconds": 187,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 59932854,
+  "telegram_url": "https://t.me/records_live4dev/73",
+  "channel": "records_live4dev",
+  "message_id": 73,
+  "availability": "pending",
+  "original_filename": "IMG_5528.MP4",
+  "expected_size_bytes": 59932854,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/73.json",
+  "caption_file": "content/video/73.txt",
+  "telegram_metadata": "ID: 73 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-10-30 15:36:16+00:00 | 📎 video, edited | views:349, forwards:1, reactions:12",
+  "poster": "content/video/73.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

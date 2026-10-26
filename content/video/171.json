@@ -1,0 +1,28 @@
+{
+  "id": "records_live4dev:171",
+  "kind": "video",
+  "title": "С одной стороны было спокойное и медитативное состояние, с другой — грусть. Одно нашло своё выражение в музыке, другое — в словах, и вмес…",
+  "description": "С одной стороны было спокойное и медитативное состояние, с другой — грусть. Одно нашло своё выражение в музыке, другое — в словах, и вместе они создали песню. Приятного прослушивания :)\n\n#ЗаметкиНаПолях",
+  "caption_original": "С одной стороны было спокойное и медитативное состояние, с другой — грусть. Одно нашло своё выражение в музыке, другое — в словах, и вместе они создали песню. Приятного прослушивания :)\n\n#ЗаметкиНаПолях",
+  "caption_source_message_id": 171,
+  "tags": [
+    "ЗаметкиНаПолях"
+  ],
+  "published_at": "2024-05-05T19:41:23Z",
+  "duration_seconds": 152.61913333333,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 127051089,
+  "telegram_url": "https://t.me/records_live4dev/171",
+  "channel": "records_live4dev",
+  "message_id": 171,
+  "availability": "pending",
+  "original_filename": "IMG_4802.MP4",
+  "expected_size_bytes": 127051089,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/171.json",
+  "caption_file": "content/video/171.txt",
+  "telegram_metadata": "ID: 171 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2024-05-05 19:41:23+00:00 | 📎 video, edited | views:2632, forwards:9, reactions:31",
+  "poster": "content/video/171.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

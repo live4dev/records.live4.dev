@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:76",
+  "kind": "video",
+  "title": "В гости пришел Ваня aka @PsyHooi ) посидели помучали соседей )",
+  "description": "В гости пришел Ваня aka @PsyHooi ) посидели помучали соседей )\n\n#voice #guitar #cover",
+  "caption_original": "В гости пришел Ваня aka @PsyHooi ) посидели помучали соседей )\n\n#voice #guitar #cover",
+  "caption_source_message_id": 76,
+  "tags": [
+    "voice",
+    "guitar",
+    "cover"
+  ],
+  "published_at": "2022-12-03T15:06:05Z",
+  "duration_seconds": 166,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 53225623,
+  "telegram_url": "https://t.me/records_live4dev/76",
+  "channel": "records_live4dev",
+  "message_id": 76,
+  "availability": "pending",
+  "original_filename": "IMG_6068.MOV",
+  "expected_size_bytes": 53225623,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/76.json",
+  "caption_file": "content/video/76.txt",
+  "telegram_metadata": "ID: 76 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-12-03 15:06:05+00:00 | reply to 69 | 📎 video, edited | views:369, forwards:7, reactions:19",
+  "poster": "content/video/76.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

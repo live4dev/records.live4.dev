@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:14",
+  "kind": "audio",
+  "title": "Любовь к кавер версиям песен началась, кажется, именно с этой песни. Когда тебя в очередной раз просят сыграть Арию, невольно начинаешь и…",
+  "description": "Любовь к кавер версиям песен началась, кажется, именно с этой песни. Когда тебя в очередной раз просят сыграть Арию, невольно начинаешь искать новые варианты и понемного издеваться. Когда нибудь здесь обязательно будет версия более похожая на оригинал  и возможно даже с парой гитар и скрипкой.\n\n#looper #guitar",
+  "caption_original": "Любовь к кавер версиям песен началась, кажется, именно с этой песни. Когда тебя в очередной раз просят сыграть Арию, невольно начинаешь искать новые варианты и понемного издеваться. Когда нибудь здесь обязательно будет версия более похожая на оригинал  и возможно даже с парой гитар и скрипкой.\n\n#looper #guitar",
+  "caption_source_message_id": 14,
+  "tags": [
+    "looper",
+    "guitar"
+  ],
+  "published_at": "2021-06-15T11:11:56Z",
+  "duration_seconds": 224,
+  "file": null,
+  "mime_type": "audio/mpeg3",
+  "size_bytes": 5391381,
+  "telegram_url": "https://t.me/records_live4dev/14",
+  "channel": "records_live4dev",
+  "message_id": 14,
+  "availability": "pending",
+  "original_filename": "Данил - Засыпай (Ария).mp3",
+  "expected_size_bytes": 5391381,
+  "telegram_mime_type": "audio/mpeg3",
+  "metadata_file": "content/audio/14.json",
+  "caption_file": "content/audio/14.txt",
+  "telegram_metadata": "ID: 14 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-06-15 11:11:56+00:00 | 📎 audio, edited | views:270, forwards:3",
+  "audio_origin": "original",
+  "original_media_type": "audio",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

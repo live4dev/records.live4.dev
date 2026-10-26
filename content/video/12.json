@@ -1,0 +1,28 @@
+{
+  "id": "records_live4dev:12",
+  "kind": "video",
+  "title": "Калугин - Ночь защиты. Без слов.",
+  "description": "Калугин - Ночь защиты. Без слов.\n\n#guitar",
+  "caption_original": "Калугин - Ночь защиты. Без слов.\n\n#guitar",
+  "caption_source_message_id": 12,
+  "tags": [
+    "guitar"
+  ],
+  "published_at": "2021-06-10T10:52:44Z",
+  "duration_seconds": 98,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 31888258,
+  "telegram_url": "https://t.me/records_live4dev/12",
+  "channel": "records_live4dev",
+  "message_id": 12,
+  "availability": "pending",
+  "original_filename": "IMG_5953.MOV",
+  "expected_size_bytes": 31888258,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/12.json",
+  "caption_file": "content/video/12.txt",
+  "telegram_metadata": "ID: 12 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-06-10 10:52:44+00:00 | 📎 video, edited | views:256, forwards:1, reactions:1",
+  "poster": "content/video/12.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

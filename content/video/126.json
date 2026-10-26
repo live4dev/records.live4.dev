@@ -1,0 +1,31 @@
+{
+  "id": "records_live4dev:126",
+  "kind": "video",
+  "title": "Наконец-то добрались с Аней поиграть.",
+  "description": "Наконец-то добрались с Аней поиграть.\n\nХоть за окном и осень запись  будет летней, ранее я ее уже выкладывал, но лета много не бывает ) да и хочется в нормальном звуке - Романы Ремарка от Шапито ) \n\nЛюбителей дослушать до конца ждет бонус - 💍 (но не такое). \n\naudio #cover #violin #voice #guitar",
+  "caption_original": "Наконец-то добрались с Аней поиграть.\n\nХоть за окном и осень запись  будет летней, ранее я ее уже выкладывал, но лета много не бывает ) да и хочется в нормальном звуке - Романы Ремарка от Шапито ) \n\nЛюбителей дослушать до конца ждет бонус - 💍 (но не такое). \n\naudio #cover #violin #voice #guitar",
+  "caption_source_message_id": 126,
+  "tags": [
+    "cover",
+    "violin",
+    "voice",
+    "guitar"
+  ],
+  "published_at": "2023-09-24T12:06:57Z",
+  "duration_seconds": 238.23666666667,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 198234120,
+  "telegram_url": "https://t.me/records_live4dev/126",
+  "channel": "records_live4dev",
+  "message_id": 126,
+  "availability": "pending",
+  "original_filename": "IMG_8328.MOV",
+  "expected_size_bytes": 198234120,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/126.json",
+  "caption_file": "content/video/126.txt",
+  "telegram_metadata": "ID: 126 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-09-24 12:06:57+00:00 | 📎 video, edited | views:500, forwards:3, reactions:27",
+  "poster": "content/video/126.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

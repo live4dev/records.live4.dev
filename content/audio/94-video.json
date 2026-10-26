@@ -1,0 +1,33 @@
+{
+  "id": "records_live4dev:94:audio",
+  "kind": "audio",
+  "title": "По работе оказался на пару-тройку месяцев в Ташкенте, как же не пополнить коллекцию местным музыкальным инструментом - Рубаб, походит по …",
+  "description": "По работе оказался на пару-тройку месяцев в Ташкенте, как же не пополнить коллекцию местным музыкальным инструментом - Рубаб, походит по звуку на ситар или банджо.\n\nЕще на выбор был дутор https://t.me/records_live4dev/93?comment=398\n\nЗавел для заметок по Узбекистану  https://t.me/+bvYcry0fia40NmEy",
+  "caption_original": "",
+  "caption_source_message_id": 93,
+  "tags": [],
+  "published_at": "2023-01-08T15:16:01Z",
+  "duration_seconds": 23.405011,
+  "file": "content/audio/94-video.m4a",
+  "mime_type": "audio/mp4",
+  "size_bytes": 189403,
+  "telegram_url": "https://t.me/records_live4dev/94",
+  "channel": "records_live4dev",
+  "message_id": 94,
+  "availability": "local",
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/audio/94-video.json",
+  "caption_file": "content/audio/94-video.txt",
+  "telegram_metadata": "ID: 94 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-01-08 15:16:01+00:00 | 📎 video, album:13385527692809850, edited | views:487, forwards:3",
+  "album_id": "13385527692809850",
+  "poster": "content/video/94.jpg",
+  "sha256": "ebc7ef7444cd270b3aeaa5184ca9eb5e333b4b51fab1a815eff5ec5248c3e3fe",
+  "codecs": [
+    {
+      "type": "audio",
+      "codec": "aac"
+    }
+  ],
+  "source_video_id": "records_live4dev:94",
+  "audio_origin": "extracted"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:147",
+  "kind": "video",
+  "title": "В последнее время попадается много клевых инди групп с классными текстами, которые хочется брать в квартирники - Ульяна Мамушкина - до вс…",
+  "description": "В последнее время попадается много клевых инди групп с классными текстами, которые хочется брать в квартирники - Ульяна Мамушкина - до встречи!\n\n#cover #guitar #voice",
+  "caption_original": "В последнее время попадается много клевых инди групп с классными текстами, которые хочется брать в квартирники - Ульяна Мамушкина - до встречи!\n\n#cover #guitar #voice",
+  "caption_source_message_id": 147,
+  "tags": [
+    "cover",
+    "guitar",
+    "voice"
+  ],
+  "published_at": "2024-01-12T16:23:09Z",
+  "duration_seconds": 153.07666666667,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 58682563,
+  "telegram_url": "https://t.me/records_live4dev/147",
+  "channel": "records_live4dev",
+  "message_id": 147,
+  "availability": "pending",
+  "original_filename": "IMG_0537.MOV",
+  "expected_size_bytes": 58682563,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/147.json",
+  "caption_file": "content/video/147.txt",
+  "telegram_metadata": "ID: 147 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2024-01-12 16:23:09+00:00 | 📎 video, edited | views:439, forwards:0, reactions:11",
+  "poster": "content/video/147.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

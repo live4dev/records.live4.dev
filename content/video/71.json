@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:71",
+  "kind": "video",
+  "title": "Последнее время очень цепляет творчество Сироткина: эмоции, тексты, синты из 80ых. Иногда просто залипаю на пару дней в песню. Так и не п…",
+  "description": "Последнее время очень цепляет творчество Сироткина: эмоции, тексты, синты из 80ых. Иногда просто залипаю на пару дней в песню. Так и не понял почему песня называется Герои, может вы знаете? \n\n> Никого не осталось кроме тебя, меня\n> Мы устроились там, где у неба есть край, где сны поют\n\nЕще думаю пара тройка записей с его песнями здесь точно сохранятся. \n\naudio #cover #guitar #voice\n\nКстати, если хотите пишите в комментах что записать )",
+  "caption_original": "Последнее время очень цепляет творчество Сироткина: эмоции, тексты, синты из 80ых. Иногда просто залипаю на пару дней в песню. Так и не понял почему песня называется Герои, может вы знаете? \n\n> Никого не осталось кроме тебя, меня\n> Мы устроились там, где у неба есть край, где сны поют\n\nЕще думаю пара тройка записей с его песнями здесь точно сохранятся. \n\naudio #cover #guitar #voice\n\nКстати, если хотите пишите в комментах что записать )",
+  "caption_source_message_id": 71,
+  "tags": [
+    "cover",
+    "guitar",
+    "voice"
+  ],
+  "published_at": "2022-10-16T15:17:57Z",
+  "duration_seconds": 253,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 81117689,
+  "telegram_url": "https://t.me/records_live4dev/71",
+  "channel": "records_live4dev",
+  "message_id": 71,
+  "availability": "pending",
+  "original_filename": "IMG_5256.MOV",
+  "expected_size_bytes": 81117689,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/71.json",
+  "caption_file": "content/video/71.txt",
+  "telegram_metadata": "ID: 71 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-10-16 15:17:57+00:00 | 📎 video, edited | views:400, forwards:4, reactions:16",
+  "poster": "content/video/71.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

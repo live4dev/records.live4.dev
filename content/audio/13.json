@@ -1,0 +1,31 @@
+{
+  "id": "records_live4dev:13",
+  "kind": "audio",
+  "title": "Наконец-то начал заниматься теорией и делаеть заходы на клавишы. Внутри есть пасхалки, которые случайно нашел.",
+  "description": "Наконец-то начал заниматься теорией и делаеть заходы на клавишы. Внутри есть пасхалки, которые случайно нашел. \nЗапись делается в один заход с лупером. Позже попробую выложить видео с первыми заходами =) \n\n#looper #piano #guitar",
+  "caption_original": "Наконец-то начал заниматься теорией и делаеть заходы на клавишы. Внутри есть пасхалки, которые случайно нашел. \nЗапись делается в один заход с лупером. Позже попробую выложить видео с первыми заходами =) \n\n#looper #piano #guitar",
+  "caption_source_message_id": 13,
+  "tags": [
+    "looper",
+    "piano",
+    "guitar"
+  ],
+  "published_at": "2021-06-10T21:36:30Z",
+  "duration_seconds": 231,
+  "file": null,
+  "mime_type": "audio/mpeg3",
+  "size_bytes": 5566924,
+  "telegram_url": "https://t.me/records_live4dev/13",
+  "channel": "records_live4dev",
+  "message_id": 13,
+  "availability": "pending",
+  "original_filename": "Знакомство_с_тональностью_Em_и_клавишами.mp3",
+  "expected_size_bytes": 5566924,
+  "telegram_mime_type": "audio/mpeg3",
+  "metadata_file": "content/audio/13.json",
+  "caption_file": "content/audio/13.txt",
+  "telegram_metadata": "ID: 13 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-06-10 21:36:30+00:00 | 📎 audio, edited | views:278, forwards:2",
+  "audio_origin": "original",
+  "original_media_type": "audio",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

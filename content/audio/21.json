@@ -1,0 +1,31 @@
+{
+  "id": "records_live4dev:21",
+  "kind": "audio",
+  "title": "Ну и пока мы тут с Димоном подзастряли в больнице есть время разобрать записи. На лупере есть классная фича разворачивающая запись. Так ч…",
+  "description": "Ну и пока мы тут с Димоном подзастряли в больнице есть время разобрать записи. На лупере есть классная фича разворачивающая запись. Так что если записать перкуссию, развернуть ее и дальше добавить гитару, то может получится что-то подобное.\n\n#looper #reverse #guitar",
+  "caption_original": "Ну и пока мы тут с Димоном подзастряли в больнице есть время разобрать записи. На лупере есть классная фича разворачивающая запись. Так что если записать перкуссию, развернуть ее и дальше добавить гитару, то может получится что-то подобное.\n\n#looper #reverse #guitar",
+  "caption_source_message_id": 21,
+  "tags": [
+    "looper",
+    "reverse",
+    "guitar"
+  ],
+  "published_at": "2021-07-26T10:18:21Z",
+  "duration_seconds": 107,
+  "file": null,
+  "mime_type": "audio/mpeg3",
+  "size_bytes": 3429690,
+  "telegram_url": "https://t.me/records_live4dev/21",
+  "channel": "records_live4dev",
+  "message_id": 21,
+  "availability": "pending",
+  "original_filename": "Reverse Game Processed.mp3",
+  "expected_size_bytes": 3429690,
+  "telegram_mime_type": "audio/mpeg3",
+  "metadata_file": "content/audio/21.json",
+  "caption_file": "content/audio/21.txt",
+  "telegram_metadata": "ID: 21 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-07-26 10:18:21+00:00 | 📎 audio, edited | views:296, forwards:1",
+  "audio_origin": "original",
+  "original_media_type": "audio",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

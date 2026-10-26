@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:61",
+  "kind": "video",
+  "title": "Перейдём-ка на более позитивные темы :)",
+  "description": "Перейдём-ка на более позитивные темы :) \n\nПод группу «пневмаслон» приятно уезжать в закат, ну или в пятницу после работы в загородный дом с друзьями, вином и бассейном )) но кажется песня с «ебанутых спросу нет» сейчас более актуальна. В песне присутствует нецензурная лексика. \n\nСпасибо, берегите себя и хорошего вечера :)\n\n#guitar #voice #cover",
+  "caption_original": "Перейдём-ка на более позитивные темы :) \n\nПод группу «пневмаслон» приятно уезжать в закат, ну или в пятницу после работы в загородный дом с друзьями, вином и бассейном )) но кажется песня с «ебанутых спросу нет» сейчас более актуальна. В песне присутствует нецензурная лексика. \n\nСпасибо, берегите себя и хорошего вечера :)\n\n#guitar #voice #cover",
+  "caption_source_message_id": 61,
+  "tags": [
+    "guitar",
+    "voice",
+    "cover"
+  ],
+  "published_at": "2022-03-13T14:18:15Z",
+  "duration_seconds": 174,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 56132430,
+  "telegram_url": "https://t.me/records_live4dev/61",
+  "channel": "records_live4dev",
+  "message_id": 61,
+  "availability": "pending",
+  "original_filename": "IMG_1243.MOV",
+  "expected_size_bytes": 56132430,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/61.json",
+  "caption_file": "content/video/61.txt",
+  "telegram_metadata": "ID: 61 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-03-13 14:18:15+00:00 | 📎 video, edited | views:563, forwards:2, reactions:17",
+  "poster": "content/video/61.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:28",
+  "kind": "audio",
+  "title": "Аудиозапись 28",
+  "description": "#bass #voice",
+  "caption_original": "#bass #voice",
+  "caption_source_message_id": 28,
+  "tags": [
+    "bass",
+    "voice"
+  ],
+  "published_at": "2021-08-02T11:24:20Z",
+  "duration_seconds": 156,
+  "file": null,
+  "mime_type": "audio/mpeg",
+  "size_bytes": 2506605,
+  "telegram_url": "https://t.me/records_live4dev/28",
+  "channel": "records_live4dev",
+  "message_id": 28,
+  "availability": "pending",
+  "original_filename": "Юля и Данил - мамамне30.mp3",
+  "expected_size_bytes": 2506605,
+  "telegram_mime_type": "audio/mpeg",
+  "metadata_file": "content/audio/28.json",
+  "caption_file": "content/audio/28.txt",
+  "telegram_metadata": "ID: 28 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-08-02 11:24:20+00:00 | 📎 audio, edited | views:312, forwards:2",
+  "audio_origin": "original",
+  "original_media_type": "audio",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

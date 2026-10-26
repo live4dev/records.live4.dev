@@ -1,0 +1,29 @@
+{
+  "id": "records_live4dev:78",
+  "kind": "video",
+  "title": "Здравствуй, дорогой дневник.",
+  "description": "Здравствуй, дорогой дневник. \nПубличная рефлексия странная штука, так что просто видео с песней из детства на фоне печи. Надеюсь вам станет теплее внутри, как и мне :) \n\nДля любителей игр - можно попробовать угадать без просмотра что за песня будет в видео ;) \n\n#cover #guitar",
+  "caption_original": "Здравствуй, дорогой дневник. \nПубличная рефлексия странная штука, так что просто видео с песней из детства на фоне печи. Надеюсь вам станет теплее внутри, как и мне :) \n\nДля любителей игр - можно попробовать угадать без просмотра что за песня будет в видео ;) \n\n#cover #guitar",
+  "caption_source_message_id": 78,
+  "tags": [
+    "cover",
+    "guitar"
+  ],
+  "published_at": "2022-12-11T10:34:03Z",
+  "duration_seconds": 214,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 68705273,
+  "telegram_url": "https://t.me/records_live4dev/78",
+  "channel": "records_live4dev",
+  "message_id": 78,
+  "availability": "pending",
+  "original_filename": "IMG_6165.MOV",
+  "expected_size_bytes": 68705273,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/78.json",
+  "caption_file": "content/video/78.txt",
+  "telegram_metadata": "ID: 78 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-12-11 10:34:03+00:00 | 📎 video, edited | views:370, forwards:1, reactions:20",
+  "poster": "content/video/78.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

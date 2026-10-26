@@ -1,0 +1,31 @@
+{
+  "id": "records_live4dev:47",
+  "kind": "video",
+  "title": "Сегодня на студии, под работу перфоратора соседей, снимал порнофильмы, а точнее их Ритуалы.",
+  "description": "Сегодня на студии, под работу перфоратора соседей, снимал порнофильмы, а точнее их Ритуалы. \n\nПора покупать ковёр )\n\n#guitar #looper #voice #cover",
+  "caption_original": "Сегодня на студии, под работу перфоратора соседей, снимал порнофильмы, а точнее их Ритуалы. \n\nПора покупать ковёр )\n\n#guitar #looper #voice #cover",
+  "caption_source_message_id": 47,
+  "tags": [
+    "guitar",
+    "looper",
+    "voice",
+    "cover"
+  ],
+  "published_at": "2021-12-04T19:58:47Z",
+  "duration_seconds": 238,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 76081449,
+  "telegram_url": "https://t.me/records_live4dev/47",
+  "channel": "records_live4dev",
+  "message_id": 47,
+  "availability": "pending",
+  "original_filename": "IMG_9578.MOV",
+  "expected_size_bytes": 76081449,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/47.json",
+  "caption_file": "content/video/47.txt",
+  "telegram_metadata": "ID: 47 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-12-04 19:58:47+00:00 | 📎 video, edited | views:346, forwards:0, reactions:1",
+  "poster": "content/video/47.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

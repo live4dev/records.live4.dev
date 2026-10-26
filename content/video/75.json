@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:75",
+  "kind": "video",
+  "title": "Сегодня благодаря соседу Денису наконец-то заработал мой комп ) В общем было немного увлекательной цифровой археологии, смешные записи на…",
+  "description": "Сегодня благодаря соседу Денису наконец-то заработал мой комп ) В общем было немного увлекательной цифровой археологии, смешные записи нашёл, правда пока не знаю выкладывать их или нет. \n\nНаткнулся и на давно забытую песню Алексея Кульбацкого - Спаситель с альбома «Рок из подворотни» группа Пилот так давала возможность малоизвестным музыкантам заявить о себе. \n\nКажется, некоторым из вас она отзовётся.  Хорошего вечера =) ну и всегда можно обсудить либо в комментах, либо в личке ) \n\naudio #cover #voice #guitar",
+  "caption_original": "Сегодня благодаря соседу Денису наконец-то заработал мой комп ) В общем было немного увлекательной цифровой археологии, смешные записи нашёл, правда пока не знаю выкладывать их или нет. \n\nНаткнулся и на давно забытую песню Алексея Кульбацкого - Спаситель с альбома «Рок из подворотни» группа Пилот так давала возможность малоизвестным музыкантам заявить о себе. \n\nКажется, некоторым из вас она отзовётся.  Хорошего вечера =) ну и всегда можно обсудить либо в комментах, либо в личке ) \n\naudio #cover #voice #guitar",
+  "caption_source_message_id": 75,
+  "tags": [
+    "cover",
+    "voice",
+    "guitar"
+  ],
+  "published_at": "2022-11-06T16:38:02Z",
+  "duration_seconds": 142,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 45724749,
+  "telegram_url": "https://t.me/records_live4dev/75",
+  "channel": "records_live4dev",
+  "message_id": 75,
+  "availability": "pending",
+  "original_filename": "IMG_5642.MOV",
+  "expected_size_bytes": 45724749,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/75.json",
+  "caption_file": "content/video/75.txt",
+  "telegram_metadata": "ID: 75 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-11-06 16:38:02+00:00 | 📎 video, edited | views:410, forwards:2, reactions:19",
+  "poster": "content/video/75.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

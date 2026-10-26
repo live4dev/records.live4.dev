@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:133",
+  "kind": "video",
+  "title": "Пару недель назад словил интересное состояния когда все происходящее воспринимается как будто тебе 16 и весь мир против тебя. Потом понял…",
+  "description": "Пару недель назад словил интересное состояния когда все происходящее воспринимается как будто тебе 16 и весь мир против тебя. Потом понял что просто устал словил октябрьский дождь и песню от Mart of Sky - Разводные мосты. Записывал раз 40, местами была забавно наблюдать как мозг поменяет слова, вместо «тоскуем без повода» - «танцуем без повода», вместо «злобный начальник что будет ворчать всю неделю» - «добрый начальник что будет молчать всю неделю».\n\n#acoustic #cover #voice",
+  "caption_original": "Пару недель назад словил интересное состояния когда все происходящее воспринимается как будто тебе 16 и весь мир против тебя. Потом понял что просто устал словил октябрьский дождь и песню от Mart of Sky - Разводные мосты. Записывал раз 40, местами была забавно наблюдать как мозг поменяет слова, вместо «тоскуем без повода» - «танцуем без повода», вместо «злобный начальник что будет ворчать всю неделю» - «добрый начальник что будет молчать всю неделю».\n\n#acoustic #cover #voice",
+  "caption_source_message_id": 133,
+  "tags": [
+    "acoustic",
+    "cover",
+    "voice"
+  ],
+  "published_at": "2023-10-29T14:02:17Z",
+  "duration_seconds": 273.44833333333,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 227458747,
+  "telegram_url": "https://t.me/records_live4dev/133",
+  "channel": "records_live4dev",
+  "message_id": 133,
+  "availability": "pending",
+  "original_filename": "IMG_9109.MOV",
+  "expected_size_bytes": 227458747,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/133.json",
+  "caption_file": "content/video/133.txt",
+  "telegram_metadata": "ID: 133 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-10-29 14:02:17+00:00 | 📎 video, edited | views:535, forwards:2, reactions:20",
+  "poster": "content/video/133.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "records_live4dev:19",
+  "kind": "audio",
+  "title": "Аудиозапись 19",
+  "description": "#looper #guitar #piano #voice",
+  "caption_original": "#looper #guitar #piano #voice",
+  "caption_source_message_id": 19,
+  "tags": [
+    "looper",
+    "guitar",
+    "piano",
+    "voice"
+  ],
+  "published_at": "2021-07-25T19:17:25Z",
+  "duration_seconds": 242,
+  "file": null,
+  "mime_type": "audio/mpeg3",
+  "size_bytes": 5815819,
+  "telegram_url": "https://t.me/records_live4dev/19",
+  "channel": "records_live4dev",
+  "message_id": 19,
+  "availability": "pending",
+  "original_filename": "Danil - Весна (Dolphin).mp3",
+  "expected_size_bytes": 5815819,
+  "telegram_mime_type": "audio/mpeg3",
+  "metadata_file": "content/audio/19.json",
+  "caption_file": "content/audio/19.txt",
+  "telegram_metadata": "ID: 19 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-07-25 19:17:25+00:00 | reply to 18 | 📎 audio, edited | views:257, forwards:1",
+  "audio_origin": "original",
+  "original_media_type": "audio",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

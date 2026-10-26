@@ -1,0 +1,33 @@
+{
+  "id": "records_live4dev:121:audio",
+  "kind": "audio",
+  "title": "Сменить по ходу тональность? - Изи )) зато какой ревер )",
+  "description": "Сменить по ходу тональность? - Изи )) зато какой ревер )\n\nПевчий зал монастыря Гегард. Больше фотографий здесь https://t.me/travel_live4dev/438",
+  "caption_original": "Сменить по ходу тональность? - Изи )) зато какой ревер )\n\nПевчий зал монастыря Гегард. Больше фотографий здесь https://t.me/travel_live4dev/438",
+  "caption_source_message_id": 121,
+  "tags": [],
+  "published_at": "2023-07-16T12:10:39Z",
+  "duration_seconds": 17.948005,
+  "file": "content/audio/121-video.m4a",
+  "mime_type": "audio/mp4",
+  "size_bytes": 146388,
+  "telegram_url": "https://t.me/records_live4dev/121",
+  "channel": "records_live4dev",
+  "message_id": 121,
+  "availability": "local",
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/audio/121-video.json",
+  "caption_file": "content/audio/121-video.txt",
+  "telegram_metadata": "ID: 121 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-07-16 12:10:39+00:00 | 📎 video, album:13516075518851178, forwarded, edited | views:1169, forwards:0, reactions:15",
+  "album_id": "13516075518851178",
+  "poster": "content/video/121.jpg",
+  "sha256": "d03366e8c83353d574d60643d6f1cd6dc1f94beaa7b642bf8509b80e0efc8ee8",
+  "codecs": [
+    {
+      "type": "audio",
+      "codec": "aac"
+    }
+  ],
+  "source_video_id": "records_live4dev:121",
+  "audio_origin": "extracted"
+}

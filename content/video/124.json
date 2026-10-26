@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:124",
+  "kind": "video",
+  "title": "Давненько ничего не выкладывал с домашней студии и кажется лучшее время здесь и сейчас. Тем более что на детях потренировался, уложил спа…",
+  "description": "Давненько ничего не выкладывал с домашней студии и кажется лучшее время здесь и сейчас. Тем более что на детях потренировался, уложил спать, не знаю как они под такое засыпают :) теперь и ваша очередь, приятного прослушивания. Groo - Увидеть тебя.\n\naudio #cover #guitar #voice",
+  "caption_original": "Давненько ничего не выкладывал с домашней студии и кажется лучшее время здесь и сейчас. Тем более что на детях потренировался, уложил спать, не знаю как они под такое засыпают :) теперь и ваша очередь, приятного прослушивания. Groo - Увидеть тебя.\n\naudio #cover #guitar #voice",
+  "caption_source_message_id": 124,
+  "tags": [
+    "cover",
+    "guitar",
+    "voice"
+  ],
+  "published_at": "2023-09-17T19:02:51Z",
+  "duration_seconds": 219.13166666667,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 182141646,
+  "telegram_url": "https://t.me/records_live4dev/124",
+  "channel": "records_live4dev",
+  "message_id": 124,
+  "availability": "pending",
+  "original_filename": "IMG_8110.MOV",
+  "expected_size_bytes": 182141646,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/124.json",
+  "caption_file": "content/video/124.txt",
+  "telegram_metadata": "ID: 124 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-09-17 19:02:51+00:00 | 📎 video, edited | views:541, forwards:5, reactions:23",
+  "poster": "content/video/124.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

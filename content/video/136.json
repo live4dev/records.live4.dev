@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:136",
+  "kind": "video",
+  "title": "Есть у меня мечта, свалить на море и серфить, когда нибудь - да, а сейчас -  работаем ) а вечерами когда мелкие уже спят можно позаписыва…",
+  "description": "Есть у меня мечта, свалить на море и серфить, когда нибудь - да, а сейчас -  работаем ) а вечерами когда мелкие уже спят можно позаписывать песни про то как я когда нибудь уеду к морю, навсегда. Песня Саши Солнцевой - К морю, приятного прослушивания. \n\n#cover #guitar #looper",
+  "caption_original": "Есть у меня мечта, свалить на море и серфить, когда нибудь - да, а сейчас -  работаем ) а вечерами когда мелкие уже спят можно позаписывать песни про то как я когда нибудь уеду к морю, навсегда. Песня Саши Солнцевой - К морю, приятного прослушивания. \n\n#cover #guitar #looper",
+  "caption_source_message_id": 136,
+  "tags": [
+    "cover",
+    "guitar",
+    "looper"
+  ],
+  "published_at": "2023-11-13T12:21:53Z",
+  "duration_seconds": 164.125,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 136493935,
+  "telegram_url": "https://t.me/records_live4dev/136",
+  "channel": "records_live4dev",
+  "message_id": 136,
+  "availability": "pending",
+  "original_filename": "IMG_9410.MOV",
+  "expected_size_bytes": 136493935,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/136.json",
+  "caption_file": "content/video/136.txt",
+  "telegram_metadata": "ID: 136 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-11-13 12:21:53+00:00 | 📎 video, edited | views:550, forwards:2, reactions:25",
+  "poster": "content/video/136.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

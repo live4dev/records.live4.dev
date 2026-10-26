@@ -1,0 +1,28 @@
+{
+  "id": "records_live4dev:125",
+  "kind": "video",
+  "title": "В апреле друзья одарили меня балалайкой, видимо я очень воодушевленный был после концерта Архипоского или Нейромонаха 😅. В общем наконец-…",
+  "description": "В апреле друзья одарили меня балалайкой, видимо я очень воодушевленный был после концерта Архипоского или Нейромонаха 😅. В общем наконец-то добрался немного позалипать дома ;) интересный интрумент 3 струны, две одинаково настроены в классическом строе. В общем импровизации вам и приятного прослушивания. \n\nВнезапно пошел билеты глянуть и Архиповский выступает 27 ноября в Питере, всем рекомендую. \n\naudio #balalaika\n\nUPD. Тут еще какие-то бусты для каналов ввели http://t.me/records_live4dev?boost  есть кто с премом? )",
+  "caption_original": "В апреле друзья одарили меня балалайкой, видимо я очень воодушевленный был после концерта Архипоского или Нейромонаха 😅. В общем наконец-то добрался немного позалипать дома ;) интересный интрумент 3 струны, две одинаково настроены в классическом строе. В общем импровизации вам и приятного прослушивания. \n\nВнезапно пошел билеты глянуть и Архиповский выступает 27 ноября в Питере, всем рекомендую. \n\naudio #balalaika\n\nUPD. Тут еще какие-то бусты для каналов ввели http://t.me/records_live4dev?boost  есть кто с премом? )",
+  "caption_source_message_id": 125,
+  "tags": [
+    "balalaika"
+  ],
+  "published_at": "2023-09-23T19:55:20Z",
+  "duration_seconds": 181.59333333333,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 151005597,
+  "telegram_url": "https://t.me/records_live4dev/125",
+  "channel": "records_live4dev",
+  "message_id": 125,
+  "availability": "pending",
+  "original_filename": "IMG_8315.MOV",
+  "expected_size_bytes": 151005597,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/125.json",
+  "caption_file": "content/video/125.txt",
+  "telegram_metadata": "ID: 125 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2023-09-23 19:55:20+00:00 | 📎 video, edited | views:474, forwards:6, reactions:18",
+  "poster": "content/video/125.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

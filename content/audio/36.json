@@ -1,0 +1,31 @@
+{
+  "id": "records_live4dev:36",
+  "kind": "audio",
+  "title": "Аудиозапись 36",
+  "description": "#acoustic #cover #looper",
+  "caption_original": "#acoustic #cover #looper",
+  "caption_source_message_id": 36,
+  "tags": [
+    "acoustic",
+    "cover",
+    "looper"
+  ],
+  "published_at": "2021-09-12T18:40:24Z",
+  "duration_seconds": 217,
+  "file": null,
+  "mime_type": "audio/mpeg",
+  "size_bytes": 3479277,
+  "telegram_url": "https://t.me/records_live4dev/36",
+  "channel": "records_live4dev",
+  "message_id": 36,
+  "availability": "pending",
+  "original_filename": "Данил - Children (Robert Miles).mp3",
+  "expected_size_bytes": 3479277,
+  "telegram_mime_type": "audio/mpeg",
+  "metadata_file": "content/audio/36.json",
+  "caption_file": "content/audio/36.txt",
+  "telegram_metadata": "ID: 36 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-09-12 18:40:24+00:00 | 📎 audio, edited | views:343, forwards:1",
+  "audio_origin": "original",
+  "original_media_type": "audio",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

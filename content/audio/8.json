@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:8",
+  "kind": "audio",
+  "title": "Наткнулся случайно на просторах интернетов на запись Агутина на квартирнике у Маргулиса с песней от Uma2rman - Налей мне.  Залип. Немного…",
+  "description": "Наткнулся случайно на просторах интернетов на запись Агутина на квартирнике у Маргулиса с песней от Uma2rman - Налей мне.  Залип. Немного переосмыслил. Записал кавер.\n\n#guitar #voice",
+  "caption_original": "Наткнулся случайно на просторах интернетов на запись Агутина на квартирнике у Маргулиса с песней от Uma2rman - Налей мне.  Залип. Немного переосмыслил. Записал кавер.\n\n#guitar #voice",
+  "caption_source_message_id": 8,
+  "tags": [
+    "guitar",
+    "voice"
+  ],
+  "published_at": "2021-05-10T20:33:24Z",
+  "duration_seconds": 196,
+  "file": null,
+  "mime_type": "audio/mpeg3",
+  "size_bytes": 6283515,
+  "telegram_url": "https://t.me/records_live4dev/8",
+  "channel": "records_live4dev",
+  "message_id": 8,
+  "availability": "pending",
+  "original_filename": "Umaturman - Налей мне.mp3",
+  "expected_size_bytes": 6283515,
+  "telegram_mime_type": "audio/mpeg3",
+  "metadata_file": "content/audio/8.json",
+  "caption_file": "content/audio/8.txt",
+  "telegram_metadata": "ID: 8 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-05-10 20:33:24+00:00 | 📎 audio, edited | views:300, forwards:3",
+  "audio_origin": "original",
+  "original_media_type": "audio",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

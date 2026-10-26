@@ -1,0 +1,29 @@
+{
+  "id": "records_live4dev:37",
+  "kind": "video",
+  "title": "Странным образом Oasis прошёл мимо меня, последние пару месяцев слушал, большего всего зацепили Wonderwall и Stop Crying Your Heart Out.",
+  "description": "Странным образом Oasis прошёл мимо меня, последние пару месяцев слушал, большего всего зацепили Wonderwall и Stop Crying Your Heart Out.\n\n#acoustic #voice",
+  "caption_original": "Странным образом Oasis прошёл мимо меня, последние пару месяцев слушал, большего всего зацепили Wonderwall и Stop Crying Your Heart Out.\n\n#acoustic #voice",
+  "caption_source_message_id": 37,
+  "tags": [
+    "acoustic",
+    "voice"
+  ],
+  "published_at": "2021-10-17T18:01:31Z",
+  "duration_seconds": 233,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 34192037,
+  "telegram_url": "https://t.me/records_live4dev/37",
+  "channel": "records_live4dev",
+  "message_id": 37,
+  "availability": "pending",
+  "original_filename": "IMG_8939.MOV",
+  "expected_size_bytes": 34192037,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/37.json",
+  "caption_file": "content/video/37.txt",
+  "telegram_metadata": "ID: 37 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-10-17 18:01:31+00:00 | 📎 video, forwarded, edited | views:304, forwards:0",
+  "poster": "content/video/37.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

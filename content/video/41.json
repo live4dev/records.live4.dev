@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:41",
+  "kind": "video",
+  "title": "Сегодня пол дня мучал большой лупер, получилось что-то напоминающее тайну третьей планеты ) почистить запись нормально не получилось, за …",
+  "description": "Сегодня пол дня мучал большой лупер, получилось что-то напоминающее тайну третьей планеты ) почистить запись нормально не получилось, за лупером приехал покупатель (Выставил его месяц назад на продажу, скоро выходит новый напольный надо готовиться)\n\n#looper #guitar #synth",
+  "caption_original": "Сегодня пол дня мучал большой лупер, получилось что-то напоминающее тайну третьей планеты ) почистить запись нормально не получилось, за лупером приехал покупатель (Выставил его месяц назад на продажу, скоро выходит новый напольный надо готовиться)\n\n#looper #guitar #synth",
+  "caption_source_message_id": 41,
+  "tags": [
+    "looper",
+    "guitar",
+    "synth"
+  ],
+  "published_at": "2021-11-03T19:37:23Z",
+  "duration_seconds": 270,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 86668136,
+  "telegram_url": "https://t.me/records_live4dev/41",
+  "channel": "records_live4dev",
+  "message_id": 41,
+  "availability": "pending",
+  "original_filename": "IMG_9167.MOV",
+  "expected_size_bytes": 86668136,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/41.json",
+  "caption_file": "content/video/41.txt",
+  "telegram_metadata": "ID: 41 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-11-03 19:37:23+00:00 | 📎 video, edited | views:313, forwards:0",
+  "poster": "content/video/41.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

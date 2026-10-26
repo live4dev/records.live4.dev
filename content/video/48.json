@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:48",
+  "kind": "video",
+  "title": "Недавно Укулеле исполнился год, как-то само собой получилось на ней вот такую композицию сделать. И наконец-то калимба подаренная Аней по…",
+  "description": "Недавно Укулеле исполнился год, как-то само собой получилось на ней вот такую композицию сделать. И наконец-то калимба подаренная Аней попала в запись :) \n\nПриятного прослушивания и спокойной ночи. \n\n#ukulele #looper #kalimba",
+  "caption_original": "Недавно Укулеле исполнился год, как-то само собой получилось на ней вот такую композицию сделать. И наконец-то калимба подаренная Аней попала в запись :) \n\nПриятного прослушивания и спокойной ночи. \n\n#ukulele #looper #kalimba",
+  "caption_source_message_id": 48,
+  "tags": [
+    "ukulele",
+    "looper",
+    "kalimba"
+  ],
+  "published_at": "2021-12-05T19:16:58Z",
+  "duration_seconds": 350,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 111153718,
+  "telegram_url": "https://t.me/records_live4dev/48",
+  "channel": "records_live4dev",
+  "message_id": 48,
+  "availability": "pending",
+  "original_filename": "IMG_9626.MOV",
+  "expected_size_bytes": 111153718,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/48.json",
+  "caption_file": "content/video/48.txt",
+  "telegram_metadata": "ID: 48 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-12-05 19:16:58+00:00 | 📎 video, edited | views:450, forwards:2, reactions:1",
+  "poster": "content/video/48.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

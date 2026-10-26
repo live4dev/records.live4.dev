@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:35",
+  "kind": "video",
+  "title": "Пока голос приходит в норму после кашля, можно записать что нибудь инструментального характера :)",
+  "description": "Пока голос приходит в норму после кашля, можно записать что нибудь инструментального характера :) \n\nНачнём с композиции Children от Роберта Майлза, которая легко уносит в детство. Заодно можно проверить новый звукосниматель с эффектами.\n\n#acoustic #cover #looper",
+  "caption_original": "Пока голос приходит в норму после кашля, можно записать что нибудь инструментального характера :) \n\nНачнём с композиции Children от Роберта Майлза, которая легко уносит в детство. Заодно можно проверить новый звукосниматель с эффектами.\n\n#acoustic #cover #looper",
+  "caption_source_message_id": 35,
+  "tags": [
+    "acoustic",
+    "cover",
+    "looper"
+  ],
+  "published_at": "2021-09-12T18:39:58Z",
+  "duration_seconds": 219,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 70072491,
+  "telegram_url": "https://t.me/records_live4dev/35",
+  "channel": "records_live4dev",
+  "message_id": 35,
+  "availability": "pending",
+  "original_filename": "IMG_8308.MOV",
+  "expected_size_bytes": 70072491,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/35.json",
+  "caption_file": "content/video/35.txt",
+  "telegram_metadata": "ID: 35 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-09-12 18:39:58+00:00 | 📎 video, forwarded, edited | views:329, forwards:4",
+  "poster": "content/video/35.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

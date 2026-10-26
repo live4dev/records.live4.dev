@@ -1,0 +1,30 @@
+{
+  "id": "records_live4dev:62",
+  "kind": "video",
+  "title": "В коллекции музыкальных инструментов пополнение, наконец-то появилась классическая гитара, а с Ольхона был привезён классный варган так ч…",
+  "description": "В коллекции музыкальных инструментов пополнение, наконец-то появилась классическая гитара, а с Ольхона был привезён классный варган так что время экспериментов :)\n\naudio #guitar #looper #ЗаметкиНаПолях",
+  "caption_original": "В коллекции музыкальных инструментов пополнение, наконец-то появилась классическая гитара, а с Ольхона был привезён классный варган так что время экспериментов :)\n\naudio #guitar #looper #ЗаметкиНаПолях",
+  "caption_source_message_id": 62,
+  "tags": [
+    "guitar",
+    "looper",
+    "ЗаметкиНаПолях"
+  ],
+  "published_at": "2022-06-19T18:33:53Z",
+  "duration_seconds": 298,
+  "file": null,
+  "mime_type": "video/mp4",
+  "size_bytes": 95785741,
+  "telegram_url": "https://t.me/records_live4dev/62",
+  "channel": "records_live4dev",
+  "message_id": 62,
+  "availability": "pending",
+  "original_filename": "IMG_2329.MOV",
+  "expected_size_bytes": 95785741,
+  "telegram_mime_type": "video/mp4",
+  "metadata_file": "content/video/62.json",
+  "caption_file": "content/video/62.txt",
+  "telegram_metadata": "ID: 62 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2022-06-19 18:33:53+00:00 | 📎 video, edited | views:418, forwards:4, reactions:23",
+  "poster": "content/video/62.jpg",
+  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+}

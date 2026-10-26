@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.tmp/
+.venv/
+__pycache__/
+*.py[cod]
+data/*.tmp
+media/**/*.part
+content/**/*.part
+content/**/*.tmp
+*.session
+*.session-journal
