@@ -7,8 +7,8 @@
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; media-src 'self'; style-src 'self'; script-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'">
     <meta name="description" content="Видео и аудиозаписи live4.dev. Смотрите записи, слушайте аудиоплейлист и возвращайтесь к важному.">
     <title>records — видео и аудио live4.dev</title>
-    <link rel="stylesheet" href="./assets/styles.css?v=20261026-2">
-    <script src="./assets/app.js?v=20261026-1" defer></script>
+    <link rel="stylesheet" href="./assets/styles.css?v=20261026-3">
+    <script src="./assets/app.js?v=20261026-2" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#catalog">Перейти к видео</a>
@@ -46,8 +46,7 @@
         </section>
         <section class="catalog" id="catalog" aria-labelledby="catalog-title"><div class="section-heading"><div><p class="eyebrow">Смотреть</p><h2 id="catalog-title"><span id="catalog-heading">Видеоархив</span><span id="video-count" class="count-badge">—</span></h2></div><label class="sort-field"><span class="sr-only">Порядок записей</span><select id="sort"><option value="newest">Сначала новые</option><option value="oldest">Сначала старые</option><option value="shortest">Сначала короткие</option><option value="available">Доступные на сайте</option></select></label></div><div class="topics" id="tag-filters" role="group" aria-label="Фильтр по теме"></div><p class="results-label sr-only" id="results-label" aria-live="polite"></p><div class="records-grid" id="records-grid" aria-busy="true"></div><div class="empty-state" id="empty-state" hidden><span class="empty-icon"><svg aria-hidden="true"><use href="#i-video"/></svg></span><h3 id="empty-title">Загружаем видео</h3><p id="empty-copy"></p><button class="reset-button" id="reset-filters" type="button" hidden>Сбросить фильтры</button><button class="reset-button" id="retry-load" type="button" hidden>Попробовать ещё раз</button></div><div class="catalog-footer"><span>Всё важное — в одной коллекции.</span><a href="https://t.me/records_live4dev" target="_blank" rel="noopener noreferrer">Источник: @records_live4dev <svg aria-hidden="true"><use href="#i-arrow"/></svg></a></div></section>
       </div>
-      <aside class="audio-column" id="audio-playlist" aria-labelledby="audio-title"><div class="audio-panel">
-        <div class="audio-heading"><div class="audio-heading-icon"><svg aria-hidden="true"><use href="#i-audio"/></svg></div><div><p class="eyebrow">Можно просто слушать</p><h2 id="audio-title">Аудиоплейлист</h2></div><span id="audio-count" class="count-badge">—</span></div>
+      <aside class="audio-column" id="audio-playlist" aria-label="Аудиоплейлист"><div class="audio-panel">
         <div class="winamp-stack">
         <div class="winamp-left-deck">
         <div class="now-playing winamp-player" id="now-playing">
@@ -73,8 +72,8 @@
           <label class="winamp-volume"><span>VOL</span><input id="audio-volume" type="range" min="0" max="1" value="0.8" step="0.01"></label>
           <p class="audio-message" id="audio-message" role="status" hidden></p>
         </div>
-        <section class="winamp-equalizer" aria-label="Декоративный эквалайзер">
-          <div class="winamp-module-titlebar"><span>WINAMP EQUALIZER</span><span class="winamp-window-buttons" aria-hidden="true"><i></i><i></i></span></div>
+        <details class="winamp-equalizer">
+          <summary class="winamp-module-titlebar"><span>WINAMP EQUALIZER</span><span class="winamp-window-buttons" aria-hidden="true"><i></i><i></i></span></summary>
           <div class="winamp-eq-toolbar" aria-hidden="true"><span>ON</span><span>AUTO</span><strong>PRESETS</strong></div>
           <div class="winamp-eq-bands" aria-hidden="true">
             <span class="eq-band eq-preamp"><i></i><small>PREAMP</small></span>
@@ -88,7 +87,7 @@
             <span class="eq-band"><i></i><small>12K</small></span>
             <span class="eq-band"><i></i><small>16K</small></span>
           </div>
-        </section>
+        </details>
         </div>
         <section class="winamp-playlist" aria-label="Плейлист Winamp">
           <div class="winamp-module-titlebar"><span>WINAMP PLAYLIST</span><span class="winamp-window-buttons" aria-hidden="true"><i></i><i></i></span></div>

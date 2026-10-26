@@ -211,7 +211,6 @@ function renderAudioQueue() {
   const focusedTrack = ui.queue.contains(document.activeElement) ? document.activeElement.closest(".queue-button")?.dataset.trackId : "";
   const items = audios();
   const available = items.filter((item) => item.file).length;
-  $("#audio-count").textContent = String(state.items.filter((item) => item.kind === "audio").length);
   $("#queue-count").textContent = items.length ? `${available} ${plural(available, ["доступна", "доступны", "доступны"])}` : "";
   let playableIndex = 0;
   ui.queue.replaceChildren(...items.map((item) => {

@@ -373,6 +373,11 @@
 .winamp-stack .winamp-player .main-play-button.is-playing{color:#061b0c;background:linear-gradient(#65ef8f,#1d8e48)}
 
 .winamp-equalizer{padding:0 6px 7px}
+.winamp-equalizer:not([open]){padding-bottom:0}
+.winamp-equalizer>summary{cursor:pointer;list-style:none;user-select:none}
+.winamp-equalizer>summary::-webkit-details-marker{display:none}
+.winamp-equalizer>summary:focus-visible{outline:2px solid var(--wa-yellow);outline-offset:-3px}
+.winamp-equalizer>summary:hover{filter:brightness(1.15)}
 .winamp-eq-toolbar{display:flex;align-items:center;gap:4px;height:24px;padding:3px 1px;color:#111522;font-size:7px;font-weight:800}
 .winamp-eq-toolbar span,.winamp-eq-toolbar strong{
   padding:2px 5px;
@@ -428,4 +433,12 @@
   .eq-band i{height:54px}
   .winamp-playlist .audio-queue{max-height:420px}
   .winamp-playlist .queue-title{font-size:11px}
+}
+
+/* The Winamp windows are the container: no additional modern card chrome. */
+.audio-column .audio-panel{
+  padding:0;
+  background:transparent;
+  border:0;
+  border-radius:0;
 }
