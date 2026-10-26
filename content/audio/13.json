@@ -1,31 +1,196 @@
 {
-  "id": "records_live4dev:13",
-  "kind": "audio",
-  "title": "Наконец-то начал заниматься теорией и делаеть заходы на клавишы. Внутри есть пасхалки, которые случайно нашел.",
-  "description": "Наконец-то начал заниматься теорией и делаеть заходы на клавишы. Внутри есть пасхалки, которые случайно нашел. \nЗапись делается в один заход с лупером. Позже попробую выложить видео с первыми заходами =) \n\n#looper #piano #guitar",
+  "record": {
+    "id": "records_live4dev:13",
+    "channel": "records_live4dev",
+    "message_id": 13,
+    "kind": "audio",
+    "title": "Наконец-то начал заниматься теорией и делаеть заходы на клавишы. Внутри есть пасхалки, которые случайно нашел.",
+    "description": "Наконец-то начал заниматься теорией и делаеть заходы на клавишы. Внутри есть пасхалки, которые случайно нашел. \nЗапись делается в один заход с лупером. Позже попробую выложить видео с первыми заходами =) \n\n#looper #piano #guitar",
+    "caption_original": "Наконец-то начал заниматься теорией и делаеть заходы на клавишы. Внутри есть пасхалки, которые случайно нашел. \nЗапись делается в один заход с лупером. Позже попробую выложить видео с первыми заходами =) \n\n#looper #piano #guitar",
+    "tags": [
+      "looper",
+      "piano",
+      "guitar"
+    ],
+    "published_at": "2021-06-10T21:36:30Z",
+    "duration_seconds": 231.7845,
+    "file": "content/audio/13.mp3",
+    "mime_type": "audio/mpeg",
+    "size_bytes": 5566924,
+    "telegram_url": "https://t.me/records_live4dev/13",
+    "original_filename": "Знакомство_с_тональностью_Em_и_клавишами.mp3",
+    "expected_size_bytes": 5566924,
+    "telegram_mime_type": "audio/mpeg3",
+    "metadata_file": "content/audio/13.json",
+    "caption_file": "content/audio/13.txt",
+    "telegram_document_id": 5339168128779685400,
+    "grouped_id": null,
+    "caption_source_message_id": 13,
+    "edited_at": "2022-10-30T16:18:33Z",
+    "audio_origin": "original",
+    "availability": "local"
+  },
   "caption_original": "Наконец-то начал заниматься теорией и делаеть заходы на клавишы. Внутри есть пасхалки, которые случайно нашел. \nЗапись делается в один заход с лупером. Позже попробую выложить видео с первыми заходами =) \n\n#looper #piano #guitar",
+  "caption_effective": "Наконец-то начал заниматься теорией и делаеть заходы на клавишы. Внутри есть пасхалки, которые случайно нашел. \nЗапись делается в один заход с лупером. Позже попробую выложить видео с первыми заходами =) \n\n#looper #piano #guitar",
+  "message_caption_original": "Наконец-то начал заниматься теорией и делаеть заходы на клавишы. Внутри есть пасхалки, которые случайно нашел. \nЗапись делается в один заход с лупером. Позже попробую выложить видео с первыми заходами =) \n\n#looper #piano #guitar",
   "caption_source_message_id": 13,
-  "tags": [
-    "looper",
-    "piano",
-    "guitar"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 206,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 214,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 221,
+      "length": 7
+    }
   ],
-  "published_at": "2021-06-10T21:36:30Z",
-  "duration_seconds": 231,
-  "file": null,
-  "mime_type": "audio/mpeg3",
-  "size_bytes": 5566924,
-  "telegram_url": "https://t.me/records_live4dev/13",
-  "channel": "records_live4dev",
-  "message_id": 13,
-  "availability": "pending",
-  "original_filename": "Знакомство_с_тональностью_Em_и_клавишами.mp3",
-  "expected_size_bytes": 5566924,
-  "telegram_mime_type": "audio/mpeg3",
-  "metadata_file": "content/audio/13.json",
-  "caption_file": "content/audio/13.txt",
-  "telegram_metadata": "ID: 13 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-06-10 21:36:30+00:00 | 📎 audio, edited | views:278, forwards:2",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 206,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 214,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 221,
+      "length": 7
+    }
+  ],
+  "date": "2021-06-10T21:36:30Z",
+  "edit_date": "2022-10-30T16:18:33Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 231,
+      "voice": false,
+      "title": null,
+      "performer": null,
+      "waveform": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Знакомство_с_тональностью_Em_и_клавишами.mp3"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 13,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-06-10T21:36:30Z",
+    "message": "Наконец-то начал заниматься теорией и делаеть заходы на клавишы. Внутри есть пасхалки, которые случайно нашел. \nЗапись делается в один заход с лупером. Позже попробую выложить видео с первыми заходами =) \n\n#looper #piano #guitar",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5339168128779685400,
+        "access_hash": -3364073267343020454,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAANat91DJTPrxOUHsBl9Q9G0Gqagls="
+        },
+        "date": "2021-06-10T21:36:30Z",
+        "mime_type": "audio/mpeg3",
+        "size": 5566924,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 231,
+            "voice": false,
+            "title": null,
+            "performer": null,
+            "waveform": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Знакомство_с_тональностью_Em_и_клавишами.mp3"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 206,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 214,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 221,
+        "length": 7
+      }
+    ],
+    "views": 278,
+    "forwards": 2,
+    "replies": null,
+    "edit_date": "2022-10-30T16:18:33Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

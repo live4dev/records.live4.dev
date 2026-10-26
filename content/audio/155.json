@@ -1,27 +1,171 @@
 {
-  "id": "records_live4dev:155",
-  "kind": "audio",
-  "title": "Аудиозапись 155",
-  "description": "",
+  "record": {
+    "id": "records_live4dev:155",
+    "channel": "records_live4dev",
+    "message_id": 155,
+    "kind": "audio",
+    "title": "Данил Все мысли о тебе Макс ИвАнов",
+    "description": "",
+    "caption_original": "",
+    "tags": [],
+    "published_at": "2024-01-27T16:48:27Z",
+    "duration_seconds": 185.769333,
+    "file": "content/audio/155.mp3",
+    "mime_type": "audio/mpeg",
+    "size_bytes": 2973558,
+    "telegram_url": "https://t.me/records_live4dev/155",
+    "original_filename": "Данил_Все_мысли_о_тебе_Макс_ИвАнов.mp3",
+    "expected_size_bytes": 2973558,
+    "telegram_mime_type": "audio/mpeg",
+    "metadata_file": "content/audio/155.json",
+    "caption_file": "content/audio/155.txt",
+    "telegram_document_id": 5307716912199779374,
+    "grouped_id": null,
+    "caption_source_message_id": 155,
+    "edited_at": "2024-01-27T16:51:54Z",
+    "audio_origin": "original",
+    "availability": "local"
+  },
   "caption_original": "",
+  "caption_effective": "",
+  "message_caption_original": "",
   "caption_source_message_id": 155,
-  "tags": [],
-  "published_at": "2024-01-27T16:48:27Z",
-  "duration_seconds": 185,
-  "file": null,
-  "mime_type": "audio/mpeg",
-  "size_bytes": 2973558,
-  "telegram_url": "https://t.me/records_live4dev/155",
-  "channel": "records_live4dev",
-  "message_id": 155,
-  "availability": "pending",
-  "original_filename": "Данил_Все_мысли_о_тебе_Макс_ИвАнов.mp3",
-  "expected_size_bytes": 2973558,
-  "telegram_mime_type": "audio/mpeg",
-  "metadata_file": "content/audio/155.json",
-  "caption_file": "content/audio/155.txt",
-  "telegram_metadata": "ID: 155 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2024-01-27 16:48:27+00:00 | 📎 audio, edited | views:548, forwards:0, reactions:8",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [],
+  "caption_entities": [],
+  "date": "2024-01-27T16:48:27Z",
+  "edit_date": "2024-01-27T16:51:54Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 185,
+      "voice": false,
+      "title": null,
+      "performer": null,
+      "waveform": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Данил_Все_мысли_о_тебе_Макс_ИвАнов.mp3"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 155,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2024-01-27T16:48:27Z",
+    "message": "",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5307716912199779374,
+        "access_hash": 2363371597332065901,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACbat91C0Ugp0p+nZyfNMEWo7wSJRg="
+        },
+        "date": "2024-01-27T16:48:27Z",
+        "mime_type": "audio/mpeg",
+        "size": 2973558,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 185,
+            "voice": false,
+            "title": null,
+            "performer": null,
+            "waveform": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Данил_Все_мысли_о_тебе_Макс_ИвАнов.mp3"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 549,
+    "forwards": 0,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 0,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [],
+      "channel_id": 1290562209,
+      "max_id": null,
+      "read_max_id": null
+    },
+    "edit_date": "2024-01-27T16:51:54Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5325850195404005217
+          },
+          "count": 8,
+          "chosen_order": 0
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

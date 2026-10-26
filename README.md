@@ -65,8 +65,8 @@ python tools/create_telegram_session.py
 являются секретами; не добавляйте их в Git и не публикуйте в файлах сайта.
 
 ```bash
-python tools/telegram_import.py --full-history
-python tools/telegram_import.py --refresh
+python tools/telegram_import.py --full-history --audio-only --min-duration-seconds 60
+python tools/telegram_import.py --refresh --audio-only --min-duration-seconds 60
 python tools/telegram_import.py --dry-run
 ```
 
@@ -97,13 +97,16 @@ python tools/telegram_import.py --dry-run
 
 ```bash
 python3 tools/telegram_desktop_import.py content/telegram-export/result.json
+python3 tools/telegram_desktop_import.py content/telegram-export/result.json --audio-only --min-duration-seconds 60
 ```
 
 Импорт сверяет канал, идентификаторы сообщений и размеры оригиналов, сохраняет
 подписи и создаёт аудиоверсии и постеры. По умолчанию исходники перемещаются
 из экспорта в архив, чтобы не хранить две копии больших видео. Добавьте `--copy`,
 если нужно оставить исходный экспорт целиком. `--dry-run` проверяет доступность
-файлов без изменений. Экспорт из другого канала отклоняется.
+файлов без изменений. `--audio-only --min-duration-seconds 60` ограничивает
+импорт самостоятельными аудиозаписями строго длиннее одной минуты, не удаляя
+остальную сохранённую историю канала. Экспорт из другого канала отклоняется.
 
 ## Проверки
 

@@ -1,31 +1,196 @@
 {
-  "id": "records_live4dev:21",
-  "kind": "audio",
-  "title": "Ну и пока мы тут с Димоном подзастряли в больнице есть время разобрать записи. На лупере есть классная фича разворачивающая запись. Так ч…",
-  "description": "Ну и пока мы тут с Димоном подзастряли в больнице есть время разобрать записи. На лупере есть классная фича разворачивающая запись. Так что если записать перкуссию, развернуть ее и дальше добавить гитару, то может получится что-то подобное.\n\n#looper #reverse #guitar",
+  "record": {
+    "id": "records_live4dev:21",
+    "channel": "records_live4dev",
+    "message_id": 21,
+    "kind": "audio",
+    "title": "Ну и пока мы тут с Димоном подзастряли в больнице есть время разобрать записи. На лупере есть классная фича разворачивающая запись. Так что…",
+    "description": "Ну и пока мы тут с Димоном подзастряли в больнице есть время разобрать записи. На лупере есть классная фича разворачивающая запись. Так что если записать перкуссию, развернуть ее и дальше добавить гитару, то может получится что-то подобное.\n\n#looper #reverse #guitar",
+    "caption_original": "Ну и пока мы тут с Димоном подзастряли в больнице есть время разобрать записи. На лупере есть классная фича разворачивающая запись. Так что если записать перкуссию, развернуть ее и дальше добавить гитару, то может получится что-то подобное.\n\n#looper #reverse #guitar",
+    "tags": [
+      "looper",
+      "reverse",
+      "guitar"
+    ],
+    "published_at": "2021-07-26T10:18:21Z",
+    "duration_seconds": 107.049813,
+    "file": "content/audio/21.mp3",
+    "mime_type": "audio/mpeg",
+    "size_bytes": 3429690,
+    "telegram_url": "https://t.me/records_live4dev/21",
+    "original_filename": "Reverse Game Processed.mp3",
+    "expected_size_bytes": 3429690,
+    "telegram_mime_type": "audio/mpeg3",
+    "metadata_file": "content/audio/21.json",
+    "caption_file": "content/audio/21.txt",
+    "telegram_document_id": 5341683686829984743,
+    "grouped_id": null,
+    "caption_source_message_id": 21,
+    "edited_at": "2021-07-26T10:31:02Z",
+    "audio_origin": "original",
+    "availability": "local"
+  },
   "caption_original": "Ну и пока мы тут с Димоном подзастряли в больнице есть время разобрать записи. На лупере есть классная фича разворачивающая запись. Так что если записать перкуссию, развернуть ее и дальше добавить гитару, то может получится что-то подобное.\n\n#looper #reverse #guitar",
+  "caption_effective": "Ну и пока мы тут с Димоном подзастряли в больнице есть время разобрать записи. На лупере есть классная фича разворачивающая запись. Так что если записать перкуссию, развернуть ее и дальше добавить гитару, то может получится что-то подобное.\n\n#looper #reverse #guitar",
+  "message_caption_original": "Ну и пока мы тут с Димоном подзастряли в больнице есть время разобрать записи. На лупере есть классная фича разворачивающая запись. Так что если записать перкуссию, развернуть ее и дальше добавить гитару, то может получится что-то подобное.\n\n#looper #reverse #guitar",
   "caption_source_message_id": 21,
-  "tags": [
-    "looper",
-    "reverse",
-    "guitar"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 242,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 250,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 259,
+      "length": 7
+    }
   ],
-  "published_at": "2021-07-26T10:18:21Z",
-  "duration_seconds": 107,
-  "file": null,
-  "mime_type": "audio/mpeg3",
-  "size_bytes": 3429690,
-  "telegram_url": "https://t.me/records_live4dev/21",
-  "channel": "records_live4dev",
-  "message_id": 21,
-  "availability": "pending",
-  "original_filename": "Reverse Game Processed.mp3",
-  "expected_size_bytes": 3429690,
-  "telegram_mime_type": "audio/mpeg3",
-  "metadata_file": "content/audio/21.json",
-  "caption_file": "content/audio/21.txt",
-  "telegram_metadata": "ID: 21 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-07-26 10:18:21+00:00 | 📎 audio, edited | views:296, forwards:1",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 242,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 250,
+      "length": 8
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 259,
+      "length": 7
+    }
+  ],
+  "date": "2021-07-26T10:18:21Z",
+  "edit_date": "2021-07-26T10:31:02Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 107,
+      "voice": false,
+      "title": null,
+      "performer": null,
+      "waveform": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Reverse Game Processed.mp3"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 21,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-07-26T10:18:21Z",
+    "message": "Ну и пока мы тут с Димоном подзастряли в больнице есть время разобрать записи. На лупере есть классная фича разворачивающая запись. Так что если записать перкуссию, развернуть ее и дальше добавить гитару, то может получится что-то подобное.\n\n#looper #reverse #guitar",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5341683686829984743,
+        "access_hash": -3723662346422223557,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAVat91DOgdQfG1qrM4bIW+j8ronnQ="
+        },
+        "date": "2021-03-06T06:19:14Z",
+        "mime_type": "audio/mpeg3",
+        "size": 3429690,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 107,
+            "voice": false,
+            "title": null,
+            "performer": null,
+            "waveform": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Reverse Game Processed.mp3"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 242,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 250,
+        "length": 8
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 259,
+        "length": 7
+      }
+    ],
+    "views": 296,
+    "forwards": 1,
+    "replies": null,
+    "edit_date": "2021-07-26T10:31:02Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

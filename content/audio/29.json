@@ -1,31 +1,218 @@
 {
-  "id": "records_live4dev:29",
-  "kind": "audio",
-  "title": "Fighting for a lost cause ",
-  "description": "Накидал черновик кавера \"Fighting for a lost cause\".\n\n#guitar #voice #draft",
+  "record": {
+    "id": "records_live4dev:29",
+    "channel": "records_live4dev",
+    "message_id": 29,
+    "kind": "audio",
+    "title": "Накидал черновик кавера \"Fighting for a lost cause\".",
+    "description": "Накидал черновик кавера \"Fighting for a lost cause\".\n\n#guitar #voice #draft",
+    "caption_original": "Накидал черновик кавера \"Fighting for a lost cause\".\n\n#guitar #voice #draft",
+    "tags": [
+      "guitar",
+      "voice",
+      "draft"
+    ],
+    "published_at": "2021-08-10T06:21:29Z",
+    "duration_seconds": 254.955102,
+    "file": "content/audio/29.m4a",
+    "mime_type": "audio/m4a",
+    "size_bytes": 4110786,
+    "telegram_url": "https://t.me/records_live4dev/29",
+    "original_filename": "Fighting for a lost cause.m4a",
+    "expected_size_bytes": 4110786,
+    "telegram_mime_type": "audio/mp4",
+    "metadata_file": "content/audio/29.json",
+    "caption_file": "content/audio/29.txt",
+    "telegram_document_id": 5231033311966532902,
+    "grouped_id": null,
+    "caption_source_message_id": 29,
+    "edited_at": "2021-08-10T06:32:08Z",
+    "audio_origin": "original",
+    "availability": "local"
+  },
   "caption_original": "Накидал черновик кавера \"Fighting for a lost cause\".\n\n#guitar #voice #draft",
+  "caption_effective": "Накидал черновик кавера \"Fighting for a lost cause\".\n\n#guitar #voice #draft",
+  "message_caption_original": "Накидал черновик кавера \"Fighting for a lost cause\".\n\n#guitar #voice #draft",
   "caption_source_message_id": 29,
-  "tags": [
-    "guitar",
-    "voice",
-    "draft"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 54,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 62,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 69,
+      "length": 6
+    }
   ],
-  "published_at": "2021-08-10T06:21:29Z",
-  "duration_seconds": 254,
-  "file": null,
-  "mime_type": "audio/mp4",
-  "size_bytes": 4110786,
-  "telegram_url": "https://t.me/records_live4dev/29",
-  "channel": "records_live4dev",
-  "message_id": 29,
-  "availability": "pending",
-  "original_filename": "Fighting for a lost cause.m4a",
-  "expected_size_bytes": 4110786,
-  "telegram_mime_type": "audio/mp4",
-  "metadata_file": "content/audio/29.json",
-  "caption_file": "content/audio/29.txt",
-  "telegram_metadata": "ID: 29 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-08-10 06:21:29+00:00 | 📎 audio, edited | views:287, forwards:3",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 54,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 62,
+      "length": 6
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 69,
+      "length": 6
+    }
+  ],
+  "date": "2021-08-10T06:21:29Z",
+  "edit_date": "2021-08-10T06:32:08Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 254,
+      "voice": false,
+      "title": "Fighting for a lost cause ",
+      "performer": null,
+      "waveform": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Fighting for a lost cause.m4a"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 29,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-08-10T06:21:29Z",
+    "message": "Накидал черновик кавера \"Fighting for a lost cause\".\n\n#guitar #voice #draft",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5231033311966532902,
+        "access_hash": 6129842852021189746,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAdat91DBJ8EIHgbYI01zVeGMSCWSE="
+        },
+        "date": "2021-08-10T06:21:29Z",
+        "mime_type": "audio/mp4",
+        "size": 4110786,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 254,
+            "voice": false,
+            "title": "Fighting for a lost cause ",
+            "performer": null,
+            "waveform": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Fighting for a lost cause.m4a"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 54,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 62,
+        "length": 6
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 69,
+        "length": 6
+      }
+    ],
+    "views": 287,
+    "forwards": 3,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 3,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 1140682525
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 180650450
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 25,
+      "read_max_id": null
+    },
+    "edit_date": "2021-08-10T06:32:08Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

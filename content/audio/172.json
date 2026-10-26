@@ -1,27 +1,176 @@
 {
-  "id": "records_live4dev:172",
-  "kind": "audio",
-  "title": "Разбудить океан",
-  "description": "",
+  "record": {
+    "id": "records_live4dev:172",
+    "channel": "records_live4dev",
+    "message_id": 172,
+    "kind": "audio",
+    "title": "Данил — Разбудить океан",
+    "description": "",
+    "caption_original": "",
+    "tags": [],
+    "published_at": "2024-05-05T19:42:01Z",
+    "duration_seconds": 159.056689,
+    "file": "content/audio/172.m4a",
+    "mime_type": "audio/m4a",
+    "size_bytes": 5162775,
+    "telegram_url": "https://t.me/records_live4dev/172",
+    "original_filename": "Разбудить океан.m4a",
+    "expected_size_bytes": 5162775,
+    "telegram_mime_type": "audio/mp4",
+    "metadata_file": "content/audio/172.json",
+    "caption_file": "content/audio/172.txt",
+    "telegram_document_id": 5314293022526033977,
+    "grouped_id": null,
+    "caption_source_message_id": 172,
+    "edited_at": "2024-05-08T05:47:20Z",
+    "audio_origin": "original",
+    "availability": "local"
+  },
   "caption_original": "",
+  "caption_effective": "",
+  "message_caption_original": "",
   "caption_source_message_id": 172,
-  "tags": [],
-  "published_at": "2024-05-05T19:42:01Z",
-  "duration_seconds": 159,
-  "file": null,
-  "mime_type": "audio/mp4",
-  "size_bytes": 5162775,
-  "telegram_url": "https://t.me/records_live4dev/172",
-  "channel": "records_live4dev",
-  "message_id": 172,
-  "availability": "pending",
-  "original_filename": "Разбудить океан.m4a",
-  "expected_size_bytes": 5162775,
-  "telegram_mime_type": "audio/mp4",
-  "metadata_file": "content/audio/172.json",
-  "caption_file": "content/audio/172.txt",
-  "telegram_metadata": "ID: 172 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2024-05-05 19:42:01+00:00 | 📎 audio, edited | views:2565, forwards:3, reactions:3",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [],
+  "caption_entities": [],
+  "date": "2024-05-05T19:42:01Z",
+  "edit_date": "2024-05-08T05:47:20Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 159,
+      "voice": false,
+      "title": "Разбудить океан",
+      "performer": "Данил",
+      "waveform": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Разбудить океан.m4a"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 172,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2024-05-05T19:42:01Z",
+    "message": "",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5314293022526033977,
+        "access_hash": -9197027056061916383,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACsat91C61BrR0qRS2MUmyp59OyaOc="
+        },
+        "date": "2024-05-05T19:42:01Z",
+        "mime_type": "audio/mp4",
+        "size": 5162775,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 159,
+            "voice": false,
+            "title": "Разбудить океан",
+            "performer": "Данил",
+            "waveform": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Разбудить океан.m4a"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 2565,
+    "forwards": 3,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 1,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 258406883
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 810,
+      "read_max_id": null
+    },
+    "edit_date": "2024-05-08T05:47:20Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 3,
+          "chosen_order": 0
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

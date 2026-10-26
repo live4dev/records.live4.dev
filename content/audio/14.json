@@ -1,30 +1,180 @@
 {
-  "id": "records_live4dev:14",
-  "kind": "audio",
-  "title": "Любовь к кавер версиям песен началась, кажется, именно с этой песни. Когда тебя в очередной раз просят сыграть Арию, невольно начинаешь и…",
-  "description": "Любовь к кавер версиям песен началась, кажется, именно с этой песни. Когда тебя в очередной раз просят сыграть Арию, невольно начинаешь искать новые варианты и понемного издеваться. Когда нибудь здесь обязательно будет версия более похожая на оригинал  и возможно даже с парой гитар и скрипкой.\n\n#looper #guitar",
+  "record": {
+    "id": "records_live4dev:14",
+    "channel": "records_live4dev",
+    "message_id": 14,
+    "kind": "audio",
+    "title": "Любовь к кавер версиям песен началась, кажется, именно с этой песни. Когда тебя в очередной раз просят сыграть Арию, невольно начинаешь иск…",
+    "description": "Любовь к кавер версиям песен началась, кажется, именно с этой песни. Когда тебя в очередной раз просят сыграть Арию, невольно начинаешь искать новые варианты и понемного издеваться. Когда нибудь здесь обязательно будет версия более похожая на оригинал  и возможно даже с парой гитар и скрипкой.\n\n#looper #guitar",
+    "caption_original": "Любовь к кавер версиям песен началась, кажется, именно с этой песни. Когда тебя в очередной раз просят сыграть Арию, невольно начинаешь искать новые варианты и понемного издеваться. Когда нибудь здесь обязательно будет версия более похожая на оригинал  и возможно даже с парой гитар и скрипкой.\n\n#looper #guitar",
+    "tags": [
+      "looper",
+      "guitar"
+    ],
+    "published_at": "2021-06-15T11:11:56Z",
+    "duration_seconds": 224.470208,
+    "file": "content/audio/14.mp3",
+    "mime_type": "audio/mpeg",
+    "size_bytes": 5391381,
+    "telegram_url": "https://t.me/records_live4dev/14",
+    "original_filename": "Данил - Засыпай (Ария).mp3",
+    "expected_size_bytes": 5391381,
+    "telegram_mime_type": "audio/mpeg3",
+    "metadata_file": "content/audio/14.json",
+    "caption_file": "content/audio/14.txt",
+    "telegram_document_id": 5348422181279763958,
+    "grouped_id": null,
+    "caption_source_message_id": 14,
+    "edited_at": "2022-10-30T16:18:42Z",
+    "audio_origin": "original",
+    "availability": "local"
+  },
   "caption_original": "Любовь к кавер версиям песен началась, кажется, именно с этой песни. Когда тебя в очередной раз просят сыграть Арию, невольно начинаешь искать новые варианты и понемного издеваться. Когда нибудь здесь обязательно будет версия более похожая на оригинал  и возможно даже с парой гитар и скрипкой.\n\n#looper #guitar",
+  "caption_effective": "Любовь к кавер версиям песен началась, кажется, именно с этой песни. Когда тебя в очередной раз просят сыграть Арию, невольно начинаешь искать новые варианты и понемного издеваться. Когда нибудь здесь обязательно будет версия более похожая на оригинал  и возможно даже с парой гитар и скрипкой.\n\n#looper #guitar",
+  "message_caption_original": "Любовь к кавер версиям песен началась, кажется, именно с этой песни. Когда тебя в очередной раз просят сыграть Арию, невольно начинаешь искать новые варианты и понемного издеваться. Когда нибудь здесь обязательно будет версия более похожая на оригинал  и возможно даже с парой гитар и скрипкой.\n\n#looper #guitar",
   "caption_source_message_id": 14,
-  "tags": [
-    "looper",
-    "guitar"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 296,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 304,
+      "length": 7
+    }
   ],
-  "published_at": "2021-06-15T11:11:56Z",
-  "duration_seconds": 224,
-  "file": null,
-  "mime_type": "audio/mpeg3",
-  "size_bytes": 5391381,
-  "telegram_url": "https://t.me/records_live4dev/14",
-  "channel": "records_live4dev",
-  "message_id": 14,
-  "availability": "pending",
-  "original_filename": "Данил - Засыпай (Ария).mp3",
-  "expected_size_bytes": 5391381,
-  "telegram_mime_type": "audio/mpeg3",
-  "metadata_file": "content/audio/14.json",
-  "caption_file": "content/audio/14.txt",
-  "telegram_metadata": "ID: 14 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-06-15 11:11:56+00:00 | 📎 audio, edited | views:270, forwards:3",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 296,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 304,
+      "length": 7
+    }
+  ],
+  "date": "2021-06-15T11:11:56Z",
+  "edit_date": "2022-10-30T16:18:42Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 224,
+      "voice": false,
+      "title": null,
+      "performer": null,
+      "waveform": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Данил - Засыпай (Ария).mp3"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 14,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-06-15T11:11:56Z",
+    "message": "Любовь к кавер версиям песен началась, кажется, именно с этой песни. Когда тебя в очередной раз просят сыграть Арию, невольно начинаешь искать новые варианты и понемного издеваться. Когда нибудь здесь обязательно будет версия более похожая на оригинал  и возможно даже с парой гитар и скрипкой.\n\n#looper #guitar",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5348422181279763958,
+        "access_hash": -1045404693212876914,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAOat91DM7O9+mLxDVT2gUeG11gQLU="
+        },
+        "date": "2021-06-13T20:05:18Z",
+        "mime_type": "audio/mpeg3",
+        "size": 5391381,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 224,
+            "voice": false,
+            "title": null,
+            "performer": null,
+            "waveform": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Данил - Засыпай (Ария).mp3"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 296,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 304,
+        "length": 7
+      }
+    ],
+    "views": 270,
+    "forwards": 3,
+    "replies": null,
+    "edit_date": "2022-10-30T16:18:42Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

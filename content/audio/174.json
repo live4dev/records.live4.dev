@@ -1,27 +1,244 @@
 {
-  "id": "records_live4dev:174",
-  "kind": "audio",
-  "title": "В момент когда записывал мелодию очень хотел добавить виолончель, и даже внезапно на майские праздники ко мне попала электровиолончель, н…",
-  "description": "В момент когда записывал мелодию очень хотел добавить виолончель, и даже внезапно на майские праздники ко мне попала электровиолончель, начал потихоньку учиться и подбирать, но понял что это займет много времени 😅 и тут на помощь пришел @savventurion и вот что получилось.\n\nА в комментах смешная фотка той самой виолончели ))\n\n@records_live4dev",
+  "record": {
+    "id": "records_live4dev:174",
+    "channel": "records_live4dev",
+    "message_id": 174,
+    "kind": "audio",
+    "title": "В момент когда записывал мелодию очень хотел добавить виолончель, и даже внезапно на майские праздники ко мне попала электровиолончель, нач…",
+    "description": "В момент когда записывал мелодию очень хотел добавить виолончель, и даже внезапно на майские праздники ко мне попала электровиолончель, начал потихоньку учиться и подбирать, но понял что это займет много времени 😅 и тут на помощь пришел @savventurion и вот что получилось.\n\nА в комментах смешная фотка той самой виолончели ))\n\n@records_live4dev",
+    "caption_original": "В момент когда записывал мелодию очень хотел добавить виолончель, и даже внезапно на майские праздники ко мне попала электровиолончель, начал потихоньку учиться и подбирать, но понял что это займет много времени 😅 и тут на помощь пришел @savventurion и вот что получилось.\n\nА в комментах смешная фотка той самой виолончели ))\n\n@records_live4dev",
+    "tags": [],
+    "published_at": "2024-05-08T16:43:31Z",
+    "duration_seconds": 153.034762,
+    "file": "content/audio/174.mp3",
+    "mime_type": "audio/mpeg",
+    "size_bytes": 6124146,
+    "telegram_url": "https://t.me/records_live4dev/174",
+    "original_filename": "Разбудить океан.mp3",
+    "expected_size_bytes": 6124146,
+    "telegram_mime_type": "audio/mpeg",
+    "metadata_file": "content/audio/174.json",
+    "caption_file": "content/audio/174.txt",
+    "telegram_document_id": 5323585437674000934,
+    "grouped_id": null,
+    "caption_source_message_id": 174,
+    "edited_at": "2024-05-15T12:16:58Z",
+    "audio_origin": "original",
+    "availability": "local"
+  },
   "caption_original": "В момент когда записывал мелодию очень хотел добавить виолончель, и даже внезапно на майские праздники ко мне попала электровиолончель, начал потихоньку учиться и подбирать, но понял что это займет много времени 😅 и тут на помощь пришел @savventurion и вот что получилось.\n\nА в комментах смешная фотка той самой виолончели ))\n\n@records_live4dev",
+  "caption_effective": "В момент когда записывал мелодию очень хотел добавить виолончель, и даже внезапно на майские праздники ко мне попала электровиолончель, начал потихоньку учиться и подбирать, но понял что это займет много времени 😅 и тут на помощь пришел @savventurion и вот что получилось.\n\nА в комментах смешная фотка той самой виолончели ))\n\n@records_live4dev",
+  "message_caption_original": "В момент когда записывал мелодию очень хотел добавить виолончель, и даже внезапно на майские праздники ко мне попала электровиолончель, начал потихоньку учиться и подбирать, но понял что это займет много времени 😅 и тут на помощь пришел @savventurion и вот что получилось.\n\nА в комментах смешная фотка той самой виолончели ))\n\n@records_live4dev",
   "caption_source_message_id": 174,
-  "tags": [],
-  "published_at": "2024-05-08T16:43:31Z",
-  "duration_seconds": 153,
-  "file": null,
-  "mime_type": "audio/mpeg",
-  "size_bytes": 6124146,
-  "telegram_url": "https://t.me/records_live4dev/174",
-  "channel": "records_live4dev",
-  "message_id": 174,
-  "availability": "pending",
-  "original_filename": "Разбудить океан.mp3",
-  "expected_size_bytes": 6124146,
-  "telegram_mime_type": "audio/mpeg",
-  "metadata_file": "content/audio/174.json",
-  "caption_file": "content/audio/174.txt",
-  "telegram_metadata": "ID: 174 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2024-05-08 16:43:31+00:00 | 📎 audio, edited | views:3731, forwards:9, reactions:19",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 238,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 328,
+      "length": 17
+    }
+  ],
+  "caption_entities": [
+    {
+      "_": "MessageEntityMention",
+      "offset": 238,
+      "length": 13
+    },
+    {
+      "_": "MessageEntityMention",
+      "offset": 328,
+      "length": 17
+    }
+  ],
+  "date": "2024-05-08T16:43:31Z",
+  "edit_date": "2024-05-15T12:16:58Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 153,
+      "voice": false,
+      "title": null,
+      "performer": null,
+      "waveform": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Разбудить океан.mp3"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 174,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2024-05-08T16:43:31Z",
+    "message": "В момент когда записывал мелодию очень хотел добавить виолончель, и даже внезапно на майские праздники ко мне попала электровиолончель, начал потихоньку учиться и подбирать, но понял что это займет много времени 😅 и тут на помощь пришел @savventurion и вот что получилось.\n\nА в комментах смешная фотка той самой виолончели ))\n\n@records_live4dev",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5323585437674000934,
+        "access_hash": 603696870109330069,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACuat91CwuxRCnq4THJGSK0wPD/rQE="
+        },
+        "date": "2024-05-08T16:43:31Z",
+        "mime_type": "audio/mpeg",
+        "size": 6124146,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 153,
+            "voice": false,
+            "title": null,
+            "performer": null,
+            "waveform": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Разбудить океан.mp3"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityMention",
+        "offset": 238,
+        "length": 13
+      },
+      {
+        "_": "MessageEntityMention",
+        "offset": 328,
+        "length": 17
+      }
+    ],
+    "views": 3732,
+    "forwards": 9,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 6,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerUser",
+          "user_id": 132982472
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 226090226
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 181351251
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 808,
+      "read_max_id": null
+    },
+    "edit_date": "2024-05-15T12:16:58Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "🔥"
+          },
+          "count": 12,
+          "chosen_order": 0
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 3,
+          "chosen_order": 2
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5325850195404005217
+          },
+          "count": 3,
+          "chosen_order": 1
+        },
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "👍"
+          },
+          "count": 1,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

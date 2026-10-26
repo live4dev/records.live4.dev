@@ -1,27 +1,167 @@
 {
-  "id": "records_live4dev:26",
-  "kind": "audio",
-  "title": "Аудиозапись 26",
-  "description": "",
+  "record": {
+    "id": "records_live4dev:26",
+    "channel": "records_live4dev",
+    "message_id": 26,
+    "kind": "audio",
+    "title": "Данил и Юля Одиночество Бродский",
+    "description": "",
+    "caption_original": "",
+    "tags": [],
+    "published_at": "2021-08-02T10:56:34Z",
+    "duration_seconds": 141.81,
+    "file": "content/audio/26.mp3",
+    "mime_type": "audio/mpeg",
+    "size_bytes": 2270061,
+    "telegram_url": "https://t.me/records_live4dev/26",
+    "original_filename": "Данил_и_Юля_Одиночество_Бродский.mp3",
+    "expected_size_bytes": 2270061,
+    "telegram_mime_type": "audio/mpeg",
+    "metadata_file": "content/audio/26.json",
+    "caption_file": "content/audio/26.txt",
+    "telegram_document_id": 5206495738602720747,
+    "grouped_id": null,
+    "caption_source_message_id": 26,
+    "audio_origin": "original",
+    "availability": "local"
+  },
   "caption_original": "",
+  "caption_effective": "",
+  "message_caption_original": "",
   "caption_source_message_id": 26,
-  "tags": [],
-  "published_at": "2021-08-02T10:56:34Z",
-  "duration_seconds": 141,
-  "file": null,
-  "mime_type": "audio/mpeg",
-  "size_bytes": 2270061,
-  "telegram_url": "https://t.me/records_live4dev/26",
-  "channel": "records_live4dev",
-  "message_id": 26,
-  "availability": "pending",
-  "original_filename": "Данил_и_Юля_Одиночество_Бродский.mp3",
-  "expected_size_bytes": 2270061,
-  "telegram_mime_type": "audio/mpeg",
-  "metadata_file": "content/audio/26.json",
-  "caption_file": "content/audio/26.txt",
-  "telegram_metadata": "ID: 26 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-08-02 10:56:34+00:00 | 📎 audio | views:264, forwards:1",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [],
+  "caption_entities": [],
+  "date": "2021-08-02T10:56:34Z",
+  "edit_date": null,
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 141,
+      "voice": false,
+      "title": null,
+      "performer": null,
+      "waveform": {
+        "encoding": "base64",
+        "data": "iBiFjkEnTjkfrjSqa2N0sEKr2axR2hZfjTHKd19TI6G11ErorH8ffFU+ldZpaS2UmqLzwOWkGugcg84x5YwA"
+      }
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Данил_и_Юля_Одиночество_Бродский.mp3"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 26,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-08-02T10:56:34Z",
+    "message": "",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5206495738602720747,
+        "access_hash": 5969495815261303967,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAaat91DB5gtB2LdF4yawFmnTrL2Xk="
+        },
+        "date": "2021-08-02T08:58:41Z",
+        "mime_type": "audio/mpeg",
+        "size": 2270061,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 141,
+            "voice": false,
+            "title": null,
+            "performer": null,
+            "waveform": {
+              "encoding": "base64",
+              "data": "iBiFjkEnTjkfrjSqa2N0sEKr2axR2hZfjTHKd19TI6G11ErorH8ffFU+ldZpaS2UmqLzwOWkGugcg84x5YwA"
+            }
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Данил_и_Юля_Одиночество_Бродский.mp3"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 264,
+    "forwards": 1,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 2,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [
+        {
+          "_": "PeerChannel",
+          "channel_id": 1290562209
+        },
+        {
+          "_": "PeerUser",
+          "user_id": 180650450
+        }
+      ],
+      "channel_id": 1290562209,
+      "max_id": 13,
+      "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

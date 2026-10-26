@@ -28,6 +28,8 @@ DEFAULT_CHANNELS = "records_live4dev"
 VIDEO_SUFFIXES = {".m4v", ".mkv", ".mov", ".mp4", ".webm", ".avi"}
 AUDIO_SUFFIXES = {".aac", ".flac", ".m4a", ".mp3", ".oga", ".ogg", ".opus", ".wav"}
 SUPPORTED_SUFFIXES = VIDEO_SUFFIXES | AUDIO_SUFFIXES
+WEB_AUDIO_TRANSCODE_THRESHOLD_BYTES = 90 * 1024 * 1024
+WEB_AUDIO_BITRATE_KBPS = 112
 LOGGER = logging.getLogger("telegram-import")
 
 
@@ -42,6 +44,8 @@ class Config:
     dry_run: bool
     full_history: bool = False
     refresh: bool = False
+    audio_only: bool = False
+    min_duration_seconds: float = 0
 
     @classmethod
     def from_environment(cls, args: argparse.Namespace) -> "Config":
@@ -61,13 +65,15 @@ class Config:
         return cls(
             api_id=positive_int(required_env("TELEGRAM_API_ID"), "TELEGRAM_API_ID"),
             api_hash=required_env("TELEGRAM_API_HASH"),
-            session=required_env("TELEGRAM_SESSION"),
+            session=(os.getenv("TELEGRAM_SESSION") or required_env("TELEGRAM_SESSION_STRING")).strip(),
             channels=channels,
             history_limit=history_limit,
             max_file_bytes=max_file_mb * 1024 * 1024 if max_file_mb else None,
             dry_run=args.dry_run,
             full_history=getattr(args, "full_history", False),
             refresh=getattr(args, "refresh", False),
+            audio_only=getattr(args, "audio_only", False),
+            min_duration_seconds=max(0, float(getattr(args, "min_duration_seconds", 0) or 0)),
         )
 
 
@@ -155,6 +161,28 @@ def media_kind(message: Any) -> str | None:
             or mime_type.startswith("audio/") or suffix in AUDIO_SUFFIXES):
         return "audio"
     return None
+
+
+def matches_import_scope(kind: str | None, duration_seconds: Any, config: Config) -> bool:
+    """Return whether an original Telegram media item belongs to this import run."""
+    if not kind:
+        return False
+    if config.audio_only and kind != "audio":
+        return False
+    if config.min_duration_seconds:
+        try:
+            duration = float(duration_seconds or 0)
+        except (TypeError, ValueError):
+            return False
+        if not math.isfinite(duration) or duration <= config.min_duration_seconds:
+            return False
+    return True
+
+
+def record_matches_import_scope(record: dict[str, Any], config: Config) -> bool:
+    if record.get("source_video_id"):
+        return False
+    return matches_import_scope(record.get("kind"), record.get("duration_seconds"), config)
 
 
 def clean_text(value: Any, limit: int = 140) -> str:
@@ -312,7 +340,7 @@ async def download_original(client: Any, message: Any, target: Path,
     target.parent.mkdir(parents=True, exist_ok=True)
     unchanged = file_identity_matches(old_record, message)
     if target.is_file() and unchanged and target.stat().st_size > 0:
-        if not expected or target.stat().st_size == expected:
+        if (old_record or {}).get("web_optimized") or not expected or target.stat().st_size == expected:
             return
     legacy = safe_catalog_path((old_record or {}).get("file"))
     if unchanged and legacy and legacy != target and legacy.is_file() and legacy.stat().st_size > 0:
@@ -397,6 +425,24 @@ def extract_audio(video: Path, video_probe: dict[str, Any], output_stem: Path,
     return target, probe
 
 
+def optimize_large_audio(path: Path) -> tuple[Path, bool]:
+    """Keep oversized originals publishable in Git by creating a web MP3."""
+    if path.stat().st_size <= WEB_AUDIO_TRANSCODE_THRESHOLD_BYTES:
+        return path, False
+    target = path.with_suffix(".mp3")
+    temporary = target.with_suffix(".mp3.part")
+    run_media_command([
+        "ffmpeg", "-hide_banner", "-loglevel", "error", "-nostdin", "-y", "-i", str(path),
+        "-map", "0:a:0", "-vn", "-c:a", "libmp3lame", "-b:a", f"{WEB_AUDIO_BITRATE_KBPS}k",
+        "-id3v2_version", "3", "-f", "mp3", str(temporary),
+    ])
+    probe_media(temporary, "audio")
+    temporary.replace(target)
+    if target != path:
+        path.unlink()
+    return target, True
+
+
 def raw_metadata(message: Any, record: dict[str, Any], caption_source: Any) -> dict[str, Any]:
     payload = {
         "record": record, "caption_original": record["caption_original"],
@@ -441,6 +487,10 @@ async def download_record(client: Any, message: Any, channel: str, kind: str,
         return [record]
     unchanged = file_identity_matches(old_record, message)
     await download_original(client, message, target, old_record)
+    web_optimized = bool(unchanged and (old_record or {}).get("web_optimized"))
+    if kind == "audio" and not web_optimized:
+        target, web_optimized = await asyncio.to_thread(optimize_large_audio, target)
+        record["file"] = target.relative_to(ROOT).as_posix()
     try:
         probe = await asyncio.to_thread(probe_media, target, kind)
     except RuntimeError:
@@ -454,6 +504,12 @@ async def download_record(client: Any, message: Any, channel: str, kind: str,
     record["size_bytes"] = target.stat().st_size
     record["mime_type"] = mimetypes.guess_type(target.name)[0] or record["mime_type"]
     record["availability"] = "local"
+    if web_optimized:
+        record.update({
+            "web_optimized": True,
+            "source_size_bytes": int(getattr(getattr(message, "file", None), "size", 0) or 0),
+            "audio_bitrate_kbps": WEB_AUDIO_BITRATE_KBPS,
+        })
     records = [record]
     if kind == "video":
         poster = target.with_suffix(".jpg")
@@ -589,6 +645,7 @@ async def import_channel(client: Any, config: Config, channel: str,
     if not full_scan:
         repair_ids = sorted({int(item["message_id"]) for item in items
                              if item.get("channel") == channel and not item.get("source_video_id")
+                             and record_matches_import_scope(item, config)
                              and needs_repair(item, items_by_id)})
         if repair_ids:
             repaired = await client.get_messages(entity, ids=repair_ids)
@@ -623,7 +680,9 @@ async def import_channel(client: Any, config: Config, channel: str,
             channel_state["oldest_message_id"] = int(messages[0].id)
     for message in messages:
         kind = media_kind(message)
-        if kind:
+        metadata = document_metadata(message) if kind else {}
+        selected = matches_import_scope(kind, metadata.get("duration"), config)
+        if selected:
             try:
                 size = int(getattr(getattr(message, "file", None), "size", 0) or 0)
                 if config.max_file_bytes is not None and size > config.max_file_bytes:
@@ -633,7 +692,7 @@ async def import_channel(client: Any, config: Config, channel: str,
                 if not caption_text(message).strip() and getattr(message, "grouped_id", None) in captions:
                     source = captions[message.grouped_id]
                 records = await download_record(
-                    client, message, channel, kind, document_metadata(message), config.dry_run,
+                    client, message, channel, kind, metadata, config.dry_run,
                     source, items_by_id.get(f"{channel}:{message.id}"),
                 )
                 added += upsert_records(items, records)
@@ -654,7 +713,7 @@ async def import_channel(client: Any, config: Config, channel: str,
             channel_state["last_message_id"] = max(int(channel_state.get("last_message_id", 0)), int(message.id))
             channel_state.pop("failed_message_id", None)
             channel_state.pop("last_error", None)
-            if kind:
+            if selected:
                 channel_state["pending_message_ids"] = [
                     message_id for message_id in channel_state.get("pending_message_ids", [])
                     if int(message_id) != int(message.id)
@@ -667,8 +726,13 @@ async def import_channel(client: Any, config: Config, channel: str,
         final_items_by_id = {str(record.get("id")): record for record in items}
         pending = sorted({int(item["message_id"]) for item in items
                           if item.get("channel") == channel and not item.get("source_video_id")
+                          and record_matches_import_scope(item, config)
                           and needs_repair(item, final_items_by_id)})
         channel_state["pending_message_ids"] = pending
+        channel_state["scope"] = {
+            "audio_only": config.audio_only,
+            "min_duration_seconds": config.min_duration_seconds,
+        }
         channel_state["status"] = "partial" if pending else "complete"
         if full_scan:
             channel_state["archive_complete"] = limit is None and not pending
@@ -738,6 +802,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--dry-run", action="store_true", help="Read Telegram without downloading or writing files")
     parser.add_argument("--full-history", action="store_true", help="Revisit complete history, ignoring history limit/checkpoint")
     parser.add_argument("--refresh", action="store_true", help="Revisit complete history to update edits and repair assets")
+    parser.add_argument("--audio-only", action="store_true", help="Archive original audio messages, not videos")
+    parser.add_argument(
+        "--min-duration-seconds", type=float, default=0, metavar="SECONDS",
+        help="Archive media whose duration is strictly greater than this value",
+    )
     return parser.parse_args()
 
 

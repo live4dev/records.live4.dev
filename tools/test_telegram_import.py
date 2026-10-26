@@ -20,13 +20,24 @@ archive = importlib.util.module_from_spec(SPEC)
 sys.modules[SPEC.name] = archive
 SPEC.loader.exec_module(archive)
 
+DESKTOP_SPEC = importlib.util.spec_from_file_location(
+    "telegram_desktop_import", Path(__file__).with_name("telegram_desktop_import.py")
+)
+desktop = importlib.util.module_from_spec(DESKTOP_SPEC)
+sys.modules[DESKTOP_SPEC.name] = desktop
+DESKTOP_SPEC.loader.exec_module(desktop)
 
-def message(message_id, text="", kind="video", grouped_id=None, size=8):
+
+def message(message_id, text="", kind="video", grouped_id=None, size=8, duration=0):
+    suffix = "mp3" if kind == "audio" else "mp4"
     return SimpleNamespace(
         id=message_id, raw_text=text, date=datetime(2026, 1, 1, tzinfo=timezone.utc),
-        file=SimpleNamespace(mime_type=f"{kind}/mp4", name=f"original-{message_id}.mp4", size=size),
+        file=SimpleNamespace(mime_type=f"{kind}/{suffix}", name=f"original-{message_id}.{suffix}", size=size),
         video=kind == "video", audio=kind == "audio", voice=False,
-        media=f"media-{message_id}", document=SimpleNamespace(id=1000 + message_id, attributes=[]),
+        media=f"media-{message_id}", document=SimpleNamespace(
+            id=1000 + message_id,
+            attributes=[SimpleNamespace(duration=duration)] if duration else [],
+        ),
         grouped_id=grouped_id, entities=[],
     )
 
@@ -82,6 +93,42 @@ class ImportTests(unittest.TestCase):
             args.channels = "mp3_live4dev"
             with self.assertRaisesRegex(ValueError, "only"):
                 archive.Config.from_environment(args)
+
+    def test_desktop_scope_selects_only_long_original_audio(self):
+        items = [
+            {"id": "a", "channel": desktop.CHANNEL, "kind": "audio", "duration_seconds": 61},
+            {"id": "short", "channel": desktop.CHANNEL, "kind": "audio", "duration_seconds": 60},
+            {"id": "video", "channel": desktop.CHANNEL, "kind": "video", "duration_seconds": 90},
+            {"id": "derived", "channel": desktop.CHANNEL, "kind": "audio", "duration_seconds": 90,
+             "audio_origin": "extracted"},
+        ]
+        self.assertEqual(
+            [item["id"] for item in desktop.select_originals(items, audio_only=True,
+                                                               min_duration_seconds=60)],
+            ["a"],
+        )
+
+    def test_api_scope_selects_only_audio_strictly_longer_than_threshold(self):
+        config = self.config(audio_only=True, min_duration_seconds=60)
+        self.assertTrue(archive.matches_import_scope("audio", 61, config))
+        self.assertFalse(archive.matches_import_scope("audio", 60, config))
+        self.assertFalse(archive.matches_import_scope("video", 90, config))
+        self.assertFalse(archive.matches_import_scope("audio", None, config))
+
+    def test_scoped_import_skips_video_and_short_audio(self):
+        async def scenario():
+            items = [
+                message(1, kind="video", duration=120),
+                message(2, kind="audio", duration=60),
+                message(3, kind="audio", duration=61),
+            ]
+            client = FakeClient(items)
+            state = {}
+            config = self.config(audio_only=True, min_duration_seconds=60, dry_run=True)
+            with patch.object(archive, "download_record", new=AsyncMock(return_value=[])) as download:
+                await archive.import_channel(client, config, "records_live4dev", [], state)
+            self.assertEqual([call.args[1].id for call in download.await_args_list], [3])
+        asyncio.run(scenario())
 
     def test_long_caption_and_album_inheritance_preserve_original(self):
         caption = "  Заголовок\n\n" + ("Длинный текст  " * 120) + "\n#Музыка #LIVE #музыка"

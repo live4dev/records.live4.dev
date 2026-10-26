@@ -41,8 +41,8 @@ jobs:
           TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
           TELEGRAM_CHANNELS: ${{ vars.TELEGRAM_CHANNELS || 'records_live4dev' }}
           TELEGRAM_HISTORY_LIMIT: ${{ vars.TELEGRAM_HISTORY_LIMIT || '0' }}
-          TELEGRAM_MAX_FILE_MB: ${{ vars.TELEGRAM_MAX_FILE_MB || '90' }}
-        run: python tools/telegram_import.py --refresh
+          TELEGRAM_MAX_FILE_MB: ${{ vars.TELEGRAM_MAX_FILE_MB || '250' }}
+        run: python tools/telegram_import.py --refresh --audio-only --min-duration-seconds 60
 
       - name: Commit imported records
         run: |

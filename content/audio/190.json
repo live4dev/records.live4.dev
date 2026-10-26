@@ -1,27 +1,174 @@
 {
-  "id": "records_live4dev:190",
-  "kind": "audio",
-  "title": "0:00 Я тебя подожду (Майя Кристалинская)",
-  "description": "0:00 Я тебя подожду (Майя Кристалинская)\n3:51 А снег идет (Глюкоза)\n7:53 По улице моей (Пугачева)\n12:09 Акварель (Муха)\n18:52 На тихорецкую \n23:47 Нежность (Анна Герман)\n27:50 Хочется тепла (dmtrevna) \n32:25 Песенка о медведях\n38:48 Красота (Чайковская)\n42:37 Немного о смысле жизни (Настя)\n43:50 Романы Ремарка (Шапито)\n50:19 Маленький принц\n54:40 Питер (Белая гвардия)\n1:02:14 Шо такое (Рушана)\n1:06:24 А снег идет (Майя Кристаллинская) \n1:09:42 А зима будет большая (Варвара Визбор)\n1:13:55 В маленьком доме (Холли Полли)\n1:19:23 Наш сосед \n1:24:30 А напоследок я скажу (Ахмадулина)\n1:27:20 Голышом (Vas')\n——— Бонусные повторы ———\n1:34:45 И вновь идёт снег\n1:37:45 Финал — Наш сосед\n1:42:26 Теперь точно финал!",
+  "record": {
+    "id": "records_live4dev:190",
+    "channel": "records_live4dev",
+    "message_id": 190,
+    "kind": "audio",
+    "title": "0:00 Я тебя подожду (Майя Кристалинская)",
+    "description": "0:00 Я тебя подожду (Майя Кристалинская)\n3:51 А снег идет (Глюкоза)\n7:53 По улице моей (Пугачева)\n12:09 Акварель (Муха)\n18:52 На тихорецкую \n23:47 Нежность (Анна Герман)\n27:50 Хочется тепла (dmtrevna) \n32:25 Песенка о медведях\n38:48 Красота (Чайковская)\n42:37 Немного о смысле жизни (Настя)\n43:50 Романы Ремарка (Шапито)\n50:19 Маленький принц\n54:40 Питер (Белая гвардия)\n1:02:14 Шо такое (Рушана)\n1:06:24 А снег идет (Майя Кристаллинская) \n1:09:42 А зима будет большая (Варвара Визбор)\n1:13:55 В маленьком доме (Холли Полли)\n1:19:23 Наш сосед \n1:24:30 А напоследок я скажу (Ахмадулина)\n1:27:20 Голышом (Vas')\n——— Бонусные повторы ———\n1:34:45 И вновь идёт снег\n1:37:45 Финал — Наш сосед\n1:42:26 Теперь точно финал!",
+    "caption_original": "0:00 Я тебя подожду (Майя Кристалинская)\n3:51 А снег идет (Глюкоза)\n7:53 По улице моей (Пугачева)\n12:09 Акварель (Муха)\n18:52 На тихорецкую \n23:47 Нежность (Анна Герман)\n27:50 Хочется тепла (dmtrevna) \n32:25 Песенка о медведях\n38:48 Красота (Чайковская)\n42:37 Немного о смысле жизни (Настя)\n43:50 Романы Ремарка (Шапито)\n50:19 Маленький принц\n54:40 Питер (Белая гвардия)\n1:02:14 Шо такое (Рушана)\n1:06:24 А снег идет (Майя Кристаллинская) \n1:09:42 А зима будет большая (Варвара Визбор)\n1:13:55 В маленьком доме (Холли Полли)\n1:19:23 Наш сосед \n1:24:30 А напоследок я скажу (Ахмадулина)\n1:27:20 Голышом (Vas')\n——— Бонусные повторы ———\n1:34:45 И вновь идёт снег\n1:37:45 Финал — Наш сосед\n1:42:26 Теперь точно финал!",
+    "tags": [],
+    "published_at": "2025-04-09T06:25:05Z",
+    "duration_seconds": 6249.012245,
+    "file": "content/audio/190.mp3",
+    "mime_type": "audio/mpeg",
+    "size_bytes": 87487229,
+    "telegram_url": "https://t.me/records_live4dev/190",
+    "original_filename": "Квартирник.mp3",
+    "expected_size_bytes": 199972495,
+    "telegram_mime_type": "audio/mpeg",
+    "metadata_file": "content/audio/190.json",
+    "caption_file": "content/audio/190.txt",
+    "telegram_document_id": 5451984266671977530,
+    "grouped_id": null,
+    "caption_source_message_id": 190,
+    "edited_at": "2025-04-09T06:25:27Z",
+    "audio_origin": "original",
+    "availability": "local",
+    "web_optimized": true,
+    "source_size_bytes": 199972495,
+    "audio_bitrate_kbps": 112
+  },
   "caption_original": "0:00 Я тебя подожду (Майя Кристалинская)\n3:51 А снег идет (Глюкоза)\n7:53 По улице моей (Пугачева)\n12:09 Акварель (Муха)\n18:52 На тихорецкую \n23:47 Нежность (Анна Герман)\n27:50 Хочется тепла (dmtrevna) \n32:25 Песенка о медведях\n38:48 Красота (Чайковская)\n42:37 Немного о смысле жизни (Настя)\n43:50 Романы Ремарка (Шапито)\n50:19 Маленький принц\n54:40 Питер (Белая гвардия)\n1:02:14 Шо такое (Рушана)\n1:06:24 А снег идет (Майя Кристаллинская) \n1:09:42 А зима будет большая (Варвара Визбор)\n1:13:55 В маленьком доме (Холли Полли)\n1:19:23 Наш сосед \n1:24:30 А напоследок я скажу (Ахмадулина)\n1:27:20 Голышом (Vas')\n——— Бонусные повторы ———\n1:34:45 И вновь идёт снег\n1:37:45 Финал — Наш сосед\n1:42:26 Теперь точно финал!",
+  "caption_effective": "0:00 Я тебя подожду (Майя Кристалинская)\n3:51 А снег идет (Глюкоза)\n7:53 По улице моей (Пугачева)\n12:09 Акварель (Муха)\n18:52 На тихорецкую \n23:47 Нежность (Анна Герман)\n27:50 Хочется тепла (dmtrevna) \n32:25 Песенка о медведях\n38:48 Красота (Чайковская)\n42:37 Немного о смысле жизни (Настя)\n43:50 Романы Ремарка (Шапито)\n50:19 Маленький принц\n54:40 Питер (Белая гвардия)\n1:02:14 Шо такое (Рушана)\n1:06:24 А снег идет (Майя Кристаллинская) \n1:09:42 А зима будет большая (Варвара Визбор)\n1:13:55 В маленьком доме (Холли Полли)\n1:19:23 Наш сосед \n1:24:30 А напоследок я скажу (Ахмадулина)\n1:27:20 Голышом (Vas')\n——— Бонусные повторы ———\n1:34:45 И вновь идёт снег\n1:37:45 Финал — Наш сосед\n1:42:26 Теперь точно финал!",
+  "message_caption_original": "0:00 Я тебя подожду (Майя Кристалинская)\n3:51 А снег идет (Глюкоза)\n7:53 По улице моей (Пугачева)\n12:09 Акварель (Муха)\n18:52 На тихорецкую \n23:47 Нежность (Анна Герман)\n27:50 Хочется тепла (dmtrevna) \n32:25 Песенка о медведях\n38:48 Красота (Чайковская)\n42:37 Немного о смысле жизни (Настя)\n43:50 Романы Ремарка (Шапито)\n50:19 Маленький принц\n54:40 Питер (Белая гвардия)\n1:02:14 Шо такое (Рушана)\n1:06:24 А снег идет (Майя Кристаллинская) \n1:09:42 А зима будет большая (Варвара Визбор)\n1:13:55 В маленьком доме (Холли Полли)\n1:19:23 Наш сосед \n1:24:30 А напоследок я скажу (Ахмадулина)\n1:27:20 Голышом (Vas')\n——— Бонусные повторы ———\n1:34:45 И вновь идёт снег\n1:37:45 Финал — Наш сосед\n1:42:26 Теперь точно финал!",
   "caption_source_message_id": 190,
-  "tags": [],
-  "published_at": "2025-04-09T06:25:05Z",
-  "duration_seconds": 6249,
-  "file": null,
-  "mime_type": "audio/mpeg",
-  "size_bytes": 199972495,
-  "telegram_url": "https://t.me/records_live4dev/190",
-  "channel": "records_live4dev",
-  "message_id": 190,
-  "availability": "pending",
-  "original_filename": "Квартирник.mp3",
-  "expected_size_bytes": 199972495,
-  "telegram_mime_type": "audio/mpeg",
-  "metadata_file": "content/audio/190.json",
-  "caption_file": "content/audio/190.txt",
-  "telegram_metadata": "ID: 190 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2025-04-09 06:25:05+00:00 | 📎 audio, edited | views:2725, forwards:9, reactions:8",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [],
+  "caption_entities": [],
+  "date": "2025-04-09T06:25:05Z",
+  "edit_date": "2025-04-09T06:25:27Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 6249,
+      "voice": false,
+      "title": null,
+      "performer": null,
+      "waveform": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Квартирник.mp3"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 190,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2025-04-09T06:25:05Z",
+    "message": "0:00 Я тебя подожду (Майя Кристалинская)\n3:51 А снег идет (Глюкоза)\n7:53 По улице моей (Пугачева)\n12:09 Акварель (Муха)\n18:52 На тихорецкую \n23:47 Нежность (Анна Герман)\n27:50 Хочется тепла (dmtrevna) \n32:25 Песенка о медведях\n38:48 Красота (Чайковская)\n42:37 Немного о смысле жизни (Настя)\n43:50 Романы Ремарка (Шапито)\n50:19 Маленький принц\n54:40 Питер (Белая гвардия)\n1:02:14 Шо такое (Рушана)\n1:06:24 А снег идет (Майя Кристаллинская) \n1:09:42 А зима будет большая (Варвара Визбор)\n1:13:55 В маленьком доме (Холли Полли)\n1:19:23 Наш сосед \n1:24:30 А напоследок я скажу (Ахмадулина)\n1:27:20 Голышом (Vas')\n——— Бонусные повторы ———\n1:34:45 И вновь идёт снег\n1:37:45 Финал — Наш сосед\n1:42:26 Теперь точно финал!",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5451984266671977530,
+        "access_hash": 7511535126442664945,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAC+at91C981Cee0UzBKp3+bRi+5E0c="
+        },
+        "date": "2025-04-08T19:45:24Z",
+        "mime_type": "audio/mpeg",
+        "size": 199972495,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 6249,
+            "voice": false,
+            "title": null,
+            "performer": null,
+            "waveform": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Квартирник.mp3"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 2726,
+    "forwards": 9,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 0,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [],
+      "channel_id": 1290562209,
+      "max_id": null,
+      "read_max_id": null
+    },
+    "edit_date": "2025-04-09T06:25:27Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤‍🔥"
+          },
+          "count": 8,
+          "chosen_order": 0
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

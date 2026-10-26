@@ -1,27 +1,171 @@
 {
-  "id": "records_live4dev:148",
-  "kind": "audio",
-  "title": "Аудиозапись 148",
-  "description": "",
+  "record": {
+    "id": "records_live4dev:148",
+    "channel": "records_live4dev",
+    "message_id": 148,
+    "kind": "audio",
+    "title": "Данил До встречи! Ульяна Мамушкина",
+    "description": "",
+    "caption_original": "",
+    "tags": [],
+    "published_at": "2024-01-12T16:24:16Z",
+    "duration_seconds": 153.086667,
+    "file": "content/audio/148.mp3",
+    "mime_type": "audio/mpeg",
+    "size_bytes": 2450615,
+    "telegram_url": "https://t.me/records_live4dev/148",
+    "original_filename": "Данил_До_встречи!_Ульяна_Мамушкина.mp3",
+    "expected_size_bytes": 2450615,
+    "telegram_mime_type": "audio/mpeg",
+    "metadata_file": "content/audio/148.json",
+    "caption_file": "content/audio/148.txt",
+    "telegram_document_id": 5262471033759220203,
+    "grouped_id": null,
+    "caption_source_message_id": 148,
+    "edited_at": "2024-01-12T16:25:11Z",
+    "audio_origin": "original",
+    "availability": "local"
+  },
   "caption_original": "",
+  "caption_effective": "",
+  "message_caption_original": "",
   "caption_source_message_id": 148,
-  "tags": [],
-  "published_at": "2024-01-12T16:24:16Z",
-  "duration_seconds": 153,
-  "file": null,
-  "mime_type": "audio/mpeg",
-  "size_bytes": 2450615,
-  "telegram_url": "https://t.me/records_live4dev/148",
-  "channel": "records_live4dev",
-  "message_id": 148,
-  "availability": "pending",
-  "original_filename": "Данил_До_встречи!_Ульяна_Мамушкина.mp3",
-  "expected_size_bytes": 2450615,
-  "telegram_mime_type": "audio/mpeg",
-  "metadata_file": "content/audio/148.json",
-  "caption_file": "content/audio/148.txt",
-  "telegram_metadata": "ID: 148 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2024-01-12 16:24:16+00:00 | 📎 audio, edited | views:413, forwards:0, reactions:8",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [],
+  "caption_entities": [],
+  "date": "2024-01-12T16:24:16Z",
+  "edit_date": "2024-01-12T16:25:11Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 153,
+      "voice": false,
+      "title": null,
+      "performer": null,
+      "waveform": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Данил_До_встречи!_Ульяна_Мамушкина.mp3"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 148,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2024-01-12T16:24:16Z",
+    "message": "",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5262471033759220203,
+        "access_hash": 4680103650238946190,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACUat91C8R/OZu3GLk4yonR63oC7Yo="
+        },
+        "date": "2024-01-12T16:24:16Z",
+        "mime_type": "audio/mpeg",
+        "size": 2450615,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 153,
+            "voice": false,
+            "title": null,
+            "performer": null,
+            "waveform": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Данил_До_встречи!_Ульяна_Мамушкина.mp3"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 414,
+    "forwards": 0,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 0,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [],
+      "channel_id": 1290562209,
+      "max_id": null,
+      "read_max_id": null
+    },
+    "edit_date": "2024-01-12T16:25:11Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 8,
+          "chosen_order": 0
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

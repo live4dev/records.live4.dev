@@ -303,6 +303,21 @@ def save_progress(catalog: dict[str, Any], errors: list[dict[str, Any]], exporte
     write_json_atomic(MANIFEST, manifest)
 
 
+def select_originals(items: list[dict[str, Any]], audio_only: bool = False,
+                     min_duration_seconds: float = 0) -> list[dict[str, Any]]:
+    """Select an import scope without changing the saved full channel inventory."""
+    if min_duration_seconds < 0:
+        raise ValueError("Minimum duration must be zero or greater")
+    originals = [dict(item) for item in items
+                 if item.get("channel") == CHANNEL and item.get("audio_origin") != "extracted"]
+    if audio_only:
+        originals = [item for item in originals if item.get("kind") == "audio"]
+    if min_duration_seconds:
+        originals = [item for item in originals
+                     if float(item.get("duration_seconds") or 0) > min_duration_seconds]
+    return originals
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("export_json", type=Path, help="Telegram Desktop result.json")
@@ -310,15 +325,21 @@ def main() -> int:
     transfer.add_argument("--copy", action="store_true", help="Copy originals and keep export media (default: move verified originals)")
     transfer.add_argument("--move", action="store_true", help="Move verified originals into content (default)")
     parser.add_argument("--dry-run", action="store_true", help="Verify channel, media paths and original sizes without modifying the archive")
+    parser.add_argument("--audio-only", action="store_true", help="Import only original Telegram audio records")
+    parser.add_argument("--min-duration-seconds", type=float, default=0,
+                        help="Import only records strictly longer than this duration")
     args = parser.parse_args()
     export_json = args.export_json.expanduser().resolve()
     chat = select_channel(read_json(export_json, {}))
     messages = {int(message["id"]): message for message in chat["messages"] if isinstance(message, dict) and "id" in message}
     catalog = read_json(CATALOG, {"items": []})
-    originals = [dict(item) for item in catalog["items"] if item.get("channel") == CHANNEL and item.get("audio_origin") != "extracted"]
-    if not originals:
+    inventory_originals = select_originals(catalog["items"])
+    originals = select_originals(catalog["items"], args.audio_only, args.min_duration_seconds)
+    if not inventory_originals:
         raise ValueError("Saved source inventory is missing; import metadata before using the Desktop export")
-    inventoried_ids = {record["message_id"] for record in originals}
+    if not originals:
+        raise ValueError("No saved records match the selected import scope")
+    inventoried_ids = {record["message_id"] for record in inventory_originals}
     unknown_media_ids = [message_id for message_id, message in messages.items() if message_id not in inventoried_ids and (str(message.get("mime_type", "")).startswith(("audio/", "video/")) or message.get("media_type") in ("video_file", "audio_file", "voice_message", "video_message"))]
     if unknown_media_ids:
         raise ValueError(f"Export has media absent from the saved inventory; refresh channel metadata first: {unknown_media_ids}")
@@ -347,8 +368,12 @@ def main() -> int:
             print(f"Verified originals: {ready}/{len(originals)}", flush=True)
     if not args.dry_run:
         save_progress(catalog, errors, len(messages))
-    print(json.dumps({"channel": CHANNEL, "dry_run": args.dry_run, "inventoried_originals": len(originals), "verified_originals": ready, "errors": errors}, ensure_ascii=False, indent=2))
-    return 1 if errors or (not args.dry_run and catalog["import"]["status"] != "complete") else 0
+    print(json.dumps({"channel": CHANNEL, "dry_run": args.dry_run,
+                      "inventoried_originals": len(inventory_originals),
+                      "selected_originals": len(originals),
+                      "verified_originals": ready, "errors": errors}, ensure_ascii=False, indent=2))
+    scoped = args.audio_only or args.min_duration_seconds > 0
+    return 1 if errors or (not scoped and not args.dry_run and catalog["import"]["status"] != "complete") else 0
 
 
 if __name__ == "__main__":

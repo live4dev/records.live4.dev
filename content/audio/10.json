@@ -1,30 +1,198 @@
 {
-  "id": "records_live4dev:10",
-  "kind": "audio",
-  "title": "Песня попалась на диске \"Максу в днюху\" лет 20 назад, до сих пор понятия не имею кто этот Макс =). Там же был и Калугин и еще пара клёвых…",
-  "description": "Песня попалась на диске \"Максу в днюху\" лет 20 назад, до сих пор понятия не имею кто этот Макс =). Там же был и Калугин и еще пара клёвых записей. Автор рассказывает про то как учил Аве Марию (вроде на классической гитаре) и написал к ней текст. Экзамен автор завалил, но песня классная получилась.\n\n#guitar #voice",
+  "record": {
+    "id": "records_live4dev:10",
+    "channel": "records_live4dev",
+    "message_id": 10,
+    "kind": "audio",
+    "title": "Песня попалась на диске \"Максу в днюху\" лет 20 назад, до сих пор понятия не имею кто этот Макс =). Там же был и Калугин и еще пара клёвых з…",
+    "description": "Песня попалась на диске \"Максу в днюху\" лет 20 назад, до сих пор понятия не имею кто этот Макс =). Там же был и Калугин и еще пара клёвых записей. Автор рассказывает про то как учил Аве Марию (вроде на классической гитаре) и написал к ней текст. Экзамен автор завалил, но песня классная получилась.\n\n#guitar #voice",
+    "caption_original": "Песня попалась на диске \"Максу в днюху\" лет 20 назад, до сих пор понятия не имею кто этот Макс =). Там же был и Калугин и еще пара клёвых записей. Автор рассказывает про то как учил Аве Марию (вроде на классической гитаре) и написал к ней текст. Экзамен автор завалил, но песня классная получилась.\n\n#guitar #voice",
+    "tags": [
+      "guitar",
+      "voice"
+    ],
+    "published_at": "2021-05-10T21:02:43Z",
+    "duration_seconds": 224.470219,
+    "file": "content/audio/10.mp3",
+    "mime_type": "audio/mpeg",
+    "size_bytes": 7187143,
+    "telegram_url": "https://t.me/records_live4dev/10",
+    "original_filename": "Дмитрий В. - Аве Мария.mp3",
+    "expected_size_bytes": 7187143,
+    "telegram_mime_type": "audio/mpeg3",
+    "metadata_file": "content/audio/10.json",
+    "caption_file": "content/audio/10.txt",
+    "telegram_document_id": 5246750740491276155,
+    "grouped_id": null,
+    "caption_source_message_id": 10,
+    "edited_at": "2025-06-05T14:34:15Z",
+    "audio_origin": "original",
+    "availability": "local"
+  },
   "caption_original": "Песня попалась на диске \"Максу в днюху\" лет 20 назад, до сих пор понятия не имею кто этот Макс =). Там же был и Калугин и еще пара клёвых записей. Автор рассказывает про то как учил Аве Марию (вроде на классической гитаре) и написал к ней текст. Экзамен автор завалил, но песня классная получилась.\n\n#guitar #voice",
+  "caption_effective": "Песня попалась на диске \"Максу в днюху\" лет 20 назад, до сих пор понятия не имею кто этот Макс =). Там же был и Калугин и еще пара клёвых записей. Автор рассказывает про то как учил Аве Марию (вроде на классической гитаре) и написал к ней текст. Экзамен автор завалил, но песня классная получилась.\n\n#guitar #voice",
+  "message_caption_original": "Песня попалась на диске \"Максу в днюху\" лет 20 назад, до сих пор понятия не имею кто этот Макс =). Там же был и Калугин и еще пара клёвых записей. Автор рассказывает про то как учил Аве Марию (вроде на классической гитаре) и написал к ней текст. Экзамен автор завалил, но песня классная получилась.\n\n#guitar #voice",
   "caption_source_message_id": 10,
-  "tags": [
-    "guitar",
-    "voice"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 300,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 308,
+      "length": 6
+    }
   ],
-  "published_at": "2021-05-10T21:02:43Z",
-  "duration_seconds": 224,
-  "file": null,
-  "mime_type": "audio/mpeg3",
-  "size_bytes": 7187143,
-  "telegram_url": "https://t.me/records_live4dev/10",
-  "channel": "records_live4dev",
-  "message_id": 10,
-  "availability": "pending",
-  "original_filename": "Дмитрий В. - Аве Мария.mp3",
-  "expected_size_bytes": 7187143,
-  "telegram_mime_type": "audio/mpeg3",
-  "metadata_file": "content/audio/10.json",
-  "caption_file": "content/audio/10.txt",
-  "telegram_metadata": "ID: 10 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-05-10 21:02:43+00:00 | 📎 audio, edited | views:317, forwards:5, reactions:2",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 300,
+      "length": 7
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 308,
+      "length": 6
+    }
+  ],
+  "date": "2021-05-10T21:02:43Z",
+  "edit_date": "2025-06-05T14:34:15Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 224,
+      "voice": false,
+      "title": null,
+      "performer": null,
+      "waveform": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Дмитрий В. - Аве Мария.mp3"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 10,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-05-10T21:02:43Z",
+    "message": "Песня попалась на диске \"Максу в днюху\" лет 20 назад, до сих пор понятия не имею кто этот Макс =). Там же был и Калугин и еще пара клёвых записей. Автор рассказывает про то как учил Аве Марию (вроде на классической гитаре) и написал к ней текст. Экзамен автор завалил, но песня классная получилась.\n\n#guitar #voice",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5246750740491276155,
+        "access_hash": 3439383560755666073,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAKat91DIrUALecKo8aicsGz8AShOk="
+        },
+        "date": "2021-05-10T21:02:43Z",
+        "mime_type": "audio/mpeg3",
+        "size": 7187143,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 224,
+            "voice": false,
+            "title": null,
+            "performer": null,
+            "waveform": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Дмитрий В. - Аве Мария.mp3"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 300,
+        "length": 7
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 308,
+        "length": 6
+      }
+    ],
+    "views": 318,
+    "forwards": 5,
+    "replies": null,
+    "edit_date": "2025-06-05T14:34:15Z",
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionEmoji",
+            "emoticon": "❤"
+          },
+          "count": 2,
+          "chosen_order": null
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

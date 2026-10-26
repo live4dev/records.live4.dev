@@ -1,30 +1,195 @@
 {
-  "id": "records_live4dev:28",
-  "kind": "audio",
-  "title": "Аудиозапись 28",
-  "description": "#bass #voice",
+  "record": {
+    "id": "records_live4dev:28",
+    "channel": "records_live4dev",
+    "message_id": 28,
+    "kind": "audio",
+    "title": "#bass #voice",
+    "description": "#bass #voice",
+    "caption_original": "#bass #voice",
+    "tags": [
+      "bass",
+      "voice"
+    ],
+    "published_at": "2021-08-02T11:24:20Z",
+    "duration_seconds": 156.595333,
+    "file": "content/audio/28.mp3",
+    "mime_type": "audio/mpeg",
+    "size_bytes": 2506605,
+    "telegram_url": "https://t.me/records_live4dev/28",
+    "original_filename": "Юля и Данил - мамамне30.mp3",
+    "expected_size_bytes": 2506605,
+    "telegram_mime_type": "audio/mpeg",
+    "metadata_file": "content/audio/28.json",
+    "caption_file": "content/audio/28.txt",
+    "telegram_document_id": 5206495738602720746,
+    "grouped_id": null,
+    "caption_source_message_id": 28,
+    "edited_at": "2021-08-16T06:18:06Z",
+    "audio_origin": "original",
+    "availability": "local"
+  },
   "caption_original": "#bass #voice",
+  "caption_effective": "#bass #voice",
+  "message_caption_original": "#bass #voice",
   "caption_source_message_id": 28,
-  "tags": [
-    "bass",
-    "voice"
+  "entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 0,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 6,
+      "length": 6
+    }
   ],
-  "published_at": "2021-08-02T11:24:20Z",
-  "duration_seconds": 156,
-  "file": null,
-  "mime_type": "audio/mpeg",
-  "size_bytes": 2506605,
-  "telegram_url": "https://t.me/records_live4dev/28",
-  "channel": "records_live4dev",
-  "message_id": 28,
-  "availability": "pending",
-  "original_filename": "Юля и Данил - мамамне30.mp3",
-  "expected_size_bytes": 2506605,
-  "telegram_mime_type": "audio/mpeg",
-  "metadata_file": "content/audio/28.json",
-  "caption_file": "content/audio/28.txt",
-  "telegram_metadata": "ID: 28 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2021-08-02 11:24:20+00:00 | 📎 audio, edited | views:312, forwards:2",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "caption_entities": [
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 0,
+      "length": 5
+    },
+    {
+      "_": "MessageEntityHashtag",
+      "offset": 6,
+      "length": 6
+    }
+  ],
+  "date": "2021-08-02T11:24:20Z",
+  "edit_date": "2021-08-16T06:18:06Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 156,
+      "voice": false,
+      "title": null,
+      "performer": null,
+      "waveform": {
+        "encoding": "base64",
+        "data": "vVfeu++V2+9r/l33333nfXufu+9e69579zz7/nf2+WPffeWe+/z73/7v773/v/ftu///e///3977y72/TQYA"
+      }
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Юля и Данил - мамамне30.mp3"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 28,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2021-08-02T11:24:20Z",
+    "message": "#bass #voice",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5206495738602720746,
+        "access_hash": -40461259795315424,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAAAcat91DNDoSBUGsZZDAdS47wFz/Lk="
+        },
+        "date": "2021-08-02T08:54:07Z",
+        "mime_type": "audio/mpeg",
+        "size": 2506605,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 156,
+            "voice": false,
+            "title": null,
+            "performer": null,
+            "waveform": {
+              "encoding": "base64",
+              "data": "vVfeu++V2+9r/l33333nfXufu+9e69579zz7/nf2+WPffeWe+/z73/7v773/v/ftu///e///3977y72/TQYA"
+            }
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Юля и Данил - мамамне30.mp3"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 0,
+        "length": 5
+      },
+      {
+        "_": "MessageEntityHashtag",
+        "offset": 6,
+        "length": 6
+      }
+    ],
+    "views": 312,
+    "forwards": 2,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 0,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [],
+      "channel_id": 1290562209,
+      "max_id": null,
+      "read_max_id": null
+    },
+    "edit_date": "2021-08-16T06:18:06Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }

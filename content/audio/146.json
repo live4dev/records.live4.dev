@@ -1,27 +1,171 @@
 {
-  "id": "records_live4dev:146",
-  "kind": "audio",
-  "title": "Аудиозапись 146",
-  "description": "",
+  "record": {
+    "id": "records_live4dev:146",
+    "channel": "records_live4dev",
+    "message_id": 146,
+    "kind": "audio",
+    "title": "Данил - Засыпай (Саша Солнцева)",
+    "description": "",
+    "caption_original": "",
+    "tags": [],
+    "published_at": "2024-01-07T19:14:36Z",
+    "duration_seconds": 130.665333,
+    "file": "content/audio/146.mp3",
+    "mime_type": "audio/mpeg",
+    "size_bytes": 2091894,
+    "telegram_url": "https://t.me/records_live4dev/146",
+    "original_filename": "Данил - Засыпай (Саша Солнцева).mp3",
+    "expected_size_bytes": 2091894,
+    "telegram_mime_type": "audio/mpeg",
+    "metadata_file": "content/audio/146.json",
+    "caption_file": "content/audio/146.txt",
+    "telegram_document_id": 5249327909847452432,
+    "grouped_id": null,
+    "caption_source_message_id": 146,
+    "edited_at": "2024-01-07T19:15:44Z",
+    "audio_origin": "original",
+    "availability": "local"
+  },
   "caption_original": "",
+  "caption_effective": "",
+  "message_caption_original": "",
   "caption_source_message_id": 146,
-  "tags": [],
-  "published_at": "2024-01-07T19:14:36Z",
-  "duration_seconds": 130,
-  "file": null,
-  "mime_type": "audio/mpeg",
-  "size_bytes": 2091894,
-  "telegram_url": "https://t.me/records_live4dev/146",
-  "channel": "records_live4dev",
-  "message_id": 146,
-  "availability": "pending",
-  "original_filename": "Данил - Засыпай (Саша Солнцева).mp3",
-  "expected_size_bytes": 2091894,
-  "telegram_mime_type": "audio/mpeg",
-  "metadata_file": "content/audio/146.json",
-  "caption_file": "content/audio/146.txt",
-  "telegram_metadata": "ID: 146 | records.live4.dev (@records_live4dev) [id=-1001443930717] | Date: 2024-01-07 19:14:36+00:00 | 📎 audio, edited | views:444, forwards:0, reactions:9",
-  "audio_origin": "original",
-  "original_media_type": "audio",
-  "download_error": "Telegram connector download_media disabled: empty MCP Roots (deny-all); public Telegram preview does not expose this media file."
+  "entities": [],
+  "caption_entities": [],
+  "date": "2024-01-07T19:14:36Z",
+  "edit_date": "2024-01-07T19:15:44Z",
+  "grouped_id": null,
+  "reply_to": null,
+  "forwarded_from": null,
+  "document_attributes": [
+    {
+      "_": "DocumentAttributeAudio",
+      "duration": 130,
+      "voice": false,
+      "title": null,
+      "performer": null,
+      "waveform": null
+    },
+    {
+      "_": "DocumentAttributeFilename",
+      "file_name": "Данил - Засыпай (Саша Солнцева).mp3"
+    }
+  ],
+  "telegram_message": {
+    "_": "Message",
+    "id": 146,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1443930717
+    },
+    "date": "2024-01-07T19:14:36Z",
+    "message": "",
+    "out": true,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "paid_suggested_post_stars": false,
+    "paid_suggested_post_ton": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaDocument",
+      "nopremium": false,
+      "spoiler": false,
+      "video": false,
+      "round": false,
+      "voice": false,
+      "document": {
+        "_": "Document",
+        "id": 5249327909847452432,
+        "access_hash": -5614183891190340916,
+        "file_reference": {
+          "encoding": "base64",
+          "data": "BFYQol0AAACSat91C740qQ/3dUBdJEqtcRQooG8="
+        },
+        "date": "2024-01-07T19:14:36Z",
+        "mime_type": "audio/mpeg",
+        "size": 2091894,
+        "dc_id": 2,
+        "attributes": [
+          {
+            "_": "DocumentAttributeAudio",
+            "duration": 130,
+            "voice": false,
+            "title": null,
+            "performer": null,
+            "waveform": null
+          },
+          {
+            "_": "DocumentAttributeFilename",
+            "file_name": "Данил - Засыпай (Саша Солнцева).mp3"
+          }
+        ],
+        "thumbs": [],
+        "video_thumbs": []
+      },
+      "alt_documents": [],
+      "video_cover": null,
+      "video_timestamp": null,
+      "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 445,
+    "forwards": 0,
+    "replies": {
+      "_": "MessageReplies",
+      "replies": 0,
+      "replies_pts": 2007,
+      "comments": true,
+      "recent_repliers": [],
+      "channel_id": 1290562209,
+      "max_id": null,
+      "read_max_id": null
+    },
+    "edit_date": "2024-01-07T19:15:44Z",
+    "post_author": "Danil Ivanov",
+    "grouped_id": null,
+    "reactions": {
+      "_": "MessageReactions",
+      "results": [
+        {
+          "_": "ReactionCount",
+          "reaction": {
+            "_": "ReactionCustomEmoji",
+            "document_id": 5325998217156894017
+          },
+          "count": 9,
+          "chosen_order": 0
+        }
+      ],
+      "min": false,
+      "can_see_list": false,
+      "reactions_as_tags": false,
+      "recent_reactions": [],
+      "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null,
+    "suggested_post": null
+  }
 }
